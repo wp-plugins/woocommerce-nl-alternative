@@ -5,7 +5,7 @@ Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 1.1.7
 
-This WordPress plugin extends the WooCommerce plugin with the Dutch translation. It uses the informal 'je' instead of the formal 'u' .
+This WordPress plugin extends the WooCommerce plugin with the Dutch translation. It uses the informal 'je' instead of the formal 'u '.
 
 == Description ==
 
