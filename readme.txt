@@ -5,16 +5,11 @@ Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 1.1.7
 
-This WordPress plugin extends the WooCommerce plugin with the Dutch translation. It uses the informal 'je' instead of the formal 'u '.
+This WordPress plugin extends the WooCommerce plugin with the Dutch translation. It uses the informal 'je' instead of formal u.
 
 == Description ==
 
-* <strong>WooCommerce</strong> 2.3.8
-* <strong>WooCommerce EU VAT Number</strong> 1.4
-* <strong>WooCommerce Subscribe to Newsletter</strong> 1.0.4
-* <strong>WooCommerce Gateway Fees</strong> 1.2.1
-* <strong>WooCommerce - Gravity Forms Product Add-Ons</strong> 2.4.2
-* <strong>WooCommerce Print Invoices & Delivery Notes</strong> 2.0.2
+Supports WooCommerce Version 2.3.9.
 
 > This plugin requires the <a href="http://wordpress.org/extend/plugins/woocommerce/">WooCommerce plugin</a>.
 
@@ -29,6 +24,12 @@ WordPress installation and then activate the Plugin from the Plugins page.
 You should not activate it at the same time as the WooCommerce (nl) plugin.
 
 == Changelog ==
+
+= 1.1.8 =
+* 2015-05-29
+* WooCommerce 2.3.9.
+* Only support Main WooCommerce, no addons.
+* Simplify code to absolute minimum.
 
 = 1.1.7 =
 * 2015-05-27
