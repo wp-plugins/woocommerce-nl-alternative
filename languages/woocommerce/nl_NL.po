@@ -20,8 +20,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WooCommerce\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
-"POT-Creation-Date: 2015-04-17 15:06:22+00:00\n"
-"PO-Revision-Date: 2015-05-27 13:45+0100\n"
+"POT-Creation-Date: 2015-05-19 20:00:59+00:00\n"
+"PO-Revision-Date: 2015-05-29 12:13+0100\n"
 "Last-Translator: Marcel Pol <marcel@timelord.nl>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/"
 "woocommerce/language/nl_NL/)\n"
@@ -5245,35 +5245,35 @@ msgid "You do not have permission to create products"
 msgstr "Je hebt geen rechten om producten aan te maken"
 
 #: includes/api/class-wc-api-products.php:212
-#: includes/api/class-wc-api-products.php:326
+#: includes/api/class-wc-api-products.php:327
 msgid "Invalid product type - the product type must be any of these: %s"
 msgstr ""
 "Ongeldig producttype, het producttype moet een van de volgende zijn: %s"
 
-#: includes/api/class-wc-api-products.php:420
-#: includes/api/class-wc-api-products.php:456
+#: includes/api/class-wc-api-products.php:421
+#: includes/api/class-wc-api-products.php:457
 msgid "You do not have permission to read product categories"
 msgstr "Je hebt geen rechten om productcategorieën te bekijken"
 
-#: includes/api/class-wc-api-products.php:451
+#: includes/api/class-wc-api-products.php:452
 msgid "Invalid product category ID"
 msgstr "Ongeldig productcategorienummer"
 
-#: includes/api/class-wc-api-products.php:462
+#: includes/api/class-wc-api-products.php:463
 msgid "A product category with the provided ID could not be found"
 msgstr "Een productcategorie met het opgegeven nummer is niet gevonden"
 
-#: includes/api/class-wc-api-products.php:725
-#: includes/api/class-wc-api-products.php:1183
+#: includes/api/class-wc-api-products.php:726
+#: includes/api/class-wc-api-products.php:1184
 msgid "The SKU already exists on another product"
 msgstr "De SKU bestaat al bij een ander product"
 
-#: includes/api/class-wc-api-products.php:1136
+#: includes/api/class-wc-api-products.php:1137
 msgid "Variation #%s of %s"
 msgstr "Variatie #%s van %s"
 
-#: includes/api/class-wc-api-products.php:1611
-#: includes/api/class-wc-api-products.php:1612
+#: includes/api/class-wc-api-products.php:1613
+#: includes/api/class-wc-api-products.php:1614
 #: includes/api/v1/class-wc-api-products.php:461
 #: includes/api/v1/class-wc-api-products.php:462
 #: includes/wc-product-functions.php:272
@@ -5281,19 +5281,19 @@ msgstr "Variatie #%s van %s"
 msgid "Placeholder"
 msgstr "Placeholder"
 
-#: includes/api/class-wc-api-products.php:1686
+#: includes/api/class-wc-api-products.php:1688
 msgid "Invalid URL %s"
 msgstr "Ongeldige URL %s"
 
-#: includes/api/class-wc-api-products.php:1698
+#: includes/api/class-wc-api-products.php:1700
 msgid "Error getting remote image %s"
 msgstr "Fout bij het laden van afbeelding %s"
 
-#: includes/api/class-wc-api-products.php:1727
+#: includes/api/class-wc-api-products.php:1729
 msgid "Zero size file downloaded"
 msgstr "Bestand met grootte 0 gedownload"
 
-#: includes/api/class-wc-api-products.php:1861
+#: includes/api/class-wc-api-products.php:1863
 msgid "Invalid product SKU"
 msgstr "Ongeldig product SKU nummer"
 
@@ -5833,23 +5833,23 @@ msgstr "E-mailadres"
 msgid "Phone"
 msgstr "Telefoon"
 
-#: includes/class-wc-coupon.php:683
+#: includes/class-wc-coupon.php:681
 msgid "Coupon code applied successfully."
 msgstr "Kortingsboncode succesvol toegepast."
 
-#: includes/class-wc-coupon.php:686
+#: includes/class-wc-coupon.php:684
 msgid "Coupon code removed successfully."
 msgstr "Kortingsboncode succesvol verwijderd."
 
-#: includes/class-wc-coupon.php:704
+#: includes/class-wc-coupon.php:702
 msgid "Coupon is not valid."
 msgstr "Kortingsbon is niet geldig."
 
-#: includes/class-wc-coupon.php:707 includes/class-wc-coupon.php:790
-msgid "Coupon does not exist!"
-msgstr "Kortingsbon bestaat niet."
+#: includes/class-wc-coupon.php:705
+msgid "Coupon \"%s\" does not exist!"
+msgstr "Kortingsbon \"%s\" bestaat niet."
 
-#: includes/class-wc-coupon.php:710
+#: includes/class-wc-coupon.php:708
 msgid ""
 "Sorry, it seems the coupon \"%s\" is invalid - it has now been removed from "
 "your order."
@@ -5857,7 +5857,7 @@ msgstr ""
 "Sorry, het lijkt er op dat kortingsbon \"%s\" ongeldig is, deze is nu "
 "verwijderd van je bestelling."
 
-#: includes/class-wc-coupon.php:713
+#: includes/class-wc-coupon.php:711
 msgid ""
 "Sorry, it seems the coupon \"%s\" is not yours - it has now been removed "
 "from your order."
@@ -5865,11 +5865,11 @@ msgstr ""
 "Sorry, het lijkt erop dat kortingsbon \"%s\" niet van jou is, deze is nu "
 "verwijderd van je bestelling."
 
-#: includes/class-wc-coupon.php:716
+#: includes/class-wc-coupon.php:714
 msgid "Coupon code already applied!"
 msgstr "Kortingsboncode al gebruikt."
 
-#: includes/class-wc-coupon.php:719
+#: includes/class-wc-coupon.php:717
 msgid ""
 "Sorry, coupon \"%s\" has already been applied and cannot be used in "
 "conjunction with other coupons."
@@ -5877,42 +5877,46 @@ msgstr ""
 "Sorry, kortingsbon \"%s\" is al gebruikt en kan niet worden gebruikt in "
 "combinatie met andere kortingen."
 
-#: includes/class-wc-coupon.php:722
+#: includes/class-wc-coupon.php:720
 msgid "Coupon usage limit has been reached."
 msgstr "De gebruikslimiet van de kortingsbon is bereikt."
 
-#: includes/class-wc-coupon.php:725
+#: includes/class-wc-coupon.php:723
 msgid "This coupon has expired."
 msgstr "Deze kortingsbon is verlopen."
 
-#: includes/class-wc-coupon.php:728
+#: includes/class-wc-coupon.php:726
 msgid "The minimum spend for this coupon is %s."
 msgstr "De minimale besteding voor deze kortingsbon is %s."
 
-#: includes/class-wc-coupon.php:731
+#: includes/class-wc-coupon.php:729
 msgid "The maximum spend for this coupon is %s."
 msgstr "De maximale besteding voor deze kortingsbon is %s."
 
-#: includes/class-wc-coupon.php:734
+#: includes/class-wc-coupon.php:732
 msgid "Sorry, this coupon is not applicable to your cart contents."
 msgstr ""
 "Sorry, deze kortingsbon kan niet worden gebruikt in combinatie met de inhoud "
 "van je winkelmand."
 
-#: includes/class-wc-coupon.php:747
+#: includes/class-wc-coupon.php:745
 msgid "Sorry, this coupon is not applicable to the products: %s."
 msgstr "Sorry, deze kortingbon kan niet worden gebruikt met de producten: %s."
 
-#: includes/class-wc-coupon.php:767
+#: includes/class-wc-coupon.php:765
 msgid "Sorry, this coupon is not applicable to the categories: %s."
 msgstr ""
 "Sorry: deze kortingsbon kan niet worden toegepast op de categorieën: %s."
 
-#: includes/class-wc-coupon.php:770
+#: includes/class-wc-coupon.php:768
 msgid "Sorry, this coupon is not valid for sale items."
 msgstr "Sorry, deze kortingsbon is niet geldig voor afgeprijsde artikelen."
 
-#: includes/class-wc-coupon.php:793
+#: includes/class-wc-coupon.php:788
+msgid "Coupon does not exist!"
+msgstr "Kortingsbon bestaat niet."
+
+#: includes/class-wc-coupon.php:791
 msgid "Please enter a coupon code."
 msgstr "Vul een kortingsboncode in."
 
@@ -7357,15 +7361,15 @@ msgstr "PayPal Acceptatieteken"
 msgid "What is PayPal?"
 msgstr "Wat is PayPal?"
 
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:203
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:204
 msgid "Gateway Disabled"
 msgstr "Gateway uitgeschakeld"
 
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:203
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:204
 msgid "PayPal does not support your store currency."
 msgstr "PayPal biedt geen ondersteuning voor jouw winkelvaluta."
 
-#: includes/gateways/paypal/class-wc-gateway-paypal.php:291
+#: includes/gateways/paypal/class-wc-gateway-paypal.php:292
 msgid "Refunded %s - Refund ID: %s"
 msgstr "Terugbetaald %s, Terugbetalingsnummer: %s"
 
@@ -7791,7 +7795,7 @@ msgid ""
 "sandbox mode."
 msgstr ""
 "Simplify Commerce is ingeschakeld, maar de <a href=\"%s\">SSL verplicht "
-"optie</a> is uitgeschakeld; afrekenen kan onveilig zijn! Schakel SSL in en "
+"optie</a> is uitgeschakeld; afrekenen kan onveilig zijn. Schakel SSL in en "
 "verzeker jezelf ervan dat jouw server een geldig SSL-certificaat heeft, "
 "Simplify Commerce werkt nu alleen in sandbox mode."
 
@@ -8665,7 +8669,7 @@ msgid ""
 "The shop_order_status taxonomy is no more in WooCommerce 2.2! You should use "
 "the new WooCommerce post_status instead, <a href=\"%s\">read more...</a>"
 msgstr ""
-"The winkel_bestelling_status taxonomie bestaat niet meer in WooCommerce 2.2! "
+"The winkel_bestelling_status taxonomie bestaat niet meer in WooCommerce 2.2. "
 "Gebruik de nieuwe WooCommerce post_status, <a href=\"%s\">lees meer...</a>"
 
 #: includes/wc-deprecated-functions.php:712
@@ -8673,7 +8677,7 @@ msgid ""
 "The \"publish\" order status is no more in WooCommerce 2.2! You should use "
 "the new WooCommerce post_status instead, <a href=\"%s\">read more...</a>"
 msgstr ""
-"De \"publiceer\" bestellingstatus bestaat niet meer in WooCommerce 2.2! "
+"De \"publiceer\" bestellingstatus bestaat niet meer in WooCommerce 2.2. "
 "Gebruik de nieuwe WooCommerce post_status, <a href=\"%s\">lees meer...</a>"
 
 #: includes/wc-notice-functions.php:27 includes/wc-notice-functions.php:59
@@ -10325,12 +10329,12 @@ msgctxt "Order date parsed by strftime"
 msgid "%b %d, %Y @ %I:%M %p"
 msgstr "%e %b %Y om %H:%M"
 
-#: includes/wc-page-functions.php:106
+#: includes/wc-page-functions.php:112
 msgctxt "edit-address-slug"
 msgid "billing"
 msgstr "facturatie"
 
-#: includes/wc-page-functions.php:107
+#: includes/wc-page-functions.php:113
 msgctxt "edit-address-slug"
 msgid "shipping"
 msgstr "verzending"
@@ -10369,6 +10373,3 @@ msgstr "Zoeken naar:"
 msgctxt "submit button"
 msgid "Search"
 msgstr "Zoeken"
-
-#~ msgid "Coupon \"%s\" does not exist!"
-#~ msgstr "Kortingsbon \"%s\" bestaat niet!"
