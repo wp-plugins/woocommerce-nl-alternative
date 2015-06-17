@@ -17,8 +17,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WooCommerce\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
-"POT-Creation-Date: 2015-06-01 14:24:01+00:00\n"
-"PO-Revision-Date: 2015-06-02 21:32+0100\n"
+"POT-Creation-Date: 2015-06-10 17:29:07+00:00\n"
+"PO-Revision-Date: 2015-06-17 20:40+0100\n"
 "Last-Translator: Marcel Pol <marcel@timelord.nl>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/"
 "woocommerce/language/nl_NL/)\n"
@@ -422,7 +422,7 @@ msgid ""
 "If using custom ordering, you can drag and drop the terms in this attribute."
 msgstr ""
 "Bepaalt de sorteervolgorde van de termen op de productpagina's aan de front-"
-"end. Als je gebruik maakt van een handmatige volgorde, kan je de termen in "
+"end. Als je gebruik maakt van een handmatige volgorde, kun je de termen in "
 "deze eigenschap naar de juiste plaats slepen."
 
 #: includes/admin/class-wc-admin-attributes.php:325
@@ -486,7 +486,7 @@ msgid ""
 "can use these attributes in the shop sidebar using the \"layered nav\" "
 "widgets. Please note: you cannot rename an attribute later on."
 msgstr ""
-"Met eigenschappen kan je extra productgegevens definiëren, zoals maat of "
+"Met eigenschappen kun je extra productgegevens definiëren, zoals maat of "
 "kleur. Je kunt deze eigenschappen gebruiken in de kantlijn van de winkel met "
 "de widgets voor \"gelaagde navigatie\". Let op: de naam van een eigenschap "
 "kan achteraf niet meer veranderd worden."
@@ -602,14 +602,14 @@ msgstr "Support"
 
 #: includes/admin/class-wc-admin-help.php:55
 msgid ""
-"After %sreading the documentation%s, for further assistance you can use our "
-"%scommunity forum%s if you get stuck. For help with premium add-ons from "
+"After %sreading the documentation%s, for further assistance you can use the "
+"%sWordPress.org support forum%s. For help with premium add-ons from "
 "WooThemes, or if you are a WooThemes customer, you can %suse our helpdesk%s."
 msgstr ""
-"Na het %slezen van de documentatie%s kan je voor verdere hulp gebruik maken "
-"van ons %s community forum%s. Voor ondersteuning van premium WooCommerce add-"
-"ons of als je een WooThemes klant bent, kan je gebruik maken van %sonze "
-"helpdesk%s."
+"Na het %slezen van de documentatie%s kun je voor verdere hulp gebruik maken "
+"van het %sWordPress.org support forum%s. Voor ondersteuning van premium add-"
+"ons van WooThemes of als je een WooThemes klant bent, kun je gebruik maken "
+"van %sonze helpdesk%s."
 
 #: includes/admin/class-wc-admin-help.php:57
 msgid ""
@@ -628,8 +628,8 @@ msgid "System Status"
 msgstr "Systeemstatus"
 
 #: includes/admin/class-wc-admin-help.php:59
-msgid "WooThemes Community Support"
-msgstr "WooThemes Community Support"
+msgid "WordPress.org Support Forum"
+msgstr "WordPress.org Support Forum"
 
 #: includes/admin/class-wc-admin-help.php:59
 msgid "WooThemes Customer Support"
@@ -646,7 +646,7 @@ msgid ""
 "\">contribution guide</a> prior to submitting your report. Be as descriptive "
 "as possible and please include your <a href=\"%s\">system status report</a>."
 msgstr ""
-"Als je een bug in de WooCommerce core vindt, kan je een ticket aanmaken via "
+"Als je een bug in de WooCommerce core vindt, kun je een ticket aanmaken via "
 "<a href=\"%s\">Github issues</a>. Lees eerst de <a href=\"%s\">contribution "
 "guide</a> voordat je een rapport indient. Wees zo beschrijvend mogelijk en "
 "voeg het <a href=\"%s\">system status report</a> toe."
@@ -2134,9 +2134,9 @@ msgid ""
 "take a look at the free %sWooCommerce Colors plugin%s. This lets you change "
 "the colors with a live preview."
 msgstr ""
-"Als je in versie 2.3 de 'look and feel' van de front-end wilt aanpassen, "
-"bekijk dan de gratis %sWooCommerce Colors plug-in%s. Dit stelt je in staat "
-"om de kleuren aan te passen in een live preview."
+"Als je in versie 2.3 het uiterlijk van de front-end wilt aanpassen, bekijk "
+"dan de gratis %sWooCommerce Colors plugin%s. Dit stelt je in staat om de "
+"kleuren aan te passen met een live preview."
 
 #: includes/admin/class-wc-admin-welcome.php:279
 msgid "Improved Reports"
@@ -2290,7 +2290,7 @@ msgid ""
 "Before you can upload your import file, you will need to fix the following "
 "error:"
 msgstr ""
-"Voordat je een importbestand kan uploaden, moet je de volgende fouten "
+"Voordat je een importbestand kunt uploaden, moet je de volgende fouten "
 "corrigeren:"
 
 #: includes/admin/importers/class-wc-tax-rate-importer.php:226
@@ -2371,7 +2371,7 @@ msgstr "Geen minimum"
 msgid ""
 "This field allows you to set the minimum subtotal needed to use the coupon."
 msgstr ""
-"Hier kan je het minimum subtotaal instellen dat nodig is om deze kortingsbon "
+"Hier kun je het minimum subtotaal instellen dat nodig is om deze kortingsbon "
 "te kunnen gebruiken."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:87
@@ -2387,7 +2387,7 @@ msgid ""
 "This field allows you to set the maximum subtotal allowed when using the "
 "coupon."
 msgstr ""
-"Hier kan je het maximaal toegestane subtotaal in stellen voor het gebruik "
+"Hier kun je het maximaal toegestane subtotaal in stellen voor het gebruik "
 "van deze kortingsbon."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:90
@@ -3287,7 +3287,7 @@ msgid ""
 "type. Allowed types include: %s"
 msgstr ""
 "Het downloadbare bestand %s kan niet gebruikt worden omdat het geen "
-"toegestaan bestandstype is. Toegestane types zijn oa.: %s"
+"toegestaan bestandstype is. Toegestane types zijn o.a.: %s"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1266
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1538
@@ -3619,8 +3619,8 @@ msgstr "Alle"
 msgid ""
 "Enter a SKU for this variation or leave blank to use the parent product SKU."
 msgstr ""
-"Voer een SKU in voor deze variatie of laat deze leeg om de SKU van het "
-"hoofdproduct te gebruiken."
+"Voer een SKU in voor deze variatie of laat deze leeg om de SKU van het hoofd-"
+"product te gebruiken."
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:74
 #: includes/admin/settings/class-wc-settings-checkout.php:278
@@ -3684,7 +3684,7 @@ msgid ""
 "blank to use the parent product's options."
 msgstr ""
 "Voer een aantal in om voorraadbeheer op variatieniveau te activeren, of laat "
-"deze leeg om de instellingen van het hoofdproduct te gebruiken."
+"deze leeg om de instellingen van het hoofd-product te gebruiken."
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:146
 msgid ""
@@ -3692,7 +3692,7 @@ msgid ""
 "weight."
 msgstr ""
 "Voer een gewicht in voor deze variatie of laat deze leeg om het gewicht van "
-"het hoofdproduct te gebruiken."
+"het hoofd-product te gebruiken."
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:154
 msgid "Dimensions (L&times;W&times;H)"
@@ -3705,7 +3705,7 @@ msgstr "Verzendklasse:"
 #: includes/admin/meta-boxes/views/html-variation-admin.php:169
 #: includes/admin/meta-boxes/views/html-variation-admin.php:182
 msgid "Same as parent"
-msgstr "Zelfde als hoofditem"
+msgstr "Zelfde als hoofd-item"
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:180
 msgid "Tax class:"
@@ -4684,7 +4684,7 @@ msgstr "Duizendtalscheiding"
 #: includes/admin/settings/class-wc-settings-general.php:162
 msgid "This sets the thousand separator of displayed prices."
 msgstr ""
-"Hier kan je het scheidingsteken instellen dat getoond wordt tussen de "
+"Hier kun je het scheidingsteken instellen dat getoond wordt tussen de "
 "duizendtallen van de prijzen."
 
 #: includes/admin/settings/class-wc-settings-general.php:171
@@ -4695,7 +4695,7 @@ msgstr "Decimaalscheiding"
 #: includes/admin/settings/class-wc-settings-general.php:172
 msgid "This sets the decimal separator of displayed prices."
 msgstr ""
-"Hier kan je het scheidingsteken instellen dat getoond wordt voor decimalen "
+"Hier kun je het scheidingsteken instellen dat getoond wordt voor decimalen "
 "van de prijzen."
 
 #: includes/admin/settings/class-wc-settings-general.php:181
@@ -4706,7 +4706,7 @@ msgstr "Aantal decimalen"
 #: includes/admin/settings/class-wc-settings-general.php:182
 msgid "This sets the number of decimal points shown in displayed prices."
 msgstr ""
-"Hier kan je het aantal decimalen instellen dat wordt getoond in de prijzen."
+"Hier kun je het aantal decimalen instellen dat wordt getoond in de prijzen."
 
 #: includes/admin/settings/class-wc-settings-integrations.php:28
 msgid "Integration"
@@ -4741,7 +4741,7 @@ msgid ""
 "This sets the base page of your shop - this is where your product archive "
 "will be."
 msgstr ""
-"Hier kan je de basispagina van de winkel instellen. Op de basispagina wordt "
+"Hier kun je de basispagina van de winkel instellen. Op de basispagina wordt "
 "het productarchief getoond."
 
 #: includes/admin/settings/class-wc-settings-products.php:103
@@ -5800,7 +5800,7 @@ msgstr "Home URL"
 
 #: includes/admin/views/html-admin-page-status-report.php:31
 msgid "The URL of your site's homepage."
-msgstr "De URL van je site's homepage."
+msgstr "De URL van je site's homepagina."
 
 #: includes/admin/views/html-admin-page-status-report.php:35
 msgid "Site URL"
@@ -6023,7 +6023,7 @@ msgid ""
 "remote services."
 msgstr ""
 "Payment gateways kunnen gebruik maken van cURL om te communiceren met "
-"externe servers om betalingen te autoriseren. Andere plug-ins kunnen ook "
+"externe servers om betalingen te autoriseren. Andere plugins kunnen ook "
 "gebruik maken van deze methode om met externe services te communiceren."
 
 #: includes/admin/views/html-admin-page-status-report.php:186
@@ -6053,7 +6053,7 @@ msgid ""
 "some gateway plugins which use SOAP may not work as expected."
 msgstr ""
 "Jouw server heeft de <a href=\"%s\">SOAP Client</a> klasse niet geactiveerd "
-"- een aantal gateway plug-ins die SOAP gebruiken werken mogelijk niet zoals "
+"- een aantal gateway plugins die SOAP gebruiken werken mogelijk niet zoals "
 "verwacht."
 
 #: includes/admin/views/html-admin-page-status-report.php:202
@@ -6127,7 +6127,7 @@ msgid ""
 "WooCommerce plugins may use this method of communication when checking for "
 "plugin updates."
 msgstr ""
-"WooCommerce plug-ins kunnen deze communicatiemethode gebruiken wanneer er "
+"WooCommerce plugins kunnen deze communicatiemethode gebruiken wanneer er "
 "voor updates gecheckt wordt."
 
 #: includes/admin/views/html-admin-page-status-report.php:255
@@ -6135,7 +6135,7 @@ msgid ""
 "wp_remote_get() failed. The WooCommerce plugin updater won't work with your "
 "server. Contact your hosting provider."
 msgstr ""
-"wp_remote_get() mislukt. De WooCommerce plug-in updater werkt niet met jouw "
+"wp_remote_get() mislukt. De WooCommerce plugin updater werkt niet met jouw "
 "server. Neem contact op met je hosting provider."
 
 #: includes/admin/views/html-admin-page-status-report.php:287
@@ -6163,11 +6163,11 @@ msgstr ""
 
 #: includes/admin/views/html-admin-page-status-report.php:311
 msgid "Active Plugins"
-msgstr "Actieve plug-ins"
+msgstr "Actieve Plugins"
 
 #: includes/admin/views/html-admin-page-status-report.php:335
 msgid "Visit plugin homepage"
-msgstr "Bezoek de plug-in homepage"
+msgstr "Bezoek de plugin homepagina"
 
 #: includes/admin/views/html-admin-page-status-report.php:363
 msgid "Network enabled"
@@ -6321,33 +6321,33 @@ msgid ""
 "personally we recommend using a child theme. See: <a href=\"%s\" target="
 "\"_blank\">How to create a child theme</a>"
 msgstr ""
-"Als je wijzigingen aanbrengt in WooCommerce of in een hoofdthema dat je niet "
-"zelf gebouwd hebt, raden we het gebruik van een child thema aan. Zie: <a "
-"href=\"%s\" target=\"_blank\">Hoe maak je een child thema</a>"
+"Als je wijzigingen aanbrengt in WooCommerce of in een hoofd-thema dat je "
+"niet zelf gebouwd hebt, raden we het gebruik van een child thema aan. Zie: "
+"<a href=\"%s\" target=\"_blank\">Hoe maak je een child thema</a>"
 
 #: includes/admin/views/html-admin-page-status-report.php:598
 msgid "Parent Theme Name"
-msgstr "Hoofdthema Naam"
+msgstr "Hoofd-thema Naam"
 
 #: includes/admin/views/html-admin-page-status-report.php:599
 msgid "The name of the parent theme."
-msgstr "De naam van het hoofdthema."
+msgstr "De naam van het hoofd-thema."
 
 #: includes/admin/views/html-admin-page-status-report.php:603
 msgid "Parent Theme Version"
-msgstr "Hoofdthema Versie"
+msgstr "Hoofd-thema Versie"
 
 #: includes/admin/views/html-admin-page-status-report.php:604
 msgid "The installed version of the parent theme."
-msgstr "De geïnstalleerde versie van het hoofdthema."
+msgstr "De geïnstalleerde versie van het hoofd-thema."
 
 #: includes/admin/views/html-admin-page-status-report.php:608
 msgid "Parent Theme Author URL"
-msgstr "Hoofdthema Auteur URL"
+msgstr "Hoofd-thema Auteur URL"
 
 #: includes/admin/views/html-admin-page-status-report.php:609
 msgid "The parent theme developers URL."
-msgstr "De URL van de hoofdthema-ontwikkelaar."
+msgstr "De URL van de hoofd-thema-ontwikkelaar."
 
 #: includes/admin/views/html-admin-page-status-report.php:614
 msgid "WooCommerce Support"
@@ -6428,7 +6428,7 @@ msgid ""
 "uninstalling via Plugins > Delete."
 msgstr ""
 "Deze tool verwijdert alle product- en ordergegevens wanneer WooCommerce "
-"verwijderd wordt via plug-ins > verwijderen."
+"verwijderd wordt via Plugins > Verwijderen."
 
 #: includes/admin/views/html-admin-page-status-tools.php:69
 msgid "Save Changes"
@@ -6547,12 +6547,12 @@ msgid ""
 msgstr ""
 "<strong>De opties voor Front-end Stijlen worden niet langer ondersteund</"
 "strong> &#8211; Als je de mogelijkheid wilt behouden om de kleuren van je "
-"winkel te bewerken, kan je het beste via WordPress.org de WooCommerce Colors "
-"plug-in installeren."
+"winkel te bewerken, kun je het beste via WordPress.org de WooCommerce Colors "
+"plugin installeren."
 
 #: includes/admin/views/html-notice-frontend-colors.php:21
 msgid "Install the new WooCommerce Colors plugin"
-msgstr "Installeer de nieuwe WooCommerce Colors plug-in"
+msgstr "Installeer de nieuwe WooCommerce Colors plugin"
 
 #: includes/admin/views/html-notice-frontend-colors.php:21
 #: includes/admin/views/html-notice-template-check.php:14
@@ -6682,7 +6682,7 @@ msgstr "http://www.woothemes.com/woocommerce/"
 
 #. Description of the plugin/theme
 msgid "An e-commerce toolkit that helps you sell anything. Beautifully."
-msgstr "Een e-commerce toolkit waarmee je alles kan verkopen. Prachtig."
+msgstr "Een e-commerce toolkit waarmee je alles kunt verkopen. Prachtig."
 
 #. Author of the plugin/theme
 msgid "WooThemes"
@@ -6908,3 +6908,6 @@ msgstr "Mijn account"
 msgctxt "WC Pages links in the System Status"
 msgid "Edit %s page"
 msgstr "%s pagina bewerken"
+
+#~ msgid "WooThemes Community Support"
+#~ msgstr "WooThemes Community Support"

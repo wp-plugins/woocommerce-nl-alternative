@@ -20,8 +20,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WooCommerce\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
-"POT-Creation-Date: 2015-06-01 14:24:00+00:00\n"
-"PO-Revision-Date: 2015-06-02 21:33+0100\n"
+"POT-Creation-Date: 2015-06-10 17:29:07+00:00\n"
+"PO-Revision-Date: 2015-06-17 20:38+0100\n"
 "Last-Translator: Marcel Pol <marcel@timelord.nl>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/"
 "woocommerce/language/nl_NL/)\n"
@@ -1533,7 +1533,8 @@ msgid "New Brunswick"
 msgstr "New Brunswick"
 
 #: i18n/states/CA.php:17
-msgid "Newfoundland"
+#, fuzzy
+msgid "Newfoundland and Labrador"
 msgstr "Newfoundland en Labrador"
 
 #: i18n/states/CA.php:18
@@ -5431,148 +5432,148 @@ msgstr "Productnummer is verplicht"
 msgid "Product ID provided does not match this line item"
 msgstr "Opgegeven Productnummer komt niet overeen met deze bestelregel"
 
-#: includes/api/class-wc-api-orders.php:866
+#: includes/api/class-wc-api-orders.php:871
 msgid "Product is invalid"
 msgstr "Product is ongeldig"
 
-#: includes/api/class-wc-api-orders.php:871
+#: includes/api/class-wc-api-orders.php:876
 msgid "Product quantity must be a positive float"
 msgstr "Productaantal moet positief zijn"
 
-#: includes/api/class-wc-api-orders.php:876
+#: includes/api/class-wc-api-orders.php:881
 msgid "Product quantity is required"
 msgstr "Productaantal is verplicht"
 
-#: includes/api/class-wc-api-orders.php:890
+#: includes/api/class-wc-api-orders.php:895
 msgid "The product variation is invalid"
 msgstr "De productvariatie is ongeldig"
 
-#: includes/api/class-wc-api-orders.php:921
+#: includes/api/class-wc-api-orders.php:926
 msgid "Cannot create line item, try again"
 msgstr "Kan bestelregel niet aanmaken, probeer het nog eens"
 
-#: includes/api/class-wc-api-orders.php:929
+#: includes/api/class-wc-api-orders.php:934
 msgid "Cannot update line item, try again"
 msgstr "Kan bestelregel niet bijwerken, probeer het nog eens"
 
-#: includes/api/class-wc-api-orders.php:947
+#: includes/api/class-wc-api-orders.php:1003
 msgid "Shipping total must be a positive amount"
 msgstr "Het totaal van de verzendkosten moet een positief bedrag zijn"
 
-#: includes/api/class-wc-api-orders.php:954
+#: includes/api/class-wc-api-orders.php:1010
 msgid "Shipping method ID is required"
 msgstr "Verzendmethodenummer is verplicht"
 
-#: includes/api/class-wc-api-orders.php:962
+#: includes/api/class-wc-api-orders.php:1018
 msgid "Cannot create shipping method, try again"
 msgstr "Kan verzendmethode niet aanmaken, probeer het nog eens"
 
-#: includes/api/class-wc-api-orders.php:984
+#: includes/api/class-wc-api-orders.php:1040
 msgid "Cannot update shipping method, try again"
 msgstr "Kan verzendmethode niet bijwerken, probeer het nog eens"
 
-#: includes/api/class-wc-api-orders.php:1004
+#: includes/api/class-wc-api-orders.php:1060
 msgid "Fee title is required"
 msgstr "Kostentitel is verplicht"
 
-#: includes/api/class-wc-api-orders.php:1016
+#: includes/api/class-wc-api-orders.php:1072
 msgid "Fee tax class is required when fee is taxable"
 msgstr "Belastingklasse is verplicht als kosten belastbaar zijn"
 
-#: includes/api/class-wc-api-orders.php:1037
+#: includes/api/class-wc-api-orders.php:1093
 msgid "Cannot create fee, try again"
 msgstr "Kan kosten niet aanmaken, probeer het nog eens"
 
-#: includes/api/class-wc-api-orders.php:1063
+#: includes/api/class-wc-api-orders.php:1119
 msgid "Cannot update fee, try again"
 msgstr "Kan kosten niet bijwerken, probeer het nog eens"
 
-#: includes/api/class-wc-api-orders.php:1081
+#: includes/api/class-wc-api-orders.php:1137
 msgid "Coupon discount total must be a positive amount"
 msgstr "De totale korting van de kortingsbon moet een positief bedrag zijn"
 
-#: includes/api/class-wc-api-orders.php:1088
+#: includes/api/class-wc-api-orders.php:1144
 msgid "Coupon code is required"
 msgstr "Kortingsboncode is verplicht"
 
-#: includes/api/class-wc-api-orders.php:1094
+#: includes/api/class-wc-api-orders.php:1150
 msgid "Cannot create coupon, try again"
 msgstr "Kan kortingsbon niet aanmaken, probeer het nog eens "
 
-#: includes/api/class-wc-api-orders.php:1112
+#: includes/api/class-wc-api-orders.php:1168
 msgid "Cannot update coupon, try again"
 msgstr "Kan kortingsbon niet bijwerken, probeer het nog eens"
 
-#: includes/api/class-wc-api-orders.php:1177
-#: includes/api/class-wc-api-orders.php:1277
-#: includes/api/class-wc-api-orders.php:1339
+#: includes/api/class-wc-api-orders.php:1233
+#: includes/api/class-wc-api-orders.php:1333
+#: includes/api/class-wc-api-orders.php:1395
 msgid "Invalid order note ID"
 msgstr "Ongeldig bestelnotitienummer"
 
-#: includes/api/class-wc-api-orders.php:1183
-#: includes/api/class-wc-api-orders.php:1284
-#: includes/api/class-wc-api-orders.php:1346
+#: includes/api/class-wc-api-orders.php:1239
+#: includes/api/class-wc-api-orders.php:1340
+#: includes/api/class-wc-api-orders.php:1402
 msgid "An order note with the provided ID could not be found"
 msgstr "Een bestelnotitie met het opgegeven nummer is niet gevonden"
 
-#: includes/api/class-wc-api-orders.php:1213
+#: includes/api/class-wc-api-orders.php:1269
 msgid "You do not have permission to create order notes"
 msgstr "Je hebt geen rechten om bestelnotities aan te maken"
 
-#: includes/api/class-wc-api-orders.php:1228
+#: includes/api/class-wc-api-orders.php:1284
 msgid "Order note is required"
 msgstr "Bestelnotitie is verplicht"
 
-#: includes/api/class-wc-api-orders.php:1237
+#: includes/api/class-wc-api-orders.php:1293
 msgid "Cannot create order note, please try again"
 msgstr "Kan bestelnotitie niet aanmaken, probeer het nog eens"
 
-#: includes/api/class-wc-api-orders.php:1289
-#: includes/api/class-wc-api-orders.php:1351
+#: includes/api/class-wc-api-orders.php:1345
+#: includes/api/class-wc-api-orders.php:1407
 msgid "The order note ID provided is not associated with the order"
 msgstr "De opgegeven bestelnotitienummer is niet gerelateerd aan de bestelling"
 
-#: includes/api/class-wc-api-orders.php:1358
+#: includes/api/class-wc-api-orders.php:1414
 msgid "This order note cannot be deleted"
 msgstr "Deze bestelnotitie kan niet verwijderd worden"
 
-#: includes/api/class-wc-api-orders.php:1363
+#: includes/api/class-wc-api-orders.php:1419
 msgid "Permanently deleted order note"
 msgstr "Bestelnotitie permanent verwijderd"
 
-#: includes/api/class-wc-api-orders.php:1424
-#: includes/api/class-wc-api-orders.php:1578
-#: includes/api/class-wc-api-orders.php:1637
+#: includes/api/class-wc-api-orders.php:1480
+#: includes/api/class-wc-api-orders.php:1634
+#: includes/api/class-wc-api-orders.php:1693
 msgid "Invalid order refund ID"
 msgstr "Ongeldig terugbetalingsnummer voor deze bestelling"
 
-#: includes/api/class-wc-api-orders.php:1431
-#: includes/api/class-wc-api-orders.php:1585
-#: includes/api/class-wc-api-orders.php:1644
+#: includes/api/class-wc-api-orders.php:1487
+#: includes/api/class-wc-api-orders.php:1641
+#: includes/api/class-wc-api-orders.php:1700
 msgid "An order refund with the provided ID could not be found"
 msgstr "Een terugbetaling met het opgegeven nummer is niet gevonden"
 
-#: includes/api/class-wc-api-orders.php:1496
+#: includes/api/class-wc-api-orders.php:1552
 msgid "You do not have permission to create order refunds"
 msgstr "Je hebt geen rechten om terugbetalingen aan te maken"
 
-#: includes/api/class-wc-api-orders.php:1502
+#: includes/api/class-wc-api-orders.php:1558
 msgid "Order ID is invalid"
 msgstr "Ordernummer is ongeldig"
 
-#: includes/api/class-wc-api-orders.php:1509
+#: includes/api/class-wc-api-orders.php:1565
 msgid "Refund amount is required"
 msgstr "Terugbetalingsbedrag is verplicht"
 
-#: includes/api/class-wc-api-orders.php:1511
+#: includes/api/class-wc-api-orders.php:1567
 msgid "Refund amount must be positive"
 msgstr "Terugbetalingsbedrag moet positief zijn"
 
-#: includes/api/class-wc-api-orders.php:1521
+#: includes/api/class-wc-api-orders.php:1577
 msgid "Cannot create order refund, please try again"
 msgstr "Kan geen terugbetaling aanmaken voor deze order, probeer het nog eens"
 
-#: includes/api/class-wc-api-orders.php:1538
+#: includes/api/class-wc-api-orders.php:1594
 msgid ""
 "An error occurred while attempting to create the refund using the payment "
 "gateway API"
@@ -5580,8 +5581,8 @@ msgstr ""
 "Er is een fout opgetreden bij het aanmaken van de terugbetaling door middel "
 "van de API van de betaalgateway"
 
-#: includes/api/class-wc-api-orders.php:1590
-#: includes/api/class-wc-api-orders.php:1649
+#: includes/api/class-wc-api-orders.php:1646
+#: includes/api/class-wc-api-orders.php:1705
 msgid "The order refund ID provided is not associated with the order"
 msgstr ""
 "Het opgegeven terugbetalingsnummer is niet gerelateerd aan de bestelling"
@@ -5623,8 +5624,8 @@ msgstr "De SKU bestaat al bij een ander product"
 msgid "Variation #%s of %s"
 msgstr "Variatie #%s van %s"
 
-#: includes/api/class-wc-api-products.php:1613
-#: includes/api/class-wc-api-products.php:1614
+#: includes/api/class-wc-api-products.php:1618
+#: includes/api/class-wc-api-products.php:1619
 #: includes/api/v1/class-wc-api-products.php:461
 #: includes/api/v1/class-wc-api-products.php:462
 #: includes/wc-product-functions.php:272
@@ -5632,19 +5633,19 @@ msgstr "Variatie #%s van %s"
 msgid "Placeholder"
 msgstr "Placeholder"
 
-#: includes/api/class-wc-api-products.php:1688
+#: includes/api/class-wc-api-products.php:1693
 msgid "Invalid URL %s"
 msgstr "Ongeldige URL %s"
 
-#: includes/api/class-wc-api-products.php:1700
+#: includes/api/class-wc-api-products.php:1705
 msgid "Error getting remote image %s"
 msgstr "Fout bij het laden van afbeelding %s"
 
-#: includes/api/class-wc-api-products.php:1729
+#: includes/api/class-wc-api-products.php:1734
 msgid "Zero size file downloaded"
 msgstr "Bestand met grootte 0 gedownload"
 
-#: includes/api/class-wc-api-products.php:1863
+#: includes/api/class-wc-api-products.php:1868
 msgid "Invalid product SKU"
 msgstr "Ongeldig product SKU nummer"
 
@@ -5781,7 +5782,7 @@ msgstr "Sorry, je sessie is verlopen."
 
 #: includes/class-wc-ajax.php:191
 msgid "Return to homepage"
-msgstr "Keer terug naar de homepage"
+msgstr "Keer terug naar de homepagina"
 
 #: includes/class-wc-ajax.php:664
 msgid "Same as parent"
@@ -5817,7 +5818,7 @@ msgstr ""
 "ingeschakeld voor deze producten."
 
 #: includes/class-wc-ajax.php:1316 includes/class-wc-ajax.php:1317
-#: includes/class-wc-ajax.php:2050
+#: includes/class-wc-ajax.php:2051
 msgid "Item #%s stock increased from %s to %s."
 msgstr "Artikel #%s voorraad verhoogd van %s naar %s."
 
@@ -5843,11 +5844,11 @@ msgstr "Waarde"
 msgid "Delete note"
 msgstr "Verwijder notitie"
 
-#: includes/class-wc-ajax.php:1990
+#: includes/class-wc-ajax.php:1991
 msgid "Invalid refund amount"
 msgstr "Ongeldig terugbetalingsbedrag"
 
-#: includes/class-wc-ajax.php:2035
+#: includes/class-wc-ajax.php:2036
 msgid "Refund failed"
 msgstr "Terugbetaling mislukt"
 
@@ -6008,7 +6009,7 @@ msgid ""
 "to homepage</a>"
 msgstr ""
 "Sorry, je sessie is verlopen. <a href=\"%s\" class=\"wc-backward\">Terug "
-"naar de homepage</a>"
+"naar de homepagina</a>"
 
 #: includes/class-wc-checkout.php:447 includes/class-wc-form-handler.php:85
 msgid "is a required field."
@@ -6051,7 +6052,7 @@ msgstr "Ongeldige verzendmethode."
 msgid "Invalid payment method."
 msgstr "Ongeldige betaalmethode."
 
-#: includes/class-wc-comments.php:184
+#: includes/class-wc-comments.php:191
 msgid "Please rate the product."
 msgstr "Beoordeel het product."
 
@@ -6185,23 +6186,23 @@ msgstr "E-mailadres"
 msgid "Phone"
 msgstr "Telefoon"
 
-#: includes/class-wc-coupon.php:681
+#: includes/class-wc-coupon.php:685
 msgid "Coupon code applied successfully."
 msgstr "Kortingsboncode succesvol toegepast."
 
-#: includes/class-wc-coupon.php:684
+#: includes/class-wc-coupon.php:688
 msgid "Coupon code removed successfully."
 msgstr "Kortingsboncode succesvol verwijderd."
 
-#: includes/class-wc-coupon.php:702
+#: includes/class-wc-coupon.php:706
 msgid "Coupon is not valid."
 msgstr "Kortingsbon is niet geldig."
 
-#: includes/class-wc-coupon.php:705
+#: includes/class-wc-coupon.php:709
 msgid "Coupon \"%s\" does not exist!"
 msgstr "Kortingsbon \"%s\" bestaat niet."
 
-#: includes/class-wc-coupon.php:708
+#: includes/class-wc-coupon.php:712
 msgid ""
 "Sorry, it seems the coupon \"%s\" is invalid - it has now been removed from "
 "your order."
@@ -6209,7 +6210,7 @@ msgstr ""
 "Sorry, het lijkt er op dat kortingsbon \"%s\" ongeldig is, deze is nu "
 "verwijderd van je bestelling."
 
-#: includes/class-wc-coupon.php:711
+#: includes/class-wc-coupon.php:715
 msgid ""
 "Sorry, it seems the coupon \"%s\" is not yours - it has now been removed "
 "from your order."
@@ -6217,11 +6218,11 @@ msgstr ""
 "Sorry, het lijkt erop dat kortingsbon \"%s\" niet van jou is, deze is nu "
 "verwijderd van je bestelling."
 
-#: includes/class-wc-coupon.php:714
+#: includes/class-wc-coupon.php:718
 msgid "Coupon code already applied!"
 msgstr "Kortingsboncode al gebruikt."
 
-#: includes/class-wc-coupon.php:717
+#: includes/class-wc-coupon.php:721
 msgid ""
 "Sorry, coupon \"%s\" has already been applied and cannot be used in "
 "conjunction with other coupons."
@@ -6229,46 +6230,46 @@ msgstr ""
 "Sorry, kortingsbon \"%s\" is al gebruikt en kan niet worden gebruikt in "
 "combinatie met andere kortingen."
 
-#: includes/class-wc-coupon.php:720
+#: includes/class-wc-coupon.php:724
 msgid "Coupon usage limit has been reached."
 msgstr "De gebruikslimiet van de kortingsbon is bereikt."
 
-#: includes/class-wc-coupon.php:723
+#: includes/class-wc-coupon.php:727
 msgid "This coupon has expired."
 msgstr "Deze kortingsbon is verlopen."
 
-#: includes/class-wc-coupon.php:726
+#: includes/class-wc-coupon.php:730
 msgid "The minimum spend for this coupon is %s."
 msgstr "De minimale besteding voor deze kortingsbon is %s."
 
-#: includes/class-wc-coupon.php:729
+#: includes/class-wc-coupon.php:733
 msgid "The maximum spend for this coupon is %s."
 msgstr "De maximale besteding voor deze kortingsbon is %s."
 
-#: includes/class-wc-coupon.php:732
+#: includes/class-wc-coupon.php:736
 msgid "Sorry, this coupon is not applicable to your cart contents."
 msgstr ""
 "Sorry, deze kortingsbon kan niet worden gebruikt in combinatie met de inhoud "
 "van je winkelmand."
 
-#: includes/class-wc-coupon.php:745
+#: includes/class-wc-coupon.php:749
 msgid "Sorry, this coupon is not applicable to the products: %s."
 msgstr "Sorry, deze kortingbon kan niet worden gebruikt met de producten: %s."
 
-#: includes/class-wc-coupon.php:765
+#: includes/class-wc-coupon.php:769
 msgid "Sorry, this coupon is not applicable to the categories: %s."
 msgstr ""
 "Sorry: deze kortingsbon kan niet worden toegepast op de categorieën: %s."
 
-#: includes/class-wc-coupon.php:768
+#: includes/class-wc-coupon.php:772
 msgid "Sorry, this coupon is not valid for sale items."
 msgstr "Sorry, deze kortingsbon is niet geldig voor afgeprijsde artikelen."
 
-#: includes/class-wc-coupon.php:788
+#: includes/class-wc-coupon.php:792
 msgid "Coupon does not exist!"
 msgstr "Kortingsbon bestaat niet."
 
-#: includes/class-wc-coupon.php:791
+#: includes/class-wc-coupon.php:795
 msgid "Please enter a coupon code."
 msgstr "Vul een kortingsboncode in."
 
@@ -6320,7 +6321,7 @@ msgstr "Bestand niet gevonden"
 
 #: includes/class-wc-download-handler.php:425
 msgid "Go to homepage"
-msgstr "Ga naar de homepage"
+msgstr "Ga naar de homepagina"
 
 #: includes/class-wc-emails.php:258
 msgid "Note"
@@ -6583,11 +6584,11 @@ msgstr "Alle productcategorieën"
 
 #: includes/class-wc-post-types.php:69
 msgid "Parent Product Category"
-msgstr "Hoofd productcategorie"
+msgstr "Hoofd-productcategorie"
 
 #: includes/class-wc-post-types.php:70
 msgid "Parent Product Category:"
-msgstr "Hoofd productcategorie:"
+msgstr "Hoofd-productcategorie:"
 
 #: includes/class-wc-post-types.php:71
 msgid "Edit Product Category"
@@ -6677,11 +6678,11 @@ msgstr "Alle Verzendklassen"
 
 #: includes/class-wc-post-types.php:141
 msgid "Parent Shipping Class"
-msgstr "Hoofd Verzendklasse"
+msgstr "Hoofd-verzendklasse"
 
 #: includes/class-wc-post-types.php:142
 msgid "Parent Shipping Class:"
-msgstr "Hoofd Verzendklasse:"
+msgstr "Hoofd-verzendklasse:"
 
 #: includes/class-wc-post-types.php:143
 msgid "Edit Shipping Class"
@@ -6788,7 +6789,7 @@ msgstr "Geen Producten gevonden in de prullenbak"
 
 #: includes/class-wc-post-types.php:246
 msgid "Parent Product"
-msgstr "Hoofd Product"
+msgstr "Hoofd-product"
 
 #: includes/class-wc-post-types.php:248
 msgid "This is where you can add new products to your store."
@@ -6840,7 +6841,7 @@ msgstr "Geen Bestellingen gevonden in de prullenbak"
 
 #: includes/class-wc-post-types.php:293
 msgid "Parent Orders"
-msgstr "Hoofd Bestellingen"
+msgstr "Hoofd-bestellingen"
 
 #: includes/class-wc-post-types.php:296
 msgid "This is where store orders are stored."
@@ -6896,7 +6897,7 @@ msgstr "Geen Kortingsbonnen gevonden in prullenbak"
 
 #: includes/class-wc-post-types.php:352
 msgid "Parent Coupon"
-msgstr "Hoofd Kortingsbon"
+msgstr "Hoofd-kortingsbon"
 
 #: includes/class-wc-post-types.php:354
 msgid ""
@@ -6951,7 +6952,7 @@ msgstr "Geen Webhooks gevonden in de prullenbak"
 
 #: includes/class-wc-post-types.php:390
 msgid "Parent Webhook"
-msgstr "Hoofd Webhook"
+msgstr "Hoofd-webhook"
 
 #: includes/class-wc-post-types.php:420
 msgid "Pending payment <span class=\"count\">(%s)</span>"
@@ -7869,9 +7870,9 @@ msgid ""
 "your main receiver email for your PayPal account here. This is used to "
 "validate IPN requests."
 msgstr ""
-"Als je hierboven een ander PayPal e-mailadres hebt ingevuld dan het hoofd e-"
-"mailadres van PayPal, vul dan hier het hoofd ontvangstadres voor jouw PayPal "
-"account in. Dit wordt gebruikt om IPN aanvragen te valideren."
+"Als je hierboven een ander PayPal e-mailadres hebt ingevuld dan het hoofd-e-"
+"mailadres van PayPal, vul dan hier het hoofd-ontvangstadres in voor jouw "
+"PayPal account. Dit wordt gebruikt om IPN aanvragen te valideren."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:67
 msgid "PayPal Identity Token"
@@ -9244,17 +9245,17 @@ msgstr "WooCommerce gelaagde navigatiefilters"
 msgid "Active Filters"
 msgstr "Actieve filters"
 
-#: includes/widgets/class-wc-widget-layered-nav-filters.php:81
-#: includes/widgets/class-wc-widget-layered-nav-filters.php:88
+#: includes/widgets/class-wc-widget-layered-nav-filters.php:86
 #: includes/widgets/class-wc-widget-layered-nav-filters.php:93
+#: includes/widgets/class-wc-widget-layered-nav-filters.php:98
 msgid "Remove filter"
 msgstr "Verwijder filter"
 
-#: includes/widgets/class-wc-widget-layered-nav-filters.php:88
+#: includes/widgets/class-wc-widget-layered-nav-filters.php:93
 msgid "Min"
 msgstr "Min"
 
-#: includes/widgets/class-wc-widget-layered-nav-filters.php:93
+#: includes/widgets/class-wc-widget-layered-nav-filters.php:98
 msgid "Max"
 msgstr "Max"
 
