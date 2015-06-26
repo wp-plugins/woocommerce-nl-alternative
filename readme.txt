@@ -3,7 +3,7 @@ Contributors: mpol
 Tags: woocommerce, translation, dutch, nl, nl_NL, webshop, ecommerce, e-commerce, commerce, woothemes
 Requires at least: 3.0
 Tested up to: 4.2
-Stable tag: 1.2.0
+Stable tag: 1.1.9
 
 This WordPress plugin extends the WooCommerce plugin with the Dutch translation. It uses the informal 'je' instead of formal u.
 
