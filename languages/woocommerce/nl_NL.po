@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: WooCommerce\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
 "POT-Creation-Date: 2015-06-10 17:29:07+00:00\n"
-"PO-Revision-Date: 2015-06-17 20:38+0100\n"
+"PO-Revision-Date: 2015-07-05 14:10+0200\n"
 "Last-Translator: Marcel Pol <marcel@timelord.nl>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/"
 "woocommerce/language/nl_NL/)\n"
@@ -30,7 +30,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.7.7\n"
+"X-Generator: Poedit 1.8.2\n"
 
 #: i18n/countries.php:18
 msgid "Afghanistan"
@@ -1533,7 +1533,6 @@ msgid "New Brunswick"
 msgstr "New Brunswick"
 
 #: i18n/states/CA.php:17
-#, fuzzy
 msgid "Newfoundland and Labrador"
 msgstr "Newfoundland en Labrador"
 
@@ -2186,9 +2185,8 @@ msgid "Papua Barat"
 msgstr "West-Papoea"
 
 #: i18n/states/IN.php:13
-#, fuzzy
 msgid "Andhra Pradesh"
-msgstr "Madhya Pradesh"
+msgstr "Andhra Pradesh"
 
 #: i18n/states/IN.php:14
 msgid "Arunachal Pradesh"
@@ -3736,353 +3734,331 @@ msgstr "Ucayali"
 
 #: i18n/states/PH.php:12
 msgid "Abra"
-msgstr ""
+msgstr "Abra"
 
 #: i18n/states/PH.php:13
 msgid "Agusan del Norte"
-msgstr ""
+msgstr "Agusan del Norte"
 
 #: i18n/states/PH.php:14
 msgid "Agusan del Sur"
-msgstr ""
+msgstr "Agusan del Sur"
 
 #: i18n/states/PH.php:15
-#, fuzzy
 msgid "Aklan"
-msgstr "Auckland"
+msgstr "Aklan"
 
 #: i18n/states/PH.php:16
-#, fuzzy
 msgid "Albay"
-msgstr "Albanië"
+msgstr "Albay"
 
 #: i18n/states/PH.php:17
 msgid "Antique"
-msgstr ""
+msgstr "Antique"
 
 #: i18n/states/PH.php:18
 msgid "Apayao"
-msgstr ""
+msgstr "Apayao"
 
 #: i18n/states/PH.php:19
 msgid "Aurora"
-msgstr ""
+msgstr "Aurora"
 
 #: i18n/states/PH.php:20
-#, fuzzy
 msgid "Basilan"
-msgstr "Thailand"
+msgstr "Basilan"
 
 #: i18n/states/PH.php:21
 msgid "Bataan"
-msgstr ""
+msgstr "Bataan"
 
 #: i18n/states/PH.php:22
 msgid "Batanes"
-msgstr ""
+msgstr "Batanes"
 
 #: i18n/states/PH.php:23
-#, fuzzy
 msgid "Batangas"
-msgstr "Catania"
+msgstr "Batangas"
 
 #: i18n/states/PH.php:24
-#, fuzzy
 msgid "Benguet"
-msgstr "Bengkulu"
+msgstr "Benguet"
 
 #: i18n/states/PH.php:25
 msgid "Biliran"
-msgstr ""
+msgstr "Biliran"
 
 #: i18n/states/PH.php:26
 msgid "Bohol"
-msgstr ""
+msgstr "Bohol"
 
 #: i18n/states/PH.php:27
 msgid "Bukidnon"
-msgstr ""
+msgstr "Bukidnon"
 
 #: i18n/states/PH.php:28
 msgid "Bulacan"
-msgstr ""
+msgstr "Bulacan"
 
 #: i18n/states/PH.php:29
 msgid "Cagayan"
-msgstr ""
+msgstr "Cagayan"
 
 #: i18n/states/PH.php:30
 msgid "Camarines Norte"
-msgstr ""
+msgstr "Camarines Norte"
 
 #: i18n/states/PH.php:31
 msgid "Camarines Sur"
-msgstr ""
+msgstr "Camarines Sur"
 
 #: i18n/states/PH.php:32
 msgid "Camiguin"
-msgstr ""
+msgstr "Camiguin"
 
 #: i18n/states/PH.php:33
 msgid "Capiz"
-msgstr ""
+msgstr "Capiz"
 
 #: i18n/states/PH.php:34
-#, fuzzy
 msgid "Catanduanes"
-msgstr "Catania"
+msgstr "Catanduanes"
 
 #: i18n/states/PH.php:35
 msgid "Cavite"
-msgstr ""
+msgstr "Cavite"
 
 #: i18n/states/PH.php:36
 msgid "Cebu"
-msgstr ""
+msgstr "Cebu"
 
 #: i18n/states/PH.php:37
 msgid "Compostela Valley"
-msgstr ""
+msgstr "Compostela Valley"
 
 #: i18n/states/PH.php:38
 msgid "Cotabato"
-msgstr ""
+msgstr "Cotabato"
 
 #: i18n/states/PH.php:39
 msgid "Davao del Norte"
-msgstr ""
+msgstr "Davao del Norte"
 
 #: i18n/states/PH.php:40
 msgid "Davao del Sur"
-msgstr ""
+msgstr "Davao del Sur"
 
 #: i18n/states/PH.php:41
 msgid "Davao Occidental"
-msgstr ""
+msgstr "Davao Occidental"
 
 #: i18n/states/PH.php:42
 msgid "Davao Oriental"
-msgstr ""
+msgstr "Davao Oriental"
 
 #: i18n/states/PH.php:43
-#, fuzzy
 msgid "Dinagat Islands"
-msgstr "Salomonseilanden"
+msgstr "Dinagat Eilanden"
 
 #: i18n/states/PH.php:44
-#, fuzzy
 msgid "Eastern Samar"
-msgstr "Samoa"
+msgstr "Oost-Samar"
 
 #: i18n/states/PH.php:45
 msgid "Guimaras"
-msgstr ""
+msgstr "Guimaras"
 
 #: i18n/states/PH.php:46
 msgid "Ifugao"
-msgstr ""
+msgstr "Ifugao"
 
 #: i18n/states/PH.php:47
 msgid "Ilocos Norte"
-msgstr ""
+msgstr "Ilocos Norte"
 
 #: i18n/states/PH.php:48
 msgid "Ilocos Sur"
-msgstr ""
+msgstr "Ilocos Sur"
 
 #: i18n/states/PH.php:49
 msgid "Iloilo"
-msgstr ""
+msgstr "Iloilo"
 
 #: i18n/states/PH.php:50
 msgid "Isabela"
-msgstr ""
+msgstr "Isabela"
 
 #: i18n/states/PH.php:51
 msgid "Kalinga"
-msgstr ""
+msgstr "Kalinga"
 
 #: i18n/states/PH.php:52
-#, fuzzy
 msgid "La Union"
-msgstr "La Rioja"
+msgstr "La Union"
 
 #: i18n/states/PH.php:53
-#, fuzzy
 msgid "Laguna"
-msgstr "Barguna"
+msgstr "Laguna"
 
 #: i18n/states/PH.php:54
 msgid "Lanao del Norte"
-msgstr ""
+msgstr "Lanao del Norte"
 
 #: i18n/states/PH.php:55
 msgid "Lanao del Sur"
-msgstr ""
+msgstr "Lanao del Sur"
 
 #: i18n/states/PH.php:56
 msgid "Leyte"
-msgstr ""
+msgstr "Leyte"
 
 #: i18n/states/PH.php:57
 msgid "Maguindanao"
-msgstr ""
+msgstr "Maguindanao"
 
 #: i18n/states/PH.php:58
 msgid "Marinduque"
-msgstr ""
+msgstr "Marinduque"
 
 #: i18n/states/PH.php:59
 msgid "Masbate"
-msgstr ""
+msgstr "Masbate"
 
 #: i18n/states/PH.php:60
 msgid "Misamis Occidental"
-msgstr ""
+msgstr "Misamis Occidental"
 
 #: i18n/states/PH.php:61
 msgid "Misamis Oriental"
-msgstr ""
+msgstr "Misamis Oriental"
 
 #: i18n/states/PH.php:62
-#, fuzzy
 msgid "Mountain Province"
-msgstr "Provincie"
+msgstr "Mountain Province"
 
 #: i18n/states/PH.php:63
 msgid "Negros Occidental"
-msgstr ""
+msgstr "Negros Occidental"
 
 #: i18n/states/PH.php:64
 msgid "Negros Oriental"
-msgstr ""
+msgstr "Negros Oriental"
 
 #: i18n/states/PH.php:65
-#, fuzzy
 msgid "Northern Samar"
-msgstr "Noord-Kaap"
+msgstr "Noord-Samar"
 
 #: i18n/states/PH.php:66
 msgid "Nueva Ecija"
-msgstr ""
+msgstr "Nueva Ecija"
 
 #: i18n/states/PH.php:67
 msgid "Nueva Vizcaya"
-msgstr ""
+msgstr "Nueva Vizcaya"
 
 #: i18n/states/PH.php:68
 msgid "Occidental Mindoro"
-msgstr ""
+msgstr "Occidental Mindoro"
 
 #: i18n/states/PH.php:69
 msgid "Oriental Mindoro"
-msgstr ""
+msgstr "Oriental Mindoro"
 
 #: i18n/states/PH.php:70
-#, fuzzy
 msgid "Palawan"
-msgstr "Malawi"
+msgstr "Palawan"
 
 #: i18n/states/PH.php:71
 msgid "Pampanga"
-msgstr ""
+msgstr "Pampanga"
 
 #: i18n/states/PH.php:72
-#, fuzzy
 msgid "Pangasinan"
-msgstr "Telangana"
+msgstr "Pangasinan"
 
 #: i18n/states/PH.php:73
 msgid "Quezon"
-msgstr ""
+msgstr "Quezon"
 
 #: i18n/states/PH.php:74
-#, fuzzy
 msgid "Quirino"
-msgstr "Turijn"
+msgstr "Quirino"
 
 #: i18n/states/PH.php:75
 msgid "Rizal"
-msgstr ""
+msgstr "Rizal"
 
 #: i18n/states/PH.php:76
 msgid "Romblon"
-msgstr ""
+msgstr "Romblon"
 
 #: i18n/states/PH.php:77
 msgid "Samar"
-msgstr ""
+msgstr "Samar"
 
 #: i18n/states/PH.php:78
-#, fuzzy
 msgid "Sarangani"
-msgstr "Taranaki"
+msgstr "Sarangani"
 
 #: i18n/states/PH.php:79
 msgid "Siquijor"
-msgstr ""
+msgstr "Siquijor"
 
 #: i18n/states/PH.php:80
 msgid "Sorsogon"
-msgstr ""
+msgstr "Sorsogon"
 
 #: i18n/states/PH.php:81
-#, fuzzy
 msgid "South Cotabato"
-msgstr "South Carolina"
+msgstr "Zuid-Cotabato"
 
 #: i18n/states/PH.php:82
 msgid "Southern Leyte"
-msgstr ""
+msgstr "Southern Leyte"
 
 #: i18n/states/PH.php:83
-#, fuzzy
 msgid "Sultan Kudarat"
-msgstr "West-Sumatra "
+msgstr "Sultan Kudarat"
 
 #: i18n/states/PH.php:84
 msgid "Sulu"
-msgstr ""
+msgstr "Sulu"
 
 #: i18n/states/PH.php:85
-#, fuzzy
 msgid "Surigao del Norte"
-msgstr "Rio Grande do Norte"
+msgstr "Surigao del Norte"
 
 #: i18n/states/PH.php:86
 msgid "Surigao del Sur"
-msgstr ""
+msgstr "Surigao del Sur"
 
 #: i18n/states/PH.php:87
-#, fuzzy
 msgid "Tarlac"
-msgstr "Sarlahi"
+msgstr "Tarlac"
 
 #: i18n/states/PH.php:88
 msgid "Tawi-Tawi"
-msgstr ""
+msgstr "Tawi-Tawi"
 
 #: i18n/states/PH.php:89
-#, fuzzy
 msgid "Zambales"
-msgstr "Zambia"
+msgstr "Zambales"
 
 #: i18n/states/PH.php:90
-#, fuzzy
 msgid "Zamboanga del Norte"
-msgstr "Rio Grande do Norte"
+msgstr "Zamboanga del Norte"
 
 #: i18n/states/PH.php:91
 msgid "Zamboanga del Sur"
-msgstr ""
+msgstr "Zamboanga del Sur"
 
 #: i18n/states/PH.php:92
 msgid "Zamboanga Sibugay"
-msgstr ""
+msgstr "Zamboanga Sibugay"
 
 #: i18n/states/PH.php:93
 msgid "Metro Manila"
-msgstr ""
+msgstr "Metro Manila"
 
 #: i18n/states/TH.php:13
 msgid ""
@@ -5321,7 +5297,7 @@ msgstr "Je hebt geen rechten om kortingsbonnen aan te maken"
 #: includes/api/class-wc-api-server.php:418
 #: includes/api/v1/class-wc-api-server.php:407
 msgid "Missing parameter %s"
-msgstr "Ontbrekende parameter %"
+msgstr "Ontbrekende parameter %s"
 
 #: includes/api/class-wc-api-coupons.php:233
 #: includes/api/class-wc-api-coupons.php:345
@@ -6604,7 +6580,7 @@ msgstr "Nieuwe productcategorie toevoegen"
 
 #: includes/class-wc-post-types.php:74
 msgid "New Product Category Name"
-msgstr "Nieuwe productcategorie Naam"
+msgstr "Nieuwe productcategorie-naam"
 
 #: includes/class-wc-post-types.php:97 includes/class-wc-post-types.php:99
 #: includes/widgets/class-wc-widget-product-tag-cloud.php:29
@@ -6637,7 +6613,7 @@ msgstr "Nieuwe producttag toevoegen"
 
 #: includes/class-wc-post-types.php:107
 msgid "New Product Tag Name"
-msgstr "Nieuwe producttag naam"
+msgstr "Nieuwe producttag-naam"
 
 #: includes/class-wc-post-types.php:108
 msgid "Popular Product Tags"
@@ -6698,7 +6674,7 @@ msgstr "Nieuwe Verzendklasse toevoegen"
 
 #: includes/class-wc-post-types.php:146
 msgid "New Shipping Class Name"
-msgstr "Nieuwe Verzendklasse Naam"
+msgstr "Nieuwe Verzendklasse-naam"
 
 #: includes/class-wc-post-types.php:177
 msgid "Search %s"
@@ -6793,7 +6769,7 @@ msgstr "Hoofd-product"
 
 #: includes/class-wc-post-types.php:248
 msgid "This is where you can add new products to your store."
-msgstr "Hier kun je nieuwe producten toevoegen aan jouw winkel."
+msgstr "Hier kun je nieuwe producten toevoegen aan je winkel."
 
 #: includes/class-wc-post-types.php:268
 msgid "Variations"
@@ -6904,7 +6880,7 @@ msgid ""
 "This is where you can add new coupons that customers can use in your store."
 msgstr ""
 "Hier kun je nieuwe kortingsbonnen toevoegen die klanten kunnen gebruiken in "
-"jouw winkel."
+"je winkel."
 
 #: includes/class-wc-post-types.php:377
 msgid "Webhooks"
@@ -7019,7 +6995,7 @@ msgid ""
 "Changing status to draft."
 msgstr ""
 "Dit variabel product heeft geen actieve variaties en zal niet gepubliceerd "
-"worden. Status wordt gewijzigd. "
+"worden. Status wordt gewijzigd."
 
 #: includes/class-wc-product-variation.php:662
 msgid "%s &ndash; %s%s"
@@ -7059,8 +7035,8 @@ msgid ""
 "Use $args[\"posts_per_page\"] instead. Deprecated argument will be removed "
 "in WC 2.2."
 msgstr ""
-"Gebruik $args['posts_per_page']. Afgekeurd argument zal verwijderd worden in "
-"WC 2.2."
+"Gebruik $args['posts_per_page']. Deprecated/verouderd argument zal "
+"verwijderd worden in WC 2.2."
 
 #: includes/emails/class-wc-email-cancelled-order.php:28
 #: includes/emails/class-wc-email-cancelled-order.php:31
@@ -7610,7 +7586,7 @@ msgid ""
 "you probably wouldn't but it does allow you to make test purchases for "
 "testing order emails and the 'success' pages etc."
 msgstr ""
-"Chequebetalingen toestaan. Waarom zou je cheque betalingen aannemen in deze "
+"Chequebetalingen toestaan. Waarom zou je chequebetalingen aannemen in deze "
 "tijd? Waarschijnlijk wil je dit helemaal niet, maar hiermee kun je "
 "testbetalingen verrichten voor het testen van bijvoorbeeld bestel-e-mails en "
 "de 'succes'-pagina."
@@ -7741,7 +7717,7 @@ msgstr "Validatiefout: PayPal bedragen komen niet overeen (bruto %s)."
 #: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:159
 msgid ""
 "Validation error: PayPal IPN response from a different email address (%s)."
-msgstr "Validatiefout: PayPal IPN antwoord van een ander e-mailadres (%s)."
+msgstr "Validatiefout: PayPal IPN antwoordt van een ander e-mailadres (%s)."
 
 #: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:182
 msgid "IPN payment completed"
@@ -7826,7 +7802,7 @@ msgstr "PayPal e-mail"
 msgid ""
 "Please enter your PayPal email address; this is needed in order to take "
 "payment."
-msgstr "Vul je PayPal e-mailadres in; dit is nodig voor de betaling."
+msgstr "Vul je PayPal e-mailadres in, dit is nodig voor de betaling."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:40
 msgid "PayPal Sandbox"
@@ -7842,7 +7818,7 @@ msgid ""
 "<a href=\"%s\">here</a>."
 msgstr ""
 "PayPal sandbox kan gebruikt worden om betalingen te testen. Aanmelden voor "
-"een ontwikkelaar account kan <a href=\"%s\">hier</a>."
+"een ontwikkelaar-account kan <a href=\"%s\">hier</a>."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:47
 msgid "Debug Log"
@@ -7890,7 +7866,7 @@ msgstr ""
 
 #: includes/gateways/paypal/includes/settings-paypal.php:75
 msgid "Invoice Prefix"
-msgstr "Factuur voorvoegsel"
+msgstr "Factuur-voorvoegsel"
 
 #: includes/gateways/paypal/includes/settings-paypal.php:77
 msgid ""
@@ -7960,7 +7936,7 @@ msgstr "Authoriseren"
 
 #: includes/gateways/paypal/includes/settings-paypal.php:108
 msgid "Page Style"
-msgstr "Pagina opmaak"
+msgstr "Pagina-opmaak"
 
 #: includes/gateways/paypal/includes/settings-paypal.php:110
 msgid ""
@@ -7986,9 +7962,9 @@ msgid ""
 "Enter your PayPal API credentials to process refunds via PayPal. Learn how "
 "to access your PayPal API Credentials %shere%s."
 msgstr ""
-"Vul je PayPal API referenties in om terugbetalingen via PayPal in gang te "
-"zetten. %sHier%s leer je hoe je toegang krijgt tot jouw PayPal API "
-"Referenties."
+"Vul je PayPal API-referenties in om terugbetalingen via PayPal in gang te "
+"zetten. %sHier%s leer je hoe je toegang krijgt tot jouw PayPal API-"
+"referenties."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:121
 msgid "API Username"
@@ -8037,7 +8013,7 @@ msgstr "Fout bij het aanmaken van een gebruiker in Simplify Commerce"
 #: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:272
 msgid ""
 "Sorry, the minimum allowed order total is 0.50 to use this payment method."
-msgstr "Sorry, het minimum besteltotaal voor deze betaalmethode is 0,50"
+msgstr "Sorry, het minimum besteltotaal voor deze betaalmethode is 0,50."
 
 #: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:277
 msgid "%s - Subscription for \"%s\""
@@ -8142,7 +8118,7 @@ msgstr ""
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:151
 msgid "Simplify Commerce Error: Please enter your public and private keys"
-msgstr "Simplify Commerce Fout: Vul de publieke en private sleutels in"
+msgstr "Simplify Commerce Fout: Vul de publieke en priv&#233;sleutels in"
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:156
 msgid ""
@@ -8230,7 +8206,7 @@ msgstr ""
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:238
 msgid "Sandbox Private Key"
-msgstr "Sandbox Private Sleutel"
+msgstr "Sandbox Priv&#233;sleutel"
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:245
 msgid "Public Key"
@@ -8238,7 +8214,7 @@ msgstr "Publieke Sleutel"
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:252
 msgid "Private Key"
-msgstr "Private Sleutel"
+msgstr "Priv&#233;sleutel"
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:268
 msgid "TEST MODE ENABLED. Use a test card: %s"
@@ -8297,7 +8273,7 @@ msgstr "Vast tarief"
 #: includes/shipping/flat-rate/class-wc-shipping-flat-rate.php:35
 msgid "Flat rates let you define a standard rate per item, or per order."
 msgstr ""
-"Met vaste tarieven kan je een standaardtarief per artikel of per bestelling "
+"Met vaste tarieven kun je een standaardtarief per artikel of per bestelling "
 "definiëren."
 
 #: includes/shipping/flat-rate/includes/html-extra-costs.php:10
@@ -8594,7 +8570,7 @@ msgstr "Lokale bezorging"
 msgid ""
 "Local delivery is a simple shipping method for delivering orders locally."
 msgstr ""
-"Lokale levering is een eenvoudige verzendmethode voor het ter plaatse "
+"Lokale bezorging is een eenvoudige verzendmethode voor het ter plaatse "
 "afleveren van bestellingen."
 
 #: includes/shipping/local-delivery/class-wc-shipping-local-delivery.php:92
@@ -8767,7 +8743,7 @@ msgstr "Vul een geldig bestelnummer in"
 
 #: includes/shortcodes/class-wc-shortcode-order-tracking.php:55
 msgid "Please enter a valid order email"
-msgstr "Vul een geldige bestelling e-mailadres in"
+msgstr "Vul een geldig bestelling-e-mailadres in"
 
 #: includes/shortcodes/class-wc-shortcode-order-tracking.php:74
 msgid "Sorry, we could not find that order ID in our database."
@@ -9134,8 +9110,8 @@ msgid ""
 "Use $args argument as an array instead. Deprecated argument will be removed "
 "in WC 2.2."
 msgstr ""
-"Gebruik $args argument als een array. Afgekeurd argument zal verwijderd "
-"worden in WC 2.2."
+"Gebruik $args argument als een array. Deprecated/verouderd argument zal "
+"verwijderd worden in WC 2.2."
 
 #: includes/wc-template-functions.php:1146
 msgid "Proceed to Checkout"
@@ -9354,7 +9330,7 @@ msgstr "Sorteer op"
 
 #: includes/widgets/class-wc-widget-product-categories.php:51
 msgid "Category Order"
-msgstr "Categorie volgorde"
+msgstr "Categorie-volgorde"
 
 #: includes/widgets/class-wc-widget-product-categories.php:58
 msgid "Show as dropdown"
@@ -9586,7 +9562,7 @@ msgstr "Verwijder dit artikel"
 
 #: templates/cart/cart.php:122 templates/checkout/form-coupon.php:25
 msgid "Coupon code"
-msgstr "Kortingsbon code"
+msgstr "Kortingsbon-code"
 
 #: templates/cart/cart.php:122 templates/checkout/form-coupon.php:29
 msgid "Apply Coupon"
