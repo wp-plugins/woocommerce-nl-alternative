@@ -17,8 +17,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WooCommerce\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
-"POT-Creation-Date: 2015-06-10 17:29:07+00:00\n"
-"PO-Revision-Date: 2015-06-17 20:40+0100\n"
+"POT-Creation-Date: 2015-07-16 15:52+0200\n"
+"PO-Revision-Date: 2015-07-16 15:52+0200\n"
 "Last-Translator: Marcel Pol <marcel@timelord.nl>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/"
 "woocommerce/language/nl_NL/)\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.7.7\n"
+"X-Generator: Poedit 1.8.2\n"
 
 #. Plugin Name of the plugin/theme
 msgid "WooCommerce"
@@ -3281,7 +3281,7 @@ msgid "Product SKU must be unique."
 msgstr "Product SKU dient uniek te zijn."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1259
-#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1531
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1535
 msgid ""
 "The downloadable file %s cannot be used as it does not have an allowed file "
 "type. Allowed types include: %s"
@@ -3289,19 +3289,19 @@ msgstr ""
 "Het downloadbare bestand %s kan niet gebruikt worden omdat het geen "
 "toegestaan bestandstype is. Toegestane types zijn o.a.: %s"
 
-#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1266
-#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1538
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1269
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1542
 msgid ""
 "The downloadable file %s cannot be used as it does not exist on the server."
 msgstr ""
 "Het downloadbare bestand %s kan niet gebruikt worden omdat het niet op de "
 "server bestaat."
 
-#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1367
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1371
 msgid "Variation #%s of %s"
 msgstr "Variatie #%s van %s"
 
-#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1411
+#: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1415
 msgid "Variation SKU must be unique."
 msgstr "Variatie SKU moet uniek zijn."
 
@@ -4430,11 +4430,11 @@ msgstr "E-mails"
 msgid "Email Options"
 msgstr "E-mailopties"
 
-#: includes/admin/settings/class-wc-settings-emails.php:70
+#: includes/admin/settings/class-wc-settings-emails.php:69
 msgid "Email Sender Options"
 msgstr "E-mailafzender opties"
 
-#: includes/admin/settings/class-wc-settings-emails.php:70
+#: includes/admin/settings/class-wc-settings-emails.php:69
 msgid ""
 "The following options affect the sender (email address and name) used in "
 "WooCommerce emails."
@@ -4442,19 +4442,19 @@ msgstr ""
 "De volgende opties zijn gerelateerd aan de afzender (e-mailadres en naam) "
 "die gebruikt wordt in WooCommerce e-mails."
 
-#: includes/admin/settings/class-wc-settings-emails.php:73
+#: includes/admin/settings/class-wc-settings-emails.php:72
 msgid "\"From\" Name"
 msgstr "“Van” naam"
 
-#: includes/admin/settings/class-wc-settings-emails.php:83
+#: includes/admin/settings/class-wc-settings-emails.php:82
 msgid "\"From\" Email Address"
 msgstr "“Van” e-mailadres"
 
-#: includes/admin/settings/class-wc-settings-emails.php:97
+#: includes/admin/settings/class-wc-settings-emails.php:96
 msgid "Email Template"
 msgstr "E-mailsjabloon"
 
-#: includes/admin/settings/class-wc-settings-emails.php:97
+#: includes/admin/settings/class-wc-settings-emails.php:96
 msgid ""
 "This section lets you customise the WooCommerce emails. <a href=\"%s\" "
 "target=\"_blank\">Click here to preview your email template</a>. For more "
@@ -4466,11 +4466,11 @@ msgstr ""
 "meer functies, kopieer <code>woocommerce/templates/emails/</code> naar "
 "<code>jouwthema/woocommerce/emails/</code>."
 
-#: includes/admin/settings/class-wc-settings-emails.php:100
+#: includes/admin/settings/class-wc-settings-emails.php:99
 msgid "Header Image"
 msgstr "Headerafbeelding"
 
-#: includes/admin/settings/class-wc-settings-emails.php:101
+#: includes/admin/settings/class-wc-settings-emails.php:100
 msgid ""
 "Enter a URL to an image you want to show in the email's header. Upload your "
 "image using the <a href=\"%s\">media uploader</a>."
@@ -4478,23 +4478,23 @@ msgstr ""
 "Voeg de URL in voor de e-mail-header. Upload de afbeelding door middel van "
 "de <a href=\"%s\">media uploader</a>."
 
-#: includes/admin/settings/class-wc-settings-emails.php:110
+#: includes/admin/settings/class-wc-settings-emails.php:109
 msgid "Email Footer Text"
 msgstr "E-mail footertekst"
 
-#: includes/admin/settings/class-wc-settings-emails.php:111
+#: includes/admin/settings/class-wc-settings-emails.php:110
 msgid "The text to appear in the footer of WooCommerce emails."
 msgstr "De tekst verschijnt in de footer van WooCommerce e-mails."
 
-#: includes/admin/settings/class-wc-settings-emails.php:115
+#: includes/admin/settings/class-wc-settings-emails.php:114
 msgid "Powered by WooCommerce"
 msgstr "Powered by WooCommerce"
 
-#: includes/admin/settings/class-wc-settings-emails.php:120
+#: includes/admin/settings/class-wc-settings-emails.php:119
 msgid "Base Colour"
 msgstr "Basiskleur"
 
-#: includes/admin/settings/class-wc-settings-emails.php:121
+#: includes/admin/settings/class-wc-settings-emails.php:120
 msgid ""
 "The base colour for WooCommerce email templates. Default <code>#557da1</"
 "code>."
@@ -4502,11 +4502,11 @@ msgstr ""
 "De basiskleur voor WooCommerce e-mailtemplates. Standaard <code>#557da1</"
 "code>."
 
-#: includes/admin/settings/class-wc-settings-emails.php:130
+#: includes/admin/settings/class-wc-settings-emails.php:129
 msgid "Background Colour"
 msgstr "Achtergrondkleur"
 
-#: includes/admin/settings/class-wc-settings-emails.php:131
+#: includes/admin/settings/class-wc-settings-emails.php:130
 msgid ""
 "The background colour for WooCommerce email templates. Default "
 "<code>#f5f5f5</code>."
@@ -4514,19 +4514,19 @@ msgstr ""
 "De achtergrondkleur voor WooCommerce e-mailtemplates. Standaard "
 "<code>#f5f5f5</code>."
 
-#: includes/admin/settings/class-wc-settings-emails.php:140
+#: includes/admin/settings/class-wc-settings-emails.php:139
 msgid "Email Body Background Colour"
 msgstr "E-mailbericht achtergrondkleur"
 
-#: includes/admin/settings/class-wc-settings-emails.php:141
+#: includes/admin/settings/class-wc-settings-emails.php:140
 msgid "The main body background colour. Default <code>#fdfdfd</code>."
 msgstr "De bericht achtergrond kleur. Standaard <code>#fdfdfd</code>."
 
-#: includes/admin/settings/class-wc-settings-emails.php:150
+#: includes/admin/settings/class-wc-settings-emails.php:149
 msgid "Email Body Text Colour"
 msgstr "E-mailbericht tekstkleur"
 
-#: includes/admin/settings/class-wc-settings-emails.php:151
+#: includes/admin/settings/class-wc-settings-emails.php:150
 msgid "The main body text colour. Default <code>#505050</code>."
 msgstr "De bericht tekst kleur. Standaard <code>#505050</code>."
 
