@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: WooCommerce\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
 "POT-Creation-Date: 2015-08-12 19:24+0200\n"
-"PO-Revision-Date: 2015-08-13 14:01+0200\n"
+"PO-Revision-Date: 2015-08-14 12:59+0200\n"
 "Last-Translator: Marcel Pol <marcel@timelord.nl>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/"
 "woocommerce/language/nl_NL/)\n"
@@ -7882,14 +7882,12 @@ msgid "Refunded order"
 msgstr "Terugbetaalde bestelling"
 
 #: includes/emails/class-wc-email-customer-refunded-order.php:59
-#, fuzzy
 msgid ""
 "Order refunded emails are sent to customers when their orders are marked "
 "refunded."
 msgstr ""
-"E-mail 'Bestelling afgerond' wordt verstuurd naar de klant, zodra de "
-"bestelling als afgerond wordt gemarkeerd en geeft doorgaans aan dat hun "
-"bestelling is verzonden."
+"E-mail 'Bestelling terugbetaald' wordt verstuurd naar de klant, zodra de "
+"bestelling als terugbetaald wordt gemarkeerd."
 
 #: includes/emails/class-wc-email-customer-refunded-order.php:174
 msgid "Full Refund Subject"
@@ -7900,14 +7898,12 @@ msgid "Partial Refund Subject"
 msgstr "Gedeeltelijk terugbetaald item"
 
 #: includes/emails/class-wc-email-customer-refunded-order.php:188
-#, fuzzy
 msgid "Full Refund Email Heading"
-msgstr "E-mailkop"
+msgstr "E-mailkop voor volledige terugbetaling"
 
 #: includes/emails/class-wc-email-customer-refunded-order.php:195
-#, fuzzy
 msgid "Partial Refund Email Heading"
-msgstr "E-mailkop"
+msgstr "E-mailkop voor gedeeltelijke terugbetaling"
 
 #: includes/emails/class-wc-email-customer-reset-password.php:37
 msgid "Reset password"
@@ -7934,12 +7930,11 @@ msgid "New order"
 msgstr "Nieuwe bestelling"
 
 #: includes/emails/class-wc-email-new-order.php:29
-#, fuzzy
 msgid ""
 "New order emails are sent to the recipient list when an order is received."
 msgstr ""
-"Nieuwe bestelling e-mails worden verstuurd wanneer een bestelling wordt "
-"ontvangen."
+"Nieuwe bestelling e-mails worden verstuurd naar de ontvangerslijst wanneer "
+"een bestelling wordt ontvangen."
 
 #: includes/emails/class-wc-email-new-order.php:31
 msgid "New customer order"
@@ -8273,14 +8268,12 @@ msgid "Select shipping methods"
 msgstr "Selecteer verzendmethoden"
 
 #: includes/gateways/cod/class-wc-gateway-cod.php:102
-#, fuzzy
 msgid "Accept for virtual orders"
-msgstr "Voor virtuele bestellingen inschakelen"
+msgstr "Accepteren voor virtuele bestellingen"
 
 #: includes/gateways/cod/class-wc-gateway-cod.php:103
-#, fuzzy
 msgid "Accept COD if the order is virtual"
-msgstr "Rembours inschakelen als de bestelling virtueel is"
+msgstr "Accepteer rembours als de bestelling virtueel is"
 
 #: includes/gateways/cod/class-wc-gateway-cod.php:206
 msgid "Payment to be made upon delivery."
@@ -8301,6 +8294,10 @@ msgid ""
 "information. PayPal IPN requires fsockopen/cURL support to update order "
 "statuses after payment. Check the %ssystem status%s page for more details."
 msgstr ""
+"PayPal standaard stuurt klanten naar PayPal om hun betaalgegevens in te "
+"voeren. PayPal IPN vereist fsockopen/cURL-ondersteuning om de bestelstatus "
+"bij te werken na betaling. Controleer de %ssysteemstatus%s pagina voor meer "
+"informatie."
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:93
 msgid "PayPal Acceptance Mark"
@@ -8471,16 +8468,16 @@ msgid "PayPal Identity Token"
 msgstr "PayPal Identity Token"
 
 #: includes/gateways/paypal/includes/settings-paypal.php:69
-#, fuzzy
 msgid ""
 "Optionally enable \"Payment Data Transfer\" (Profile > Profile and Settings "
 "> My Selling Tools > Website Preferences) and then copy your identity token "
 "here. This will allow payments to be verified without the need for PayPal "
 "IPN."
 msgstr ""
-"Schakel optioneel \"Payment Data Transfer\" in (Profiel > Website "
-"Betalingsvoorkeuren) en kopieer je identiteitstoken hier. Hiermee kunnen "
-"betalingen gecontroleerd worden zonder dat PayPal IPN nodig is."
+"Schakel optioneel \"Payment Data Transfer\" in (Profiel > Profiel en "
+"Instellingen > Verkoop Gereedschap > Website Voorkeuren) en kopieer je "
+"identiteitstoken hier. Hiermee kunnen betalingen gecontroleerd worden zonder "
+"dat PayPal IPN nodig is."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:75
 msgid "Invoice Prefix"
@@ -10051,6 +10048,8 @@ msgid ""
 "To connect to %1$s you need to be logged in. Log in to your store below, or "
 "%2$scancel and return to %1$s%3$s"
 msgstr ""
+"Om met %1$s te verbinden moet je ingelogd zijn. Log hieronder in op je "
+"winkel, of %2$sannuleer en ga terug naar %1$s%3$s"
 
 #: templates/auth/form-login.php:26 templates/myaccount/form-login.php:35
 msgid "Username or email address"
