@@ -3,7 +3,7 @@
 Plugin Name: WooCommerce (nl) (alternative)
 Plugin URI: http://zenoweb.nl/
 Description: Extends the WooCommerce plugin and add-ons with the Dutch language. Uses the informal "je" form instead of the formal "u" form.
-Version: 1.4.0
+Version: 1.4.1
 Requires at least: 3.0
 
 Author: Marcel Pol
@@ -27,14 +27,22 @@ function woo_nl_alt_load() {
 		}
 		load_plugin_textdomain( 'woocommerce', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/woocommerce' );
 
+}
+add_action( 'before_woocommerce_init', 'woo_nl_alt_load' );
+
+
+// Load Storefront MO file.
+function woo_nl_alt_load_storefront() {
+
+		$locale = apply_filters( 'plugin_locale', get_locale(), 'woocommerce' );
+
 		/* Storefront Translation */
 		$template   = get_option( 'template' );
 		$stylesheet = get_option( 'stylesheet' );
 
 		if ( is_int(strpos( $template, 'storefront' )) || is_int(strpos( $stylesheet, 'storefront' )) ) {
-			load_textdomain( 'storefront', $dir . 'languages/storefront/' . $locale . '.mo' );
+			load_theme_textdomain( 'storefront', plugin_dir_path( __FILE__ ) . 'languages/storefront/' );
 		}
 
 }
-add_action( 'before_woocommerce_init', 'woo_nl_alt_load' );
-
+add_action( 'after_setup_theme', 'woo_nl_alt_load_storefront' );

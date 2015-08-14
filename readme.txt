@@ -26,6 +26,10 @@ You should not activate it at the same time as the WooCommerce (nl) plugin.
 
 == Changelog ==
 
+= 1.4.1 =
+* 2015-08-14
+* Properly support Storefront.
+
 = 1.4.0 =
 * 2015-08-14
 * Complete rewrite of the code.
