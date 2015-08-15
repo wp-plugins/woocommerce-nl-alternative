@@ -18,7 +18,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WooCommerce\n"
 "POT-Creation-Date: 2015-08-14 14:50+0200\n"
-"PO-Revision-Date: 2015-08-15 12:34+0200\n"
+"PO-Revision-Date: 2015-08-15 16:14+0200\n"
 "Last-Translator: Marcel Pol <marcel@timelord.nl>\n"
 "Language-Team: Dutch (Netherlands)\n"
 "Language: nl_NL\n"
@@ -812,7 +812,6 @@ msgid "Support"
 msgstr "Support"
 
 #: includes/admin/class-wc-admin-help.php:186
-#, fuzzy
 msgid ""
 "After %sreading the documentation%s, for further assistance you can use the "
 "%scommunity forums%s on WordPress.org to talk with other users. If however "
@@ -820,18 +819,17 @@ msgid ""
 "WooThemes, please %suse our helpdesk%s."
 msgstr ""
 "Na het %slezen van de documentatie%s kun je voor verdere hulp gebruik maken "
-"van het %sWordPress.org support forum%s. Voor ondersteuning van premium add-"
-"ons van WooThemes of als je een WooThemes klant bent, kun je gebruik maken "
-"van %sonze helpdesk%s."
+"van het %sWordPress.org support forum%s om met andere gebruikers te "
+"overleggen. Als je een WooThemes klant bent, of hulp nodig hebt bij premium "
+"add-ons van WooThemes, kun je gebruik maken van %sonze helpdesk%s."
 
 #: includes/admin/class-wc-admin-help.php:187
-#, fuzzy
 msgid ""
 "Before asking for help we recommend checking the system status page to "
 "identify any problems with your configuration."
 msgstr ""
-"Voordat je om ondersteuning vraagt, raden we je aan de statuspagina te "
-"checken om mogelijke problemen met je configuratie te identificeren."
+"Voordat je om ondersteuning vraagt, raden we je aan de systeemstatuspagina "
+"te checken om mogelijke problemen met je configuratie te identificeren."
 
 #: includes/admin/class-wc-admin-help.php:188
 msgid "WordPress.org Forums"
@@ -862,7 +860,6 @@ msgid "Found a bug?"
 msgstr "Een bug gevonden?"
 
 #: includes/admin/class-wc-admin-help.php:205
-#, fuzzy
 msgid ""
 "If you find a bug within WooCommerce core you can create a ticket via <a "
 "href=\"%s\">Github issues</a>. Ensure you read the <a href=\"%s"
@@ -872,8 +869,9 @@ msgid ""
 msgstr ""
 "Als je een bug in de WooCommerce core vindt, kun je een ticket aanmaken via "
 "<a href=\"%s\">Github issues</a>. Lees eerst de <a href=\"%s\">contribution "
-"guide</a> voordat je een rapport indient. Wees zo beschrijvend mogelijk en "
-"voeg het <a href=\"%s\">system status report</a> toe."
+"guide</a> voordat je een rapport indient. Om ons te helpen je probleem op te "
+"lossen, wees zo beschrijvend mogelijk en voeg het <a href=\"%s\">systeem "
+"status rapport</a> toe."
 
 #: includes/admin/class-wc-admin-help.php:206
 msgid "Report a bug"
@@ -2327,9 +2325,8 @@ msgid "Yes, I will be shipping physical goods to customers"
 msgstr ""
 
 #: includes/admin/class-wc-admin-setup-wizard.php:434
-#, fuzzy
 msgid "<strong>Domestic</strong> shipping costs:"
-msgstr "<strong>%s bestelling</strong> wacht op afhandeling"
+msgstr "<strong>Nationale</strong> verzendkosten:"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:436
 #: includes/admin/class-wc-admin-setup-wizard.php:442
@@ -2337,9 +2334,8 @@ msgid "A total of %s per order and/or %s per item"
 msgstr ""
 
 #: includes/admin/class-wc-admin-setup-wizard.php:440
-#, fuzzy
 msgid "<strong>International</strong> shipping costs:"
-msgstr "<strong>%s bestelling</strong> wacht op afhandeling"
+msgstr "<strong>Internationale</strong> verzendkosten:"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:447
 msgid "Basic Tax Setup"
@@ -2350,24 +2346,20 @@ msgid "Will you be charging sales tax?"
 msgstr "Bereken je BTW?"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:454
-#, fuzzy
 msgid "Yes, I will be charging sales tax"
 msgstr "Ja, ik wil prijzen inclusief belasting invoeren"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:458
-#, fuzzy
 msgid "How will you enter product prices?"
-msgstr "Toon alle producttypes"
+msgstr "Hoe wil je productprijzen invoeren?"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:460
-#, fuzzy
 msgid "I will enter prices inclusive of tax"
-msgstr "Ja, ik wil prijzen inclusief belasting invoeren"
+msgstr "Ik wil prijzen invoeren inclusief belasting"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:461
-#, fuzzy
 msgid "I will enter prices exclusive of tax"
-msgstr "Nee, ik wil prijzen exclusief belasting invoeren"
+msgstr "Ik wil prijzen invoeren exclusief belasting"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:483
 msgid "Import Tax Rates?"
@@ -2433,9 +2425,8 @@ msgid "Cheque Payments"
 msgstr "Cheque-betalingen"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:659
-#, fuzzy
 msgid "Enable payment via Cheques"
-msgstr "Betaling via %s"
+msgstr "Activeer betaling via Cheques"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:663
 msgid "Cash on Delivery"
@@ -2450,9 +2441,8 @@ msgid "Bank Transfer (BACS)"
 msgstr "Bankoverschrijving (BACS)"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:671
-#, fuzzy
 msgid "Enable BACS payments"
-msgstr "Activeer belastingen"
+msgstr "Activeer bankoverschrijvingen"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:738
 msgid "Your Store is Ready!"
@@ -3012,9 +3002,8 @@ msgid ""
 msgstr ""
 
 #: includes/admin/class-wc-admin-welcome.php:245
-#, fuzzy
 msgid "Custom AJAX Endpoints"
-msgstr "Endpoints voor Afrekenen"
+msgstr "Aangepaste Endpoints voor AJAX"
 
 #: includes/admin/class-wc-admin-welcome.php:246
 msgid ""
@@ -3035,9 +3024,8 @@ msgid ""
 msgstr ""
 
 #: includes/admin/class-wc-admin-welcome.php:255
-#, fuzzy
 msgid "Email Notification Improvements"
-msgstr "Verbeteringen van het e-mailsjabloon"
+msgstr "Verbeteringen van e-mailnotficaties"
 
 #: includes/admin/class-wc-admin-welcome.php:256
 msgid ""
@@ -3047,9 +3035,8 @@ msgid ""
 msgstr ""
 
 #: includes/admin/class-wc-admin-welcome.php:259
-#, fuzzy
 msgid "Shipping Method Priorities"
-msgstr "Verzendmethoden"
+msgstr "Prioriteiten van Verzendmethoden"
 
 #: includes/admin/class-wc-admin-welcome.php:260
 msgid ""
@@ -4186,9 +4173,8 @@ msgid "Variation #%s of %s"
 msgstr "Variatie #%s van %s"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1332
-#, fuzzy
 msgid "#%s &ndash; Variation SKU must be unique."
-msgstr "Variatie SKU moet uniek zijn."
+msgstr "#%s &ndash; Variatie-SKU moet uniek zijn."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1452
 #, fuzzy
@@ -5523,14 +5509,12 @@ msgstr ""
 "gegevens invullen)."
 
 #: includes/admin/settings/class-wc-settings-general.php:90
-#, fuzzy
 msgid ""
 "The %sMaxMind GeoLite Database%s will be periodically downloaded to your wp-"
 "content directory if using geolocation."
 msgstr ""
-"Let op: Als je Geolocatie gebruikt om gebruikersadressen te achterhalen, "
-"wordt de %sMaxMind Geolite-database%s periodiek gedownload en opgeslagen in "
-"je wp-content map."
+"De %sMaxMind Geolite-database%s wordt periodiek gedownload en opgeslagen in "
+"je wp-content map als geolokatie gebruikt wordt."
 
 #: includes/admin/settings/class-wc-settings-general.php:95
 msgid "No address"
