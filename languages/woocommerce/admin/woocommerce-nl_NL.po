@@ -18,7 +18,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WooCommerce\n"
 "POT-Creation-Date: 2015-08-14 14:50+0200\n"
-"PO-Revision-Date: 2015-08-14 18:49+0200\n"
+"PO-Revision-Date: 2015-08-15 12:34+0200\n"
 "Last-Translator: Marcel Pol <marcel@timelord.nl>\n"
 "Language-Team: Dutch (Netherlands)\n"
 "Language: nl_NL\n"
@@ -78,7 +78,7 @@ msgstr "Bekijken/Bewerken"
 
 #: includes/admin/class-wc-admin-api-keys-table-list.php:81
 msgid "Revoke API Key"
-msgstr "API Sleutel terugtrekken"
+msgstr "API-sleutel intrekken"
 
 #: includes/admin/class-wc-admin-api-keys-table-list.php:81
 #: includes/admin/class-wc-admin-api-keys-table-list.php:171
@@ -108,7 +108,7 @@ msgstr "Onbekend"
 #: includes/admin/class-wc-admin-api-keys.php:62
 #: includes/admin/settings/class-wc-settings-api.php:46
 msgid "Keys/Apps"
-msgstr "Sleutels.Applicaties"
+msgstr "Sleutels/Applicaties"
 
 #: includes/admin/class-wc-admin-api-keys.php:62
 msgid "Add Key"
@@ -131,7 +131,7 @@ msgstr "API-sleutel succesvol ingetrokken."
 #: includes/admin/class-wc-admin-webhooks.php:254
 #: includes/admin/class-wc-admin-webhooks.php:283
 msgid "Action failed. Please refresh the page and retry."
-msgstr "Actie mislukt. Ververs de pagina en probeer opnieuw."
+msgstr "Actie mislukt. Vernieuw de pagina en probeer opnieuw."
 
 #. Plugin Name of the plugin/theme
 msgid "WooCommerce"
@@ -198,7 +198,7 @@ msgstr "Kies een afbeelding"
 
 #: includes/admin/class-wc-admin-assets.php:183
 msgid "Set variation image"
-msgstr "Variatie afbeelding instellen"
+msgstr "Variatie-afbeelding instellen"
 
 #: includes/admin/class-wc-admin-assets.php:184
 msgid "variation added"
@@ -751,7 +751,7 @@ msgstr "Afhalen"
 #: includes/admin/class-wc-admin-help.php:109
 #: includes/admin/class-wc-admin-help.php:113
 msgid "Product Categories, Tags, Shipping Classes, &amp; Attributes"
-msgstr ""
+msgstr "Productcategorieën, Tags, Verzendklassen &amp; Eigenschappen"
 
 #: includes/admin/class-wc-admin-help.php:117
 msgid "Simple Products"
@@ -843,9 +843,8 @@ msgstr "WooThemes Customer Support"
 
 #: includes/admin/class-wc-admin-help.php:193
 #: includes/admin/class-wc-admin-help.php:195
-#, fuzzy
 msgid "Education"
-msgstr "Locatie"
+msgstr "Opleiding"
 
 #: includes/admin/class-wc-admin-help.php:196
 msgid ""
@@ -956,9 +955,8 @@ msgid "Add to Menu"
 msgstr "Aan Menu toevoegen"
 
 #: includes/admin/class-wc-admin-menus.php:312
-#, fuzzy
 msgid "Visit Store"
-msgstr "Meest op voorraad"
+msgstr "Bezoek Winkel"
 
 #: includes/admin/class-wc-admin-meta-boxes.php:105
 #: includes/admin/class-wc-admin-pointers.php:157
@@ -2092,36 +2090,29 @@ msgid "Store Locale"
 msgstr "Winkel-taal"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:76
-#, fuzzy
 msgid "Shipping &amp; Tax"
-msgstr "Verzendkostennaam"
+msgstr "Verzending &amp; Belasting"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:81
 #: includes/admin/class-wc-admin-setup-wizard.php:634
-#, fuzzy
 msgid "Payments"
-msgstr "Gehoste betalingen activeren"
+msgstr "Betalingen"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:86
-#, fuzzy
 msgid "Ready!"
-msgstr ""
-"Deze plugin is geïnstalleerd en geactiveerd, dus de CAPTCHA is klaar voor "
-"gebruik."
+msgstr "Klaar!"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:148
-#, fuzzy
 msgid "WooCommerce &rsaquo; Setup Wizard"
-msgstr "WooCommerce Support"
+msgstr "WooCommerce &rsaquo; Instellingen Wizard"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:163
 msgid "Return to the WordPress Dashboard"
-msgstr ""
+msgstr "Terug naar het WordPress Dashboard"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:205
-#, fuzzy
 msgid "Welcome to the world of WooCommerce!"
-msgstr "Welkom bij WooCommerce"
+msgstr "Welkom in de wereld van WooCommerce."
 
 #: includes/admin/class-wc-admin-setup-wizard.php:206
 msgid ""
@@ -2152,9 +2143,8 @@ msgid ""
 msgstr ""
 
 #: includes/admin/class-wc-admin-setup-wizard.php:226
-#, fuzzy
 msgid "Page Name"
-msgstr "Kosten naam"
+msgstr "Paginanaam"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:233
 msgid "The shop page will display your products."
@@ -2204,11 +2194,11 @@ msgstr "Taal van winkel"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:297
 msgid "Where is your store based?"
-msgstr ""
+msgstr "Wat is de lokatie van je winkel?"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:305
 msgid "Which currency will your store use?"
-msgstr ""
+msgstr "Welke munteenheid gaat je winkel gebruiken?"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:307
 #: includes/admin/class-wc-admin-setup-wizard.php:308
@@ -2218,6 +2208,7 @@ msgstr "Kies een munteenheid&hellip;"
 #: includes/admin/class-wc-admin-setup-wizard.php:315
 msgid "If your currency is not listed you can %sadd it later%s."
 msgstr ""
+"Als je munteenheid niet in de lijst staat kun je hem %slater toevoegen%s."
 
 #: includes/admin/class-wc-admin-setup-wizard.php:319
 #: includes/admin/settings/class-wc-settings-general.php:137
@@ -2352,11 +2343,11 @@ msgstr "<strong>%s bestelling</strong> wacht op afhandeling"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:447
 msgid "Basic Tax Setup"
-msgstr ""
+msgstr "Algemene opties voor belasting"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:451
 msgid "Will you be charging sales tax?"
-msgstr ""
+msgstr "Bereken je BTW?"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:454
 #, fuzzy
@@ -2439,7 +2430,7 @@ msgstr ""
 
 #: includes/admin/class-wc-admin-setup-wizard.php:657
 msgid "Cheque Payments"
-msgstr ""
+msgstr "Cheque-betalingen"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:659
 #, fuzzy
@@ -2456,7 +2447,7 @@ msgstr "Rembours inschakelen"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:669
 msgid "Bank Transfer (BACS)"
-msgstr ""
+msgstr "Bankoverschrijving (BACS)"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:671
 #, fuzzy
@@ -2465,7 +2456,7 @@ msgstr "Activeer belastingen"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:738
 msgid "Your Store is Ready!"
-msgstr ""
+msgstr "Je winkel is klaar!"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:742
 #: includes/admin/views/html-notice-tracking.php:11
@@ -2493,11 +2484,11 @@ msgstr "Bedankt :)"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:752
 msgid "Next Steps"
-msgstr ""
+msgstr "Volgende stappen"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:754
 msgid "Create your first product!"
-msgstr ""
+msgstr "Maak je eerste product aan!"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:758
 msgid "Learn More"
@@ -2521,7 +2512,7 @@ msgstr ""
 
 #: includes/admin/class-wc-admin-status.php:50
 msgid "Product Transients Cleared"
-msgstr "Product Transients Gewist"
+msgstr "Product-transients gewist"
 
 #: includes/admin/class-wc-admin-status.php:75
 msgid "%d Transients Rows Cleared"
@@ -2599,7 +2590,7 @@ msgstr "Transients wissen"
 
 #: includes/admin/class-wc-admin-status.php:183
 msgid "This tool will clear the product/shop transients cache."
-msgstr "Deze functie wist de product/winkel transients cache."
+msgstr "Deze functie wist de product/winkel transients-cache."
 
 #: includes/admin/class-wc-admin-status.php:186
 msgid "Expired Transients"
@@ -2999,7 +2990,7 @@ msgstr ""
 
 #: includes/admin/class-wc-admin-welcome.php:237
 msgid "Geolocation with Caching"
-msgstr ""
+msgstr "Geolokatie met Caches"
 
 #: includes/admin/class-wc-admin-welcome.php:238
 msgid ""
@@ -3405,8 +3396,8 @@ msgid ""
 "email for guests, and user ID for logged in users."
 msgstr ""
 "Aantal keer dat de kortingsbon gebruikt mag worden door een individuele "
-"gebruiker. Gebruikt factuure-mail voor gasten en gebruiker ID voor ingelogde "
-"gebruikers."
+"gebruiker. Gebruikt de factuur-e-mail voor gasten en het gebruikersnummer "
+"voor ingelogde gebruikers."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:231
 msgid ""
@@ -3452,9 +3443,8 @@ msgid "Phone"
 msgstr "Telefoon"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:167
-#, fuzzy
 msgid "%s %s details"
-msgstr "Bestelling #%s Gegevens"
+msgstr "%s %s gegevens"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:171
 msgid "Payment via %s"
@@ -3847,7 +3837,7 @@ msgstr ""
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:313
 #: includes/admin/meta-boxes/views/html-variation-admin.php:120
 msgid "Allow Backorders?"
-msgstr "Backorders toestaan?"
+msgstr "Nabestellingen toestaan?"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:314
 #: includes/admin/views/html-bulk-edit-product.php:280
@@ -4012,7 +4002,7 @@ msgstr "Menuvolgorde"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:547
 msgid "Custom ordering position."
-msgstr "Aangepast volgorde positie."
+msgstr "Aangepaste volgorde positie."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:555
 msgid "Enable reviews"
@@ -4032,11 +4022,11 @@ msgstr "Leer meer"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:617
 msgid "Default Form Values"
-msgstr "Standaard waardes voor formulieren"
+msgstr "Standaardwaardes voor formulieren"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:617
 msgid "These are the attributes that will be pre-selected on the frontend."
-msgstr "Dit zijn de eigenschappen op de front-end al worden geselecteerd."
+msgstr "Dit zijn de eigenschappen die op de frontend al worden geselecteerd."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:632
 msgid "No default"
@@ -4048,7 +4038,7 @@ msgstr "Variatie toevoegen"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:662
 msgid "Create variations from all attributes"
-msgstr ""
+msgstr "Maak variaties aan van alle eigenschappen"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:663
 msgid "Delete all variations"
@@ -4075,33 +4065,28 @@ msgid "Set regular prices"
 msgstr "Instellen normale prijzen"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:671
-#, fuzzy
 msgid "Increase regular prices (fixed amount or percentage)"
-msgstr "Verlaag standaard prijs met (vast bedrag of %):"
+msgstr "Verhoog standaardprijzen (vast bedrag of percentage)"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:672
-#, fuzzy
 msgid "Decrease regular prices (fixed amount or percentage)"
-msgstr "Verlaag standaard prijs met (vast bedrag of %):"
+msgstr "Verlaag standaardprijzen (vast bedrag of percentage)"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:673
 msgid "Set sale prices"
 msgstr "Instellen kortingsprijzen"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:674
-#, fuzzy
 msgid "Increase sale prices (fixed amount or percentage)"
-msgstr "Verlaag standaard prijs met (vast bedrag of %):"
+msgstr "Verhoog kortingsprijzen (vast bedrag of percentage)"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:675
-#, fuzzy
 msgid "Decrease sale prices (fixed amount or percentage)"
-msgstr "Verlaag standaard prijs met (vast bedrag of %):"
+msgstr "Verlaag kortingsprijzen (vast bedrag of percentage)"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:676
-#, fuzzy
 msgid "Set scheduled sale dates"
-msgstr "Geplande uitverkoopdata"
+msgstr "Instellen geplande uitverkoopdata"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:679
 msgid "Toggle &quot;Manage stock&quot;"
@@ -4144,13 +4129,12 @@ msgstr "Sluiten"
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:702
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:736
 msgid "Go to the first page"
-msgstr ""
+msgstr "Ga naar de eerste pagina"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:703
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:737
-#, fuzzy
 msgid "Go to the previous page"
-msgstr "Toon op de productpagina"
+msgstr "Ga naar de vorige pagina"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:705
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:739
@@ -4165,12 +4149,12 @@ msgstr "Huidige pagina"
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:713
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:747
 msgid "Go to the next page"
-msgstr ""
+msgstr "Ga naar de volgende pagina"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:714
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:748
 msgid "Go to the last page"
-msgstr ""
+msgstr "Ga naar de laatste pagina"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:727
 #: includes/admin/settings/views/html-keys-edit.php:96
@@ -4243,7 +4227,7 @@ msgstr "Productafbeeldingen toevoegen"
 
 #: includes/admin/meta-boxes/views/html-order-download-permission.php:10
 msgid "Revoke Access"
-msgstr "Toegang Terugtrekken"
+msgstr "Toegang intrekken"
 
 #: includes/admin/meta-boxes/views/html-order-download-permission.php:13
 msgid "%s: %s"
@@ -4476,7 +4460,7 @@ msgstr "Tarief %"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:375
 msgid "Or, enter tax rate ID:"
-msgstr "Of, vul belastingtarief ID in:"
+msgstr "Of, vul belastingtarief-nummer in:"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:376
 msgid "Optional"
@@ -4532,7 +4516,7 @@ msgstr "Bestand URL invoegen"
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:19
 msgid "Drag and drop, or click to set menu order manually"
-msgstr ""
+msgstr "Versleep, of klik om de menuvolgorde handmatig in te stellen"
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:33
 msgid "Any"
@@ -4780,7 +4764,7 @@ msgstr[1] "%s eerdere bestellingen gelinkt"
 
 #: includes/admin/reports/class-wc-report-customer-list.php:61
 msgid "Refreshed stats for %s"
-msgstr "Statistieken voor %s ververst"
+msgstr "Statistieken voor %s vernieuwd"
 
 #: includes/admin/reports/class-wc-report-customer-list.php:66
 msgid "Search customers"
@@ -4788,7 +4772,7 @@ msgstr "Klanten zoeken"
 
 #: includes/admin/reports/class-wc-report-customer-list.php:163
 msgid "Refresh stats"
-msgstr "Statistieken verversen"
+msgstr "Statistieken vernieuwen"
 
 #: includes/admin/reports/class-wc-report-customer-list.php:175
 msgid "View orders"
@@ -4833,7 +4817,7 @@ msgstr "Verkoop aan Gasten"
 #: includes/admin/reports/class-wc-report-customers.php:102
 #: includes/admin/reports/class-wc-report-customers.php:301
 msgid "Customer Orders"
-msgstr "Bestellingen van klanten"
+msgstr "Bestellingen van Klanten"
 
 #: includes/admin/reports/class-wc-report-customers.php:107
 #: includes/admin/reports/class-wc-report-customers.php:311
@@ -4858,7 +4842,7 @@ msgstr "Inschrijvingen"
 
 #: includes/admin/reports/class-wc-report-customers.php:328
 msgid "new users"
-msgstr "Nieuwe gebruikers"
+msgstr "nieuwe gebruikers"
 
 #: includes/admin/reports/class-wc-report-low-in-stock.php:25
 msgid "No low in stock products found."
@@ -4905,7 +4889,8 @@ msgid ""
 "This is the sum of the order totals after any refunds and including shipping "
 "and taxes."
 msgstr ""
-"Dit is de som van het order totaal, inclusief verzendkosten en belastingen."
+"Dit is de som van het bestellingentotaal, inclusief verzendkosten en "
+"belastingen."
 
 #: includes/admin/reports/class-wc-report-sales-by-date.php:356
 msgid "%s net sales in this period"
@@ -4916,7 +4901,8 @@ msgid ""
 "This is the sum of the order totals after any refunds and excluding shipping "
 "and taxes."
 msgstr ""
-"Dit is de som van het order totaal, exclusief verzendkosten en belastingen."
+"Dit is de som van het bestellingentotaal, exclusief verzendkosten en "
+"belastingen."
 
 #: includes/admin/reports/class-wc-report-sales-by-date.php:369
 msgid "%s orders placed"
@@ -4929,8 +4915,8 @@ msgstr "%s artikelen gekocht"
 #: includes/admin/reports/class-wc-report-sales-by-date.php:380
 msgid "%s refunded %d order"
 msgid_plural "%s refunded %d orders"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s betaalde %d bestelling terug"
+msgstr[1] "% betaalde %d bestellingen terug"
 
 #: includes/admin/reports/class-wc-report-sales-by-date.php:385
 msgid "%s charged for shipping"
@@ -5258,7 +5244,7 @@ msgstr ""
 
 #: includes/admin/settings/class-wc-settings-checkout.php:82
 msgid "Calculate coupon discounts sequentially"
-msgstr ""
+msgstr "Bereken de bon-kortingen opeenvolgend"
 
 #: includes/admin/settings/class-wc-settings-checkout.php:86
 msgid ""
@@ -5561,7 +5547,7 @@ msgstr "Adres lokaliseren"
 
 #: includes/admin/settings/class-wc-settings-general.php:98
 msgid "Geolocate (with page caching support)"
-msgstr ""
+msgstr "Geolokatie (met ondersteuning voor pagina-cache)"
 
 #: includes/admin/settings/class-wc-settings-general.php:103
 msgid "Store Notice"
@@ -5638,7 +5624,7 @@ msgstr "Weergave"
 
 #: includes/admin/settings/class-wc-settings-products.php:85
 msgid "Shop & Product Pages"
-msgstr "Winkel en productpagina's"
+msgstr "Winkel- en productpagina's"
 
 #: includes/admin/settings/class-wc-settings-products.php:92
 msgid "Shop Page"
@@ -5854,7 +5840,7 @@ msgstr "Dit bepaalt hoe voorraad wordt weergegeven op de front-end."
 
 #: includes/admin/settings/class-wc-settings-products.php:345
 msgid "Always show stock e.g. \"12 in stock\""
-msgstr "Toon altijd de voorraad - bv.  \"12 in voorraad\""
+msgstr "Toon altijd de voorraad, bv. \"12 in voorraad\""
 
 #: includes/admin/settings/class-wc-settings-products.php:346
 msgid "Only show stock when low e.g. \"Only 2 left in stock\" vs. \"In Stock\""
@@ -6015,7 +6001,6 @@ msgid "Default to billing address"
 msgstr "Standaard naar factuuradres"
 
 #: includes/admin/settings/class-wc-settings-shipping.php:123
-#, fuzzy
 msgid "Only ship to the customer's billing address"
 msgstr "Alleen verzenden naar factuuradres"
 
@@ -6052,9 +6037,8 @@ msgid "ID"
 msgstr "ID"
 
 #: includes/admin/settings/class-wc-settings-shipping.php:206
-#, fuzzy
 msgid "Selection Priority"
-msgstr "Prioriteit"
+msgstr "Selectie Prioriteit"
 
 #: includes/admin/settings/class-wc-settings-shipping.php:206
 msgid ""
@@ -6083,24 +6067,20 @@ msgid "%s Rates"
 msgstr "%s Tarieven"
 
 #: includes/admin/settings/views/html-keys-edit.php:8
-#, fuzzy
 msgid "Key Details"
-msgstr "Algemene gegevens"
+msgstr "Sleutelgegevens"
 
 #: includes/admin/settings/views/html-keys-edit.php:17
-#, fuzzy
 msgid "Friendly name for identifying this key."
-msgstr ""
-"Herkenbare naam om deze webhook te identificeren, verwijst standaard naar "
-"Webhook aangemaakt op %s."
+msgstr "Herkenbare naam om deze sleutel te identificeren."
 
 #: includes/admin/settings/views/html-keys-edit.php:26
 msgid "Owner of these keys."
-msgstr ""
+msgstr "Eigenaar van deze sleutels."
 
 #: includes/admin/settings/views/html-keys-edit.php:41
 msgid "Select the access type of these keys."
-msgstr ""
+msgstr "Selecteer het toegangstype van deze sleutels."
 
 #: includes/admin/settings/views/html-keys-edit.php:92
 msgid "Generate API Key"
@@ -6519,12 +6499,12 @@ msgid ""
 "List additional tax classes below (1 per line). This is in addition to the "
 "default \"Standard Rate\"."
 msgstr ""
-"Toon hieronder additionele belastingklassen (1 per regel). Dit is een "
+"Toon hieronder aanvullende belastingklassen (1 per regel). Dit is een "
 "toevoeging op het \"Standaardtarief\"."
 
 #: includes/admin/settings/views/settings-tax.php:71
 msgid "Reduced Rate%sZero Rate"
-msgstr "Gereduceerd tarief %s Nultarief"
+msgstr "Gereduceerd tarief%sNultarief"
 
 #: includes/admin/settings/views/settings-tax.php:75
 msgid "Display Prices in the Shop:"
@@ -6578,7 +6558,7 @@ msgstr "Bekijk alle extensies"
 
 #: includes/admin/views/html-admin-page-addons.php:22
 msgid "Need a theme? Try Storefront"
-msgstr ""
+msgstr "Thema nodig? Probeer Storefront eens"
 
 #: includes/admin/views/html-admin-page-addons.php:28
 msgid "Popular"
@@ -6755,11 +6735,11 @@ msgstr ""
 
 #: includes/admin/views/html-admin-page-status-report.php:77
 msgid "WP Debug Mode"
-msgstr "WP Debug Mode"
+msgstr "WP Debug Modus"
 
 #: includes/admin/views/html-admin-page-status-report.php:78
 msgid "Displays whether or not WordPress is in Debug Mode."
-msgstr "Toont of WordPress in Debug Mode is of niet."
+msgstr "Toont of WordPress in Debug Modus is of niet."
 
 #: includes/admin/views/html-admin-page-status-report.php:82
 msgid "Language"
@@ -7062,7 +7042,7 @@ msgstr "Het scheidingsteken voor duizendtallen van getoonde prijzen."
 
 #: includes/admin/views/html-admin-page-status-report.php:414
 msgid "The decimal separator of displayed prices."
-msgstr "Het scheidingsteken voor decimalen voor getoonde prijzen."
+msgstr "Het scheidingsteken voor decimalen van getoonde prijzen."
 
 #: includes/admin/views/html-admin-page-status-report.php:419
 msgid "The number of decimal points shown in displayed prices."
@@ -7083,11 +7063,11 @@ msgstr "API-versie"
 
 #: includes/admin/views/html-admin-page-status-report.php:438
 msgid "What version of the REST API does your site use?"
-msgstr ""
+msgstr "Welke versie van de REST API gebruikt je site?"
 
 #: includes/admin/views/html-admin-page-status-report.php:446
 msgid "WC Pages"
-msgstr "WC pagina's"
+msgstr "WC-pagina's"
 
 #: includes/admin/views/html-admin-page-status-report.php:455
 msgid "The URL of your WooCommerce shop's homepage (along with the Page ID)."
@@ -7122,15 +7102,15 @@ msgstr "Pagina bevat niet de shortcode: %s"
 
 #: includes/admin/views/html-admin-page-status-report.php:524
 msgid "Taxonomies"
-msgstr "Indelingen"
+msgstr "Taxonomieën"
 
 #: includes/admin/views/html-admin-page-status-report.php:524
 msgid ""
 "A list of taxonomy terms that can be used in regard to order/product "
 "statuses."
 msgstr ""
-"Een lijst van indelingstermen die gebruikt kunnen worden voor bestelling- en "
-"productstatussen."
+"Een lijst van taxonomie-termen die gebruikt kunnen worden voor bestelling- "
+"en productstatussen."
 
 #: includes/admin/views/html-admin-page-status-report.php:529
 msgid "Product Types"
@@ -7277,16 +7257,15 @@ msgstr ""
 
 #: includes/admin/views/html-admin-page-status-tools.php:56
 msgid "Remove All Data"
-msgstr ""
+msgstr "Verwijder alle gegevens"
 
 #: includes/admin/views/html-admin-page-status-tools.php:62
-#, fuzzy
 msgid ""
 "This tool will remove all WooCommerce, Product and Order data when using the "
 "\"Delete\" link on the plugins screen."
 msgstr ""
-"Deze tool verwijdert alle product- en ordergegevens wanneer WooCommerce "
-"verwijderd wordt via Plugins > Verwijderen."
+"Deze tool verwijdert alle WooCommerce-, product- en bestellinggegevens "
+"wanneer WooCommerce verwijderd wordt via Plugins > Verwijderen."
 
 #: includes/admin/views/html-admin-page-status.php:18
 msgid "Logs"
@@ -7387,14 +7366,13 @@ msgstr "Op voorraad?"
 #: includes/admin/views/html-bulk-edit-product.php:274
 #: includes/admin/views/html-quick-edit-product.php:194
 msgid "Backorders?"
-msgstr "Backorders?"
+msgstr "Nabestellingen?"
 
 #: includes/admin/views/html-bulk-edit-product.php:295
 msgid "Sold Individually?"
 msgstr "Wordt individueel verkocht?"
 
 #: includes/admin/views/html-notice-install.php:12
-#, fuzzy
 msgid ""
 "<strong>Welcome to WooCommerce</strong> &#8211; You&lsquo;re almost ready to "
 "start selling :)"
@@ -7403,9 +7381,8 @@ msgstr ""
 "beginnen met verkopen :)"
 
 #: includes/admin/views/html-notice-install.php:13
-#, fuzzy
 msgid "Run the Setup Wizard"
-msgstr "Voer de updater uit"
+msgstr "Voer de Instellingen Wizard uit"
 
 #: includes/admin/views/html-notice-install.php:13
 msgid "Skip Setup"
@@ -7689,13 +7666,13 @@ msgstr "Koop Product"
 #: includes/admin/meta-boxes/views/html-variation-admin.php:104
 msgctxt "placeholder"
 msgid "From&hellip;"
-msgstr "Van &hellip;"
+msgstr "Van&hellip;"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:174
 #: includes/admin/meta-boxes/views/html-variation-admin.php:108
 msgctxt "placeholder"
 msgid "To&hellip;"
-msgstr "Tot &hellip;"
+msgstr "Tot&hellip;"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:258
 #: includes/admin/views/html-bulk-edit-product.php:77
@@ -7708,7 +7685,7 @@ msgstr "Geen"
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:745
 msgctxt "number of pages"
 msgid "of"
-msgstr ""
+msgstr "van"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:301
 msgctxt "Refund $amount"
