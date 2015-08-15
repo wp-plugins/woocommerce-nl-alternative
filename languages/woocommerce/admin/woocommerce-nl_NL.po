@@ -18,7 +18,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WooCommerce\n"
 "POT-Creation-Date: 2015-08-14 14:50+0200\n"
-"PO-Revision-Date: 2015-08-15 16:14+0200\n"
+"PO-Revision-Date: 2015-08-15 18:25+0200\n"
 "Last-Translator: Marcel Pol <marcel@timelord.nl>\n"
 "Language-Team: Dutch (Netherlands)\n"
 "Language: nl_NL\n"
@@ -1388,11 +1388,10 @@ msgstr[0] "1 webhook teruggezet vanuit de Prullenbak."
 msgstr[1] "%d webhooks teruggezet vanuit de Prullenbak."
 
 #: includes/admin/class-wc-admin-post-types.php:186
-#, fuzzy
 msgid "%s coupon updated."
 msgid_plural "%s coupons updated."
-msgstr[0] "Kortingsbon bijgewerkt."
-msgstr[1] "Kortingsbon bijgewerkt."
+msgstr[0] "%s bon bijgewerkt."
+msgstr[1] "%s bonnen bijgewerkt."
 
 #: includes/admin/class-wc-admin-post-types.php:187
 msgid "%s coupon not updated, somebody is editing it."
@@ -1401,25 +1400,22 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: includes/admin/class-wc-admin-post-types.php:188
-#, fuzzy
 msgid "%s coupon permanently deleted."
 msgid_plural "%s coupons permanently deleted."
-msgstr[0] "1 webhook permanent verwijderd."
-msgstr[1] "%d webhooks permanent verwijderd."
+msgstr[0] "%s bon permanent verwijderd."
+msgstr[1] "%s bonnen permanent verwijderd."
 
 #: includes/admin/class-wc-admin-post-types.php:189
-#, fuzzy
 msgid "%s coupon moved to the Trash."
 msgid_plural "%s coupons moved to the Trash."
-msgstr[0] "1 webhook verplaatst naar de Prullenbak."
-msgstr[1] "%d webhooks verplaatst naar de Prullenbak."
+msgstr[0] "%s bon verplaatst naar de Prullenbak."
+msgstr[1] "%s bonnen verplaatst naar de Prullenbak."
 
 #: includes/admin/class-wc-admin-post-types.php:190
-#, fuzzy
 msgid "%s coupon restored from the Trash."
 msgid_plural "%s coupons restored from the Trash."
-msgstr[0] "1 webhook teruggezet vanuit de Prullenbak."
-msgstr[1] "%d webhooks teruggezet vanuit de Prullenbak."
+msgstr[0] "%s bon teruggezet vanuit de Prullenbak."
+msgstr[1] "%s bonnen teruggezet vanuit de Prullenbak."
 
 #: includes/admin/class-wc-admin-post-types.php:210
 #: includes/admin/class-wc-admin-post-types.php:211
@@ -2318,11 +2314,11 @@ msgstr "Algemene Verzend-instellingen"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:427
 msgid "Will you be shipping products?"
-msgstr ""
+msgstr "Ga je ook producten verzenden?"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:430
 msgid "Yes, I will be shipping physical goods to customers"
-msgstr ""
+msgstr "Ja, ik ga fysieke producten verzenden naar klanten"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:434
 msgid "<strong>Domestic</strong> shipping costs:"
@@ -2331,7 +2327,7 @@ msgstr "<strong>Nationale</strong> verzendkosten:"
 #: includes/admin/class-wc-admin-setup-wizard.php:436
 #: includes/admin/class-wc-admin-setup-wizard.php:442
 msgid "A total of %s per order and/or %s per item"
-msgstr ""
+msgstr "Een totaal van %s per bestelling en/of %s per artikel"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:440
 msgid "<strong>International</strong> shipping costs:"
@@ -2367,7 +2363,7 @@ msgstr "Importeer Belastingtarieven?"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:485
 msgid "Yes, please import some starter tax rates"
-msgstr ""
+msgstr "Ja, importeer wat beginnende belastingtarieven"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:491
 msgid "State"
@@ -2498,7 +2494,7 @@ msgstr ""
 
 #: includes/admin/class-wc-admin-setup-wizard.php:763
 msgid "Read more about getting started"
-msgstr ""
+msgstr "Lees meer over hiermee beginnen"
 
 #: includes/admin/class-wc-admin-status.php:50
 msgid "Product Transients Cleared"
@@ -2947,7 +2943,7 @@ msgstr "Vertalers"
 
 #: includes/admin/class-wc-admin-welcome.php:220
 msgid "Improved Product Variation Editor"
-msgstr ""
+msgstr "Verbeterde Productvariate bewerking"
 
 #: includes/admin/class-wc-admin-welcome.php:221
 msgid ""
@@ -2958,7 +2954,7 @@ msgstr ""
 
 #: includes/admin/class-wc-admin-welcome.php:224
 msgid "Frontend Variation Performance"
-msgstr ""
+msgstr "Frontend variatie performance"
 
 #: includes/admin/class-wc-admin-welcome.php:225
 msgid ""
@@ -3014,7 +3010,7 @@ msgstr ""
 
 #: includes/admin/class-wc-admin-welcome.php:251
 msgid "Visual API Authentication"
-msgstr ""
+msgstr "Visual API Authenticatie"
 
 #: includes/admin/class-wc-admin-welcome.php:252
 msgid ""
@@ -3696,13 +3692,12 @@ msgstr "Bestand URL"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:193
 #: includes/admin/meta-boxes/views/html-variation-admin.php:206
-#, fuzzy
 msgid ""
 "This is the URL or absolute path to the file which customers will get access "
 "to. URLs entered here should already be encoded."
 msgstr ""
 "Dit is de URL of absolute pad naar het bestand waartoe de klant toegang "
-"krijgt."
+"krijgt. Hier ingevoerde URLs moeten al versleuteld zijn."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:219
 #: includes/admin/meta-boxes/views/html-variation-admin.php:236
@@ -4177,22 +4172,20 @@ msgid "#%s &ndash; Variation SKU must be unique."
 msgstr "#%s &ndash; Variatie-SKU moet uniek zijn."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1452
-#, fuzzy
 msgid ""
 "#%s &ndash; The downloadable file %s cannot be used as it does not have an "
 "allowed file type. Allowed types include: %s"
 msgstr ""
-"Het downloadbare bestand %s kan niet gebruikt worden omdat het geen "
-"toegestaan bestandstype is. Toegestane types zijn o.a.: %s"
+"#%s &ndash; Het downloadbare bestand %s kan niet gebruikt worden omdat het "
+"geen toegestaan bestandstype is. Toegestane types zijn o.a.: %s"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:1459
-#, fuzzy
 msgid ""
 "#%s &ndash; The downloadable file %s cannot be used as it does not exist on "
 "the server."
 msgstr ""
-"Het downloadbare bestand %s kan niet gebruikt worden omdat het niet op de "
-"server bestaat."
+"#%s &ndash; Het downloadbare bestand %s kan niet gebruikt worden omdat het "
+"niet op de server bestaat."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-images.php:46
 #: includes/admin/meta-boxes/class-wc-meta-box-product-images.php:58
@@ -5251,11 +5244,10 @@ msgid "Force secure checkout"
 msgstr "Forceer veilig afrekenen"
 
 #: includes/admin/settings/class-wc-settings-checkout.php:109
-#, fuzzy
 msgid ""
 "Force SSL (HTTPS) on the checkout pages (a SSL Certificate is required)."
 msgstr ""
-"Gebruik SSL (HTTPS) op de afrekenpagina's (een SSL certificaat is vereist)"
+"Gebruik SSL (HTTPS) op de afrekenpagina's (een SSL certificaat is vereist)."
 
 #: includes/admin/settings/class-wc-settings-checkout.php:113
 msgid "Force HTTP when leaving the checkout"

@@ -24,6 +24,14 @@ WordPress installation and then activate the Plugin from the Plugins page.
 
 You should not activate it at the same time as the WooCommerce (nl) plugin.
 
+== Frequently Asked Questions ==
+
+= Why are my Checkout and Shop pages not translated? =
+
+When this plugin is activated upon installation of WooCommerce, it will make these pages with Dutch names.
+If you activated and did setup WooCommerce, without this translation activated, you will have to rename
+the title of those pages yourself manually.
+
 == Changelog ==
 
 = 1.4.1 =
