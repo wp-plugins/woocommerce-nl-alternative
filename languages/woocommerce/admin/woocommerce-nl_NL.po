@@ -18,7 +18,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WooCommerce\n"
 "POT-Creation-Date: 2015-08-14 14:50+0200\n"
-"PO-Revision-Date: 2015-08-15 18:25+0200\n"
+"PO-Revision-Date: 2015-08-16 12:56+0200\n"
 "Last-Translator: Marcel Pol <marcel@timelord.nl>\n"
 "Language-Team: Dutch (Netherlands)\n"
 "Language: nl_NL\n"
@@ -174,7 +174,7 @@ msgstr "Voer een waarde in"
 
 #: includes/admin/class-wc-admin-assets.php:178
 msgid "Variation menu order (determines position in the list of variations)"
-msgstr ""
+msgstr "Variatie menuvolgorde (bepaalt de positie in de lijst met variaties)"
 
 #: includes/admin/class-wc-admin-assets.php:179
 msgid "Enter a value (fixed or %)"
@@ -784,7 +784,7 @@ msgstr "Bestellingen beheren"
 #: includes/admin/class-wc-admin-help.php:164
 #: includes/admin/class-wc-admin-help.php:166
 msgid "WooCommerce 101"
-msgstr "WooCommerce basislessen"
+msgstr "WooCommerce basiscursus"
 
 #: includes/admin/class-wc-admin-help.php:173
 #: includes/admin/class-wc-admin-help.php:175
@@ -797,6 +797,9 @@ msgid ""
 "read our documentation. You will find all kinds of resources including "
 "snippets, tutorials and much more."
 msgstr ""
+"Mocht je hulp nodig hebben bij het begrijpen, gebruiken, of uitbreiden van "
+"WooCommerce, lees dan onze documentatie. Je vindt allerlei er informatie, "
+"zoals code-snippets, handleidingen en nog veel meer."
 
 #: includes/admin/class-wc-admin-help.php:177
 msgid "WooCommerce Documentation"
@@ -849,6 +852,8 @@ msgid ""
 "If you would like to learn about using WooCommerce from an expert, consider "
 "following a WooCommerce course ran by one of our educational partners."
 msgstr ""
+"Als je van een expert wilt leren hoe WooCommerce te gebruiken, overweeg dan "
+"om een WooCommerce cursus te volgend bij één van onze opleidingspartners."
 
 #: includes/admin/class-wc-admin-help.php:197
 msgid "View Education Partners"
@@ -1134,6 +1139,8 @@ msgid ""
 "Check the \"Virtual\" box if this is a non-physical item, for example a "
 "service, which does not need shipping."
 msgstr ""
+"Vink de \"Virtueel\" checkbox aan als dit een niet-fysiek artikel is, zoals "
+"een dienst, dat geen verzending nodig heeft."
 
 #: includes/admin/class-wc-admin-pointers.php:125
 #: includes/admin/settings/class-wc-settings-products.php:47
@@ -1146,6 +1153,8 @@ msgid ""
 "If purchasing this product gives a customer access to a downloadable file, e."
 "g. software, check this box."
 msgstr ""
+"Als de aankoop van dit product de klant toegang geeft tot een downloadbaar "
+"bestand, zoals software, vink dan deze checkbox aan."
 
 #: includes/admin/class-wc-admin-pointers.php:141
 msgid "Prices"
@@ -1160,6 +1169,8 @@ msgid ""
 "Add a quick summary for your product here. This will appear on the product "
 "page under the product name."
 msgstr ""
+"Voeg hier een korte samenvatting toe voor je product. Dit verschijnt op je "
+"productpagina onder de productnaam."
 
 #: includes/admin/class-wc-admin-pointers.php:169
 #: includes/admin/settings/class-wc-settings-products.php:176
@@ -1329,63 +1340,56 @@ msgstr[1] "%s producten bijgewerkt."
 #: includes/admin/class-wc-admin-post-types.php:171
 msgid "%s product not updated, somebody is editing it."
 msgid_plural "%s products not updated, somebody is editing them."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s product niet bijgewerkt, iemand is het aan het bewerken."
+msgstr[1] "%s producten niet bijgewerkt, iemand is ze aan het bewerken."
 
 #: includes/admin/class-wc-admin-post-types.php:172
-#, fuzzy
 msgid "%s product permanently deleted."
 msgid_plural "%s products permanently deleted."
-msgstr[0] "1 webhook permanent verwijderd."
-msgstr[1] "%d webhooks permanent verwijderd."
+msgstr[0] "%s product permanent verwijderd."
+msgstr[1] "%s producten permanent verwijderd."
 
 #: includes/admin/class-wc-admin-post-types.php:173
-#, fuzzy
 msgid "%s product moved to the Trash."
 msgid_plural "%s products moved to the Trash."
-msgstr[0] "1 webhook verplaatst naar de Prullenbak."
-msgstr[1] "%d webhooks verplaatst naar de Prullenbak."
+msgstr[0] "%s product verplaatst naar de Prullenbak."
+msgstr[1] "%s producten verplaatst naar de Prullenbak."
 
 #: includes/admin/class-wc-admin-post-types.php:174
-#, fuzzy
 msgid "%s product restored from the Trash."
 msgid_plural "%s products restored from the Trash."
-msgstr[0] "1 webhook teruggezet vanuit de Prullenbak."
-msgstr[1] "%d webhooks teruggezet vanuit de Prullenbak."
+msgstr[0] "%s product teruggezet vanuit de Prullenbak."
+msgstr[1] "%s producten teruggezet vanuit de Prullenbak."
 
 #: includes/admin/class-wc-admin-post-types.php:178
-#, fuzzy
 msgid "%s order updated."
 msgid_plural "%s orders updated."
-msgstr[0] "Bestelling bijgewerkt."
-msgstr[1] "Bestelling bijgewerkt."
+msgstr[0] "%s bestelling bijgewerkt."
+msgstr[1] "%s bestellingen bijgewerkt."
 
 #: includes/admin/class-wc-admin-post-types.php:179
 msgid "%s order not updated, somebody is editing it."
 msgid_plural "%s orders not updated, somebody is editing them."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s bestellingen niet bijgewerkt, iemand is het aan het bewerken."
+msgstr[1] "%s bestellingen niet bijgewerkt, iemand is zet aan het bewerken."
 
 #: includes/admin/class-wc-admin-post-types.php:180
-#, fuzzy
 msgid "%s order permanently deleted."
 msgid_plural "%s orders permanently deleted."
-msgstr[0] "1 webhook permanent verwijderd."
-msgstr[1] "%d webhooks permanent verwijderd."
+msgstr[0] "%s bestelling permanent verwijderd."
+msgstr[1] "%s bestellingen permanent verwijderd."
 
 #: includes/admin/class-wc-admin-post-types.php:181
-#, fuzzy
 msgid "%s order moved to the Trash."
 msgid_plural "%s orders moved to the Trash."
-msgstr[0] "1 webhook verplaatst naar de Prullenbak."
-msgstr[1] "%d webhooks verplaatst naar de Prullenbak."
+msgstr[0] "%s bestelling verplaatst naar de Prullenbak."
+msgstr[1] "%s bestellingen verplaatst naar de Prullenbak."
 
 #: includes/admin/class-wc-admin-post-types.php:182
-#, fuzzy
 msgid "%s order restored from the Trash."
 msgid_plural "%s orders restored from the Trash."
-msgstr[0] "1 webhook teruggezet vanuit de Prullenbak."
-msgstr[1] "%d webhooks teruggezet vanuit de Prullenbak."
+msgstr[0] "%s bestelling teruggezet vanuit de Prullenbak."
+msgstr[1] "%s bestellingen teruggezet vanuit de Prullenbak."
 
 #: includes/admin/class-wc-admin-post-types.php:186
 msgid "%s coupon updated."
@@ -1396,8 +1400,8 @@ msgstr[1] "%s bonnen bijgewerkt."
 #: includes/admin/class-wc-admin-post-types.php:187
 msgid "%s coupon not updated, somebody is editing it."
 msgid_plural "%s coupons not updated, somebody is editing them."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s kortingsbon niet bijgewerkt, iemand is het aan het bewerken."
+msgstr[1] "%s kortingsbonnen niet bijgewerkt, iemand is ze aan het bewerken."
 
 #: includes/admin/class-wc-admin-post-types.php:188
 msgid "%s coupon permanently deleted."
@@ -2142,7 +2146,7 @@ msgstr "Paginanaam"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:233
 msgid "The shop page will display your products."
-msgstr ""
+msgstr "De winkelpagina toont je producten."
 
 #: includes/admin/class-wc-admin-setup-wizard.php:237
 msgid ""
@@ -2244,7 +2248,7 @@ msgstr "Decimaalscheiding"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:342
 msgid "Which unit should be used for product weights?"
-msgstr ""
+msgstr "Welke eenheid moet er gebruikt worden voor productgewichten?"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:345
 #: includes/admin/settings/class-wc-settings-products.php:429
@@ -2268,7 +2272,7 @@ msgstr "oz"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:353
 msgid "Which unit should be used for product dimensions?"
-msgstr ""
+msgstr "Welke eenheid moet er gebruikt worden voor productafmetingen?"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:356
 #: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:193
@@ -2408,7 +2412,7 @@ msgstr "PayPal e-mailadres"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:652
 msgid "Offline Payments"
-msgstr ""
+msgstr "Offline betalingen"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:653
 msgid ""
@@ -2482,15 +2486,15 @@ msgstr "Leer meer"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:760
 msgid "Watch the WC 101 video walkthroughs"
-msgstr ""
+msgstr "Bekijk de WC basiscursus video's"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:761
 msgid "Get eCommerce advice in your inbox"
-msgstr ""
+msgstr "Krijg eCommerce adviezen in je inbox"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:762
 msgid "Follow Sidekick interactive walkthroughs"
-msgstr ""
+msgstr "Volg Sidekick interactieve handleidingen"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:763
 msgid "Read more about getting started"
@@ -2965,7 +2969,7 @@ msgstr ""
 
 #: includes/admin/class-wc-admin-welcome.php:228
 msgid "Flat Rate Shipping, Simplified"
-msgstr ""
+msgstr "Vaste verzendkosten, vereenvoudigd"
 
 #: includes/admin/class-wc-admin-welcome.php:229
 msgid ""
@@ -2996,6 +3000,10 @@ msgid ""
 "New installs will also see the new setup wizard to help guide through "
 "initial setup."
 msgstr ""
+"We hebben onze WooCommerce basiscursus-video's toegevoegd aan de help-"
+"tabbladen in het admingedeelte, voor als je hulp nodig hebt bij het gebruik "
+"van WooCommerce. Nieuwe installaties zien ook de nieuwe Instellingen Wizard "
+"om je door de eerste instellingen heen te loodsen."
 
 #: includes/admin/class-wc-admin-welcome.php:245
 msgid "Custom AJAX Endpoints"
