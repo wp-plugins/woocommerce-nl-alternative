@@ -18,7 +18,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WooCommerce\n"
 "POT-Creation-Date: 2015-08-14 14:50+0200\n"
-"PO-Revision-Date: 2015-08-16 12:56+0200\n"
+"PO-Revision-Date: 2015-08-16 15:09+0200\n"
 "Last-Translator: Marcel Pol <marcel@timelord.nl>\n"
 "Language-Team: Dutch (Netherlands)\n"
 "Language: nl_NL\n"
@@ -457,7 +457,7 @@ msgstr "Fout: niet bestaand eigenschap-nummer"
 #: includes/admin/class-wc-admin-attributes.php:271
 #: includes/admin/class-wc-admin-attributes.php:437
 msgid "Name for the attribute (shown on the front-end)."
-msgstr "Naam voor de eigenschap (wordt getoond aan de front-end)."
+msgstr "Naam voor de eigenschap (wordt getoond aan de frontend)."
 
 #: includes/admin/class-wc-admin-attributes.php:276
 #: includes/admin/class-wc-admin-attributes.php:357
@@ -536,9 +536,9 @@ msgid ""
 "Determines the sort order of the terms on the frontend shop product pages. "
 "If using custom ordering, you can drag and drop the terms in this attribute."
 msgstr ""
-"Bepaalt de sorteervolgorde van de termen op de productpagina's aan de front-"
-"end. Als je gebruik maakt van een handmatige volgorde, kun je de termen in "
-"deze eigenschap naar de juiste plaats slepen."
+"Bepaalt de sorteervolgorde van de termen op de productpagina's aan de "
+"frontend. Als je gebruik maakt van een handmatige volgorde, kun je de termen "
+"in deze eigenschap naar de juiste plaats slepen."
 
 #: includes/admin/class-wc-admin-attributes.php:331
 msgid "Update"
@@ -1182,6 +1182,8 @@ msgid ""
 "Upload or assign an image to your product here. This image will be shown in "
 "your store's catalog."
 msgstr ""
+"Upload of plaats hier een afbeelding voor je product. Deze afbeelding wordt "
+"in de catalogus van je winkel getoond."
 
 #: includes/admin/class-wc-admin-pointers.php:181
 msgid "Product Tags"
@@ -1192,6 +1194,8 @@ msgid ""
 "You can optionally \"tag\" your products here. Tags as a method of labeling "
 "your products to make them easier for customers to find."
 msgstr ""
+"Je kunt hier optioneel je producten \"taggen\". Tags zijn een manier om je "
+"producten een label te geven, zodat klanten ze makkelijk kunnen vinden."
 
 #: includes/admin/class-wc-admin-pointers.php:193
 msgid "Product Categories"
@@ -1202,6 +1206,8 @@ msgid ""
 "Optionally assign categories to your products to make them easier to browse "
 "through and find in your store."
 msgstr ""
+"Je kunt optioneel categorieën toewijzen aan je producten. Dit maakt het "
+"eenvoudiger er doorheen te navigeren en ze in je winkel te vinden."
 
 #: includes/admin/class-wc-admin-pointers.php:205
 msgid "Publish Your Product!"
@@ -1212,6 +1218,8 @@ msgid ""
 "When you are finished editing your product, hit the \"Publish\" button to "
 "publish your product to your store."
 msgstr ""
+"Wanneer je klaar bent met het bewerken van je product, klik op \"Publiceren"
+"\" om je product in je winkel te publiceren."
 
 #: includes/admin/class-wc-admin-post-types.php:114
 msgid "Product updated. <a href=\"%s\">View Product</a>"
@@ -2118,6 +2126,10 @@ msgid ""
 "setup wizard will help you configure the basic settings. <strong>It’s "
 "completely optional and shouldn’t take longer than five minutes.</strong>"
 msgstr ""
+"Bedankt voor het kiezen van WooCommerce om je online winkel aan te sturen. "
+"Deze snelle instellingen wizard helpt je met het opzetten van de "
+"basisinstellingen. <strong>Het is volledig optioneel en vraagt niet meer dan "
+"vijf minuten van je tijd.</strong>"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:207
 msgid ""
@@ -2125,6 +2137,9 @@ msgid ""
 "and return to the WordPress dashboard. Come back anytime if you change your "
 "mind!"
 msgstr ""
+"Nu geen tijd? Als je de wizard niet wilt gebruiken, dan kun je het overslaan "
+"en teruggaan naar het WordPress Dashboard. Kom terug wanneer je van "
+"gedachten veranderd bent."
 
 #: includes/admin/class-wc-admin-setup-wizard.php:209
 msgid "Let's Go!"
@@ -2139,6 +2154,8 @@ msgid ""
 "Your store needs a few essential %spages%s. The following will be created "
 "automatically (if they do not already exist):"
 msgstr ""
+"Je winkel heeft een aantal essentiële %spagina's%s nodig. De volgende "
+"pagina's worden automatisch aangemaakt (als ze nog niet bestaan):"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:226
 msgid "Page Name"
@@ -2153,17 +2170,23 @@ msgid ""
 "The cart page will be where the customers go to view their cart and begin "
 "checkout."
 msgstr ""
+"De winkelmandpagina is waar de klanten heengaan om hun winkelmand te "
+"bekijken en te gaan afrekenen."
 
 #: includes/admin/class-wc-admin-setup-wizard.php:242
 msgid ""
 "The checkout page will be where the customers go to pay for their items."
 msgstr ""
+"De afrekenpagina is waar de klanten heengaan om te betalen voor hun "
+"artikelen."
 
 #: includes/admin/class-wc-admin-setup-wizard.php:248
 msgid ""
 "Registered customers will be able to manage their account details and view "
 "past orders on this page."
 msgstr ""
+"Geregistreerde klanten kunnen hun accountgegevens beheren en hun vorige "
+"bestellingen inzien op deze pagina."
 
 #: includes/admin/class-wc-admin-setup-wizard.php:254
 msgid ""
@@ -2171,6 +2194,9 @@ msgid ""
 "%sPages screen%s. You can control which pages are shown on your website via "
 "%sAppearance > Menus%s."
 msgstr ""
+"Eenmaal aangemaakt, kunnen deze pagina's beheerd worden op je admin-"
+"dashboard op het %sPagina's scherm%s. Je kunt bepalen welke pagina's getoond "
+"worden op je website via %sWeergave > Menu's%s."
 
 #: includes/admin/class-wc-admin-setup-wizard.php:257
 #: includes/admin/class-wc-admin-setup-wizard.php:366
@@ -2192,7 +2218,7 @@ msgstr "Taal van winkel"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:297
 msgid "Where is your store based?"
-msgstr "Wat is de lokatie van je winkel?"
+msgstr "Wat is de locatie van je winkel?"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:305
 msgid "Which currency will your store use?"
@@ -2311,6 +2337,10 @@ msgid ""
 "changed later via %1$sWooCommerce > Settings > Tax%3$s and %2$sWooCommerce > "
 "Settings > Shipping%3$s."
 msgstr ""
+"Als je omzetbelasting gaat berekenen, of je gaat fysieke producten verzenden "
+"naar klanten, dan kun je de basis-instellingen hieronder instellen. Dit is "
+"optioneel en kan later veranderd worden via %1$sWooCommerce > Instellingen > "
+"Belasting%3$s en %2$sWooCommerce > Instellingen > Verzenden%3$s."
 
 #: includes/admin/class-wc-admin-setup-wizard.php:423
 msgid "Basic Shipping Setup"
@@ -2386,12 +2416,17 @@ msgid ""
 "Please note: you may still need to add local and product specific tax rates "
 "depending on your business location. If in doubt, speak to an accountant."
 msgstr ""
+"Let op: het kan nog steeds nodig zijn lokale en productspecifieke "
+"belastingtarieven toe te voegen afhankelijk van de locatie van je bedrijf. "
+"Weet je het niet zeker, overleg dan met een boekhouder."
 
 #: includes/admin/class-wc-admin-setup-wizard.php:515
 msgid ""
 "You can edit tax rates later from the %1$stax settings%3$s screen and read "
 "more about taxes in %2$sour documentation%3$s."
 msgstr ""
+"Je kunt belastingtarieven later bewerken op het %1$belasting-instellingen"
+"%3$s scherm en meer lezen over belastingen in %2$sonze documentatie%3$s."
 
 #: includes/admin/class-wc-admin-setup-wizard.php:636
 msgid ""
@@ -2399,12 +2434,18 @@ msgid ""
 "gateways%3$s can be installed later. Payment Gateways can be setup, enabled "
 "and disabled from the %1$scheckout settings%3$s screen."
 msgstr ""
+"WooCommerce komt met enkele betaalmethodes voorgeïnstalleerd. %2$sExtra "
+"betaalmethodes%3$s kunnen later worden geïnstalleerd. Betaalmethodes kunnen "
+"worden ingesteld, geactiveerd en gedeactiveerd op het %1$safreken-"
+"instellingen%3$s scherm."
 
 #: includes/admin/class-wc-admin-setup-wizard.php:641
 msgid ""
 "To accept payments via PayPal on your store, simply enter your PayPal email "
 "address below."
 msgstr ""
+"Om PayPal-betalingen te accepteren in je winkel, voor simpelweg hieronder je "
+"PayPal e-mailadres in."
 
 #: includes/admin/class-wc-admin-setup-wizard.php:645
 msgid "PayPal Email Address:"
@@ -2419,6 +2460,8 @@ msgid ""
 "Offline gateways require manual processing, but can be useful in certain "
 "circumstances or for testing payments."
 msgstr ""
+"Offline betaalmethodes vereisen handmatige verwerking, maar kunnen handig "
+"zijn in bepaalde omstandigheden of voor het testen van betalingen."
 
 #: includes/admin/class-wc-admin-setup-wizard.php:657
 msgid "Cheque Payments"
@@ -2434,7 +2477,7 @@ msgstr "Rembours"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:665
 msgid "Enable cash on delivery"
-msgstr "Rembours inschakelen"
+msgstr "Activeer Rembours-betalingen"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:669
 msgid "Bank Transfer (BACS)"
@@ -2642,7 +2685,7 @@ msgid ""
 msgstr ""
 "<strong class=\"red\">Pas op:</strong> Deze functie verwijdert alle gegevens "
 "over gebruikerssessies uit de database, inclusief alle huidige actieve "
-"winkelwagens."
+"winkelmanden."
 
 #: includes/admin/class-wc-admin-status.php:206
 msgid "Install WooCommerce Pages"
@@ -2783,6 +2826,10 @@ msgid ""
 "variations to which it has been assigned. Recreating a term will not "
 "automatically assign it back to products."
 msgstr ""
+"Eigenschap-termen kunnen worden toegewezen aan producten en variaties. <br/"
+"><br/><b>Let op</b>: Een term verwijderen zal het verwijderen van alle "
+"producten en variaties waar het aan toegewezen is. Het opnieuw aanmaken van "
+"de term zal het niet automatisch opnieuw toewijzen aan de producten."
 
 #: includes/admin/class-wc-admin-webhooks-table-list.php:26
 msgid "webhook"
@@ -2955,6 +3002,9 @@ msgid ""
 "paginated interface to make the process of adding complex product variations "
 "both quicker and more reliable."
 msgstr ""
+"Voor het bewerken van product-variaties in de backend, hebben we een nieuwe, "
+"gepagineerde interface toegevoegd om het proces van het aanmaken van "
+"complexe product-variaties sneller en meer betrouwbaar te maken."
 
 #: includes/admin/class-wc-admin-welcome.php:224
 msgid "Frontend Variation Performance"
@@ -2966,6 +3016,10 @@ msgid ""
 "add-to-cart form. Select all options and the matching variation will be "
 "found via AJAX. This improves performance on the product page."
 msgstr ""
+"Als je producten veel variaties hebben (20+) dan zullen ze een in-winkelmand-"
+"formulier met AJAX gebruiken. Selecteer alle opties en de overeenkomende "
+"variatie wordt via AJAX gevonden. Dit verbetert de performance op de "
+"productpagina."
 
 #: includes/admin/class-wc-admin-welcome.php:228
 msgid "Flat Rate Shipping, Simplified"
@@ -2977,10 +3031,14 @@ msgid ""
 "We have simplified the interface (without losing the flexibility) making "
 "Flat Rate and International Shipping much more intuitive."
 msgstr ""
+"Vaste verzendkosten waren te ingewikkeld in vorige versies van WooCommerce. "
+"We hebben de interface vereenvoudigd (zonder in te leveren op flexibiliteit) "
+"en hebben Vaste verzendkosten en Internationaal verzenden veel meer "
+"intuïtief gemaakt."
 
 #: includes/admin/class-wc-admin-welcome.php:237
 msgid "Geolocation with Caching"
-msgstr "Geolokatie met Caches"
+msgstr "Geolocatie met Caches"
 
 #: includes/admin/class-wc-admin-welcome.php:238
 msgid ""
@@ -2988,10 +3046,11 @@ msgid ""
 "non-logged-in customers. We have now introduced a new javascript based "
 "Geocaching solution to help. Enable this in the %ssettings%s."
 msgstr ""
+"Als je statische cache gebruikt dan heb je misschien gevonden dat geolocatie"
 
 #: includes/admin/class-wc-admin-welcome.php:241
 msgid "Onboarding Experience"
-msgstr ""
+msgstr "Onboarding Evaring"
 
 #: includes/admin/class-wc-admin-welcome.php:242
 msgid ""
@@ -3015,6 +3074,10 @@ msgid ""
 "which avoid the overhead of making calls to admin-ajax.php for events such "
 "as adding products to the cart."
 msgstr ""
+"Om de performance van de frontend te verbeteren hebben we nieuwe AJAX-"
+"endpoints geïntroduceerd die de overhead vermijden van het aanroepen van "
+"admin-ajax.php voor gebeurtenissen zoals het toevoegen van een product aan "
+"je winkelmand."
 
 #: includes/admin/class-wc-admin-welcome.php:251
 msgid "Visual API Authentication"
@@ -3026,6 +3089,9 @@ msgid ""
 "authentication endpoint so a user can log in and grant API permission from a "
 "single page before being redirected back."
 msgstr ""
+"Diensten die integreren met de REST API kunnen nu het visuele authenticatie "
+"endpoint gebruiken, zodat een gebruiker in kan loggen en API-toegang kan "
+"toestaan vanaf een enkele pagina voordat hij terugverwezen wordt."
 
 #: includes/admin/class-wc-admin-welcome.php:255
 msgid "Email Notification Improvements"
@@ -3037,6 +3103,9 @@ msgid ""
 "clients, and extra notifications, such as partial refund notifications, have "
 "been included."
 msgstr ""
+"E-mail-sjablonen zijn verbeterd om bredere ondersteuning te bieden aan e-"
+"mail-clients. Ook zijn extra notificaties geïntroduceerd, zoals deels-"
+"terugbetaald-notificaties."
 
 #: includes/admin/class-wc-admin-welcome.php:259
 msgid "Shipping Method Priorities"
@@ -3047,6 +3116,9 @@ msgid ""
 "To give more control over which shipping method is selected by default for "
 "customers, each method can now be given a numeric priority."
 msgstr ""
+"Om meer controle te geven over welke verzendmethode standaard geselecteerd "
+"is voor klanten, kan iedere methode nu een genummerde prioriteit gegeven "
+"worden."
 
 #: includes/admin/class-wc-admin-welcome.php:268
 msgid "Go to WooCommerce Settings"
@@ -3078,7 +3150,7 @@ msgstr "Bekijk %s"
 
 #: includes/admin/class-wc-admin.php:158
 msgid "HTML Email Template"
-msgstr "HTML-e-mailsjabloon"
+msgstr "HTML-e-mailtemplate"
 
 #: includes/admin/class-wc-admin.php:210
 msgid ""
@@ -3255,7 +3327,7 @@ msgid ""
 "coupons."
 msgstr ""
 "Vink aan als deze kortingsbon niet in combinatie met andere kortingsbonnen "
-"gebruikt kan worden"
+"gebruikt kan worden."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:93
 msgid "Exclude sale items"
@@ -3269,8 +3341,8 @@ msgid ""
 msgstr ""
 "Aanvinken als de kortingsbon niet toegepast moet worden bij afgeprijsde "
 "artikelen. Per-artikel kortingsbonnen werken alleen als het artikel niet "
-"afgeprijsd is. Per-winkelwagen kortingsbonnen werken alleen als er zich geen "
-"afgeprijsde artikelen in de winkelwagen bevinden."
+"afgeprijsd is. Per-winkelmand kortingsbonnen werken alleen als er zich geen "
+"afgeprijsde artikelen in de winkelmand bevinden."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:100
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:118
@@ -3287,7 +3359,7 @@ msgid ""
 "Products which need to be in the cart to use this coupon or, for \"Product "
 "Discounts\", which products are discounted."
 msgstr ""
-"Producten die in de winkelwagen moeten zitten om deze kortingsbon te kunnen "
+"Producten die in de winkelmand moeten zitten om deze kortingsbon te kunnen "
 "gebruiken. Als je voor \"Productkorting\" koos zijn dit de producten die de "
 "korting toegewezen krijgen."
 
@@ -3300,7 +3372,7 @@ msgid ""
 "Products which must not be in the cart to use this coupon or, for \"Product "
 "Discounts\", which products are not discounted."
 msgstr ""
-"Producten die niet in de winkelwagen mogen zitten om deze kortingsbon te "
+"Producten die niet in de winkelmand mogen zitten om deze kortingsbon te "
 "kunnen gebruiken. Als je voor \"Productkorting\" koos zijn dit de producten "
 "die geen korting toegewezen krijgen."
 
@@ -3375,7 +3447,7 @@ msgid ""
 msgstr ""
 "Het maximum aantal individuele items waar deze kortingsbon op toegepast kan "
 "worden. Laat dit veld leeg om de kortingsbon toe te passen op alle "
-"toegestane items in de winkelwagen."
+"toegestane items in de winkelmand."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:194
 msgid "Usage limit per user"
@@ -3806,7 +3878,7 @@ msgstr "Voorraad beheren?"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:293
 msgid "Enable stock management at product level"
-msgstr "Activeer voorraadmanagement op productniveau"
+msgstr "Activeer voorraadbeheer op productniveau"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:302
 #: includes/admin/views/html-bulk-edit-product.php:253
@@ -3862,7 +3934,7 @@ msgid ""
 "stock\" on the frontend."
 msgstr ""
 "Bepaalt of een product wel of niet wordt getoond als \"op voorraad\" of "
-"\"uitverkocht\" op de front-end."
+"\"uitverkocht\" op de frontend."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:338
 msgid "Sold Individually"
@@ -5209,7 +5281,7 @@ msgstr "Algemene opties"
 
 #: includes/admin/settings/class-wc-settings-api.php:69
 msgid "Enable the REST API"
-msgstr "Activeer de REST-API"
+msgstr "Activeer de REST API"
 
 #: includes/admin/settings/class-wc-settings-checkout.php:44
 msgid "Checkout Options"
@@ -5226,7 +5298,7 @@ msgstr "Activeer het gebruik van kortingsbonnen"
 #: includes/admin/settings/class-wc-settings-checkout.php:77
 msgid "Coupons can be applied from the cart and checkout pages."
 msgstr ""
-"Kortingsbonnen kunnen toegepast worden vanaf de winkelwagen- en afrekenen-"
+"Kortingsbonnen kunnen toegepast worden vanaf de winkelmand- en afrekenen-"
 "pagina's."
 
 #: includes/admin/settings/class-wc-settings-checkout.php:82
@@ -5238,6 +5310,8 @@ msgid ""
 "When applying multiple coupons, apply the first coupon to the full price and "
 "the second coupon to the discounted price and so on."
 msgstr ""
+"Bij het toepassen van meerdere kortingsbonnen, pas de eerste toe op de "
+"volledige prijs, de tweede op de verlaagde prijs, enzovoort."
 
 #: includes/admin/settings/class-wc-settings-checkout.php:93
 msgid "Enable guest checkout"
@@ -5275,7 +5349,7 @@ msgstr ""
 
 #: includes/admin/settings/class-wc-settings-checkout.php:126
 msgid "Cart Page"
-msgstr "Winkelwagenpagina"
+msgstr "Winkelmandpagina"
 
 #: includes/admin/settings/class-wc-settings-checkout.php:137
 msgid "Checkout Page"
@@ -5383,7 +5457,7 @@ msgstr "“Van” e-mailadres"
 
 #: includes/admin/settings/class-wc-settings-emails.php:96
 msgid "Email Template"
-msgstr "E-mailsjabloon"
+msgstr "E-mailtemplate"
 
 #: includes/admin/settings/class-wc-settings-emails.php:96
 msgid ""
@@ -5514,7 +5588,7 @@ msgid ""
 "content directory if using geolocation."
 msgstr ""
 "De %sMaxMind Geolite-database%s wordt periodiek gedownload en opgeslagen in "
-"je wp-content map als geolokatie gebruikt wordt."
+"je wp-content map als geolocatie gebruikt wordt."
 
 #: includes/admin/settings/class-wc-settings-general.php:95
 msgid "No address"
@@ -5531,7 +5605,7 @@ msgstr "Adres lokaliseren"
 
 #: includes/admin/settings/class-wc-settings-general.php:98
 msgid "Geolocate (with page caching support)"
-msgstr "Geolokatie (met ondersteuning voor pagina-cache)"
+msgstr "Geolocatie (met ondersteuning voor pagina-cache)"
 
 #: includes/admin/settings/class-wc-settings-general.php:103
 msgid "Store Notice"
@@ -5697,15 +5771,15 @@ msgstr "Prijs (aflopend)"
 
 #: includes/admin/settings/class-wc-settings-products.php:154
 msgid "Add to cart behaviour"
-msgstr "'Voeg toe aan winkelmand'-functionaliteit"
+msgstr "'In winkelmand'-functionaliteit"
 
 #: includes/admin/settings/class-wc-settings-products.php:155
 msgid "Redirect to the cart page after successful addition"
-msgstr "Na succesvolle toevoeging gelijk doorsturen naar de winkelwagenpagina"
+msgstr "Na succesvolle toevoeging gelijk doorsturen naar de winkelmandpagina"
 
 #: includes/admin/settings/class-wc-settings-products.php:163
 msgid "Enable AJAX add to cart buttons on archives"
-msgstr "AJAX \"voeg toe aan winkelwagen\" knoppen activeren op archiefpagina's"
+msgstr "AJAX \"In winkelmand\"-knoppen activeren op archiefpagina's"
 
 #: includes/admin/settings/class-wc-settings-products.php:178
 msgid ""
@@ -5715,7 +5789,7 @@ msgid ""
 "thumbnails</a>."
 msgstr ""
 "Deze instellingen bepalen de weergave en afmetingen van afbeeldingen in de "
-"catalogus. De weergave aan de front-end wordt nog steeds bepaalt door CSS "
+"catalogus. De weergave aan de frontend wordt nog steeds bepaald door CSS "
 "stijlen. Als deze instellingen veranderd worden, is het eventueel nodig om "
 "de <a href=\"%s\">thumbnails opnieuw te genereren</a>."
 
@@ -5788,11 +5862,11 @@ msgstr "Notificaties"
 
 #: includes/admin/settings/class-wc-settings-products.php:274
 msgid "Enable low stock notifications"
-msgstr "Activeer lage voorraad notificatie."
+msgstr "Activeer lage voorraad notificaties"
 
 #: includes/admin/settings/class-wc-settings-products.php:283
 msgid "Enable out of stock notifications"
-msgstr "Activeer uitverkocht meldingen"
+msgstr "Activeer uitverkocht notificaties"
 
 #: includes/admin/settings/class-wc-settings-products.php:292
 msgid "Notification Recipient"
@@ -5820,7 +5894,7 @@ msgstr "Voorraad weergave notatie"
 
 #: includes/admin/settings/class-wc-settings-products.php:338
 msgid "This controls how stock is displayed on the frontend."
-msgstr "Dit bepaalt hoe voorraad wordt weergegeven op de front-end."
+msgstr "Dit bepaalt hoe voorraad wordt weergegeven op de frontend."
 
 #: includes/admin/settings/class-wc-settings-products.php:345
 msgid "Always show stock e.g. \"12 in stock\""
@@ -5922,7 +5996,7 @@ msgstr "Beoordelingen zijn vereist bij het plaatsen van een review"
 
 #: includes/admin/settings/class-wc-settings-products.php:489
 msgid "Show \"verified owner\" label for customer reviews"
-msgstr "\"Geverifieerde eigenaar\" label tonen voor klantreviews"
+msgstr "\"Geverifieerde eigenaar\"-label tonen voor klantreviews"
 
 #: includes/admin/settings/class-wc-settings-products.php:499
 msgid "Only allow reviews from \"verified owners\""
@@ -5943,7 +6017,7 @@ msgstr "Activeer verzending"
 
 #: includes/admin/settings/class-wc-settings-shipping.php:83
 msgid "Enable the shipping calculator on the cart page"
-msgstr "Activeer de verzendkostencalculator op de winkelwagenpagina"
+msgstr "Activeer de verzendkostencalculator op de winkelmandpagina"
 
 #: includes/admin/settings/class-wc-settings-shipping.php:92
 msgid "Hide shipping costs until an address is entered"
@@ -5957,8 +6031,8 @@ msgstr "Weergave van verzendmethoden"
 msgid ""
 "This controls how multiple shipping methods are displayed on the frontend."
 msgstr ""
-"Dit bepaalt hoe verschillende verzendmethoden worden weergeven op de front-"
-"end."
+"Dit bepaalt hoe verschillende verzendmethoden worden weergeven op de "
+"frontend."
 
 #: includes/admin/settings/class-wc-settings-shipping.php:107
 msgid "Display shipping methods with \"radio\" buttons"
@@ -6029,6 +6103,9 @@ msgid ""
 "Available methods will be chosen by default in this order. If multiple "
 "methods have the same priority, they will be sorted by cost."
 msgstr ""
+"Beschikbare methodes worden standaard gekozen in deze volgorde. Wanneer "
+"meerdere methodes dezelfde prioriteit hebben, worden ze gesorteerd volgens "
+"kosten."
 
 #: includes/admin/settings/class-wc-settings-shipping.php:239
 msgid ""
@@ -6459,12 +6536,12 @@ msgid ""
 msgstr ""
 "Bepaal welke belastingklasse toegepast wordt op de verzendkosten of laat het "
 "zo, zodat de belasting op de verzendkosten wordt gebaseerd op de artikelen "
-"in de winkelwagen zelf."
+"in de winkelmand zelf."
 
 #: includes/admin/settings/views/settings-tax.php:53
 msgid "Shipping tax class based on cart items"
 msgstr ""
-"Belastingklasse voor verzendkosten gebaseerd op artikelen in de winkelwagen"
+"Belastingklasse voor verzendkosten gebaseerd op artikelen in de winkelmand"
 
 #: includes/admin/settings/views/settings-tax.php:58
 msgid "Rounding"
@@ -6619,7 +6696,7 @@ msgid ""
 "Please copy and paste this information in your ticket when contacting "
 "support:"
 msgstr ""
-"Kopieer en plak deze informatie in de ticket als je contact op neemt met "
+"Kopieer en plak deze informatie in de ticket als je contact opneemt met "
 "support:"
 
 #: includes/admin/views/html-admin-page-status-report.php:13
@@ -7059,7 +7136,7 @@ msgstr "De URL van jouw WooCommerce winkelpagina (samen met de Pagina ID)."
 
 #: includes/admin/views/html-admin-page-status-report.php:460
 msgid "The URL of your WooCommerce shop's cart (along with the page ID)."
-msgstr "De URL van jouw WooCommerce winkelwagen (samen met de Pagina ID)."
+msgstr "De URL van jouw WooCommerce winkelmand (samen met het paginanummer)."
 
 #: includes/admin/views/html-admin-page-status-report.php:465
 msgid "The URL of your WooCommerce shop's checkout (along with the page ID)."
@@ -7380,6 +7457,11 @@ msgid ""
 "are affected from the %ssystem status page%s. If in doubt, check with the "
 "author of the theme."
 msgstr ""
+"<strong>Je thema (%s) bevat verouderde kopieën van een aantal WooCommerce "
+"templatebestanden.</strong> Deze bestanden moeten mogelijk bijgewerkt worden "
+"om verzekerd te zijn van compatibiliteit met de huidige versie van "
+"WooCommerce. Je kunt zien om welke bestanden het gaat op de %ssysteemstatus-"
+"pagina%s. Weet je het niet zeker, overleg dan met de auteur van je thema."
 
 #: includes/admin/views/html-notice-template-check.php:14
 msgid "Learn More About Templates"
@@ -7639,7 +7721,7 @@ msgstr "Ongelimiteerd gebruik"
 #: includes/admin/meta-boxes/class-wc-meta-box-coupon-data.php:188
 msgctxt "placeholder"
 msgid "Apply to all qualifying items in cart"
-msgstr "Pas toe op alle artikelen in de winkelwagen die in aanmerking komen."
+msgstr "Pas toe op alle artikelen in de winkelmand die in aanmerking komen."
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:155
 msgctxt "placeholder"
@@ -7719,7 +7801,7 @@ msgstr "Winkelbasis"
 #: includes/admin/views/html-admin-page-status-report.php:457
 msgctxt "Page setting"
 msgid "Cart"
-msgstr "Winkelwagen"
+msgstr "Winkelmand"
 
 #: includes/admin/views/html-admin-page-status-report.php:462
 msgctxt "Page setting"

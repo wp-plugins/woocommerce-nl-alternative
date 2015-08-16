@@ -21,7 +21,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WooCommerce\n"
 "POT-Creation-Date: 2015-08-14 14:50+0200\n"
-"PO-Revision-Date: 2015-08-14 14:50+0200\n"
+"PO-Revision-Date: 2015-08-16 15:10+0200\n"
 "Last-Translator: Marcel Pol <marcel@timelord.nl>\n"
 "Language-Team: Dutch (Netherlands)\n"
 "Language: nl_NL\n"
@@ -5207,7 +5207,7 @@ msgstr "Bestellingsstatus gewijzigd van %s naar %s."
 
 #: includes/abstracts/abstract-wc-order.php:2477
 msgid "Item #%s variation #%s stock reduced from %s to %s."
-msgstr "Artikel's #%s variatie #%s voorraad verlaagd van %s naar %s."
+msgstr "Artikel #%s variatie #%s voorraad verlaagd van %s naar %s."
 
 #: includes/abstracts/abstract-wc-order.php:2479
 #: includes/class-wc-ajax.php:1374
@@ -5258,7 +5258,7 @@ msgstr "Op voorraad"
 #: includes/abstracts/abstract-wc-product.php:631
 #: includes/class-wc-product-variation.php:531
 msgid "Only %s left in stock"
-msgstr "Slechts %s resterend op voorraad"
+msgstr "Slechts %s resterend in voorraad"
 
 #: includes/abstracts/abstract-wc-product.php:634
 #: includes/abstracts/abstract-wc-product.php:645
@@ -5270,7 +5270,7 @@ msgstr "(kan nabesteld worden)"
 #: includes/abstracts/abstract-wc-product.php:642
 #: includes/class-wc-product-variation.php:541
 msgid "%s in stock"
-msgstr "%s op voorraad"
+msgstr "%s in voorraad"
 
 #: includes/abstracts/abstract-wc-product.php:654
 #: includes/class-wc-product-variation.php:550 templates/cart/cart.php:82
@@ -5366,13 +5366,13 @@ msgstr "Ongeldige nonce – nonce is al gebruikt geweest"
 #: includes/api/v1/class-wc-api-authentication.php:375
 #: includes/api/v2/class-wc-api-authentication.php:375
 msgid "The API key provided does not have read permissions"
-msgstr "De opgegeven API key heeft geen leesrechten."
+msgstr "De opgegeven API-sleutel heeft geen leesrechten."
 
 #: includes/api/class-wc-api-authentication.php:389
 #: includes/api/v1/class-wc-api-authentication.php:384
 #: includes/api/v2/class-wc-api-authentication.php:384
 msgid "The API key provided does not have write permissions"
-msgstr "De opgegeven API key heeft geen schrijfrechten."
+msgstr "De opgegeven API-sleutel heeft geen schrijfrechten."
 
 #: includes/api/class-wc-api-coupons.php:120
 #: includes/api/v1/class-wc-api-coupons.php:109
@@ -5443,7 +5443,7 @@ msgstr "Deze kortingsboncode bestaat al"
 #: includes/api/v2/class-wc-api-coupons.php:379
 msgid "Invalid coupon type - the coupon type must be any of these: %s"
 msgstr ""
-"Ongeldig kortingsbontype, het type kortingsbon dient een van de volgende te "
+"Ongeldig kortingsbontype, het type kortingsbon dient één van de volgende te "
 "zijn: %s"
 
 #: includes/api/class-wc-api-coupons.php:329
@@ -5499,7 +5499,7 @@ msgstr "Kan niet meer dan %s items accepteren voor deze aanvraag"
 #: includes/api/v2/class-wc-api-customers.php:217
 #: includes/api/v2/class-wc-api-customers.php:220
 msgid "Invalid customer Email"
-msgstr "Ongeldig klant e-mailadres"
+msgstr "Ongeldig klant-e-mailadres"
 
 #: includes/api/class-wc-api-customers.php:239
 #: includes/api/v1/class-wc-api-customers.php:195
@@ -5595,7 +5595,7 @@ msgstr "Ingevoerde bestelvaluta is ongeldig"
 #: includes/api/v2/class-wc-api-orders.php:545
 #: includes/api/v2/class-wc-api-orders.php:1611
 msgid "Order ID is invalid"
-msgstr "Ordernummer is ongeldig"
+msgstr "Factuurnummer is ongeldig"
 
 #: includes/api/class-wc-api-orders.php:592
 #: includes/api/v2/class-wc-api-orders.php:592
@@ -5610,7 +5610,7 @@ msgstr "Opgegeven bestelartikelnummer is niet gerelateerd aan bestelling"
 #: includes/api/class-wc-api-orders.php:885
 #: includes/api/v2/class-wc-api-orders.php:885
 msgid "Product ID or SKU is required"
-msgstr "Product-ID of SKU is verplicht"
+msgstr "Productnummer of SKU is verplicht"
 
 #: includes/api/class-wc-api-orders.php:895
 #: includes/api/v2/class-wc-api-orders.php:895
@@ -5675,7 +5675,7 @@ msgstr "Kostentitel is verplicht"
 #: includes/api/class-wc-api-orders.php:1116
 #: includes/api/v2/class-wc-api-orders.php:1115
 msgid "Fee tax class is required when fee is taxable"
-msgstr "Belastingklasse is verplicht als kosten belastbaar zijn"
+msgstr "Belastingklasse is verplicht wanneer kosten belastbaar zijn"
 
 #: includes/api/class-wc-api-orders.php:1135
 #: includes/api/v2/class-wc-api-orders.php:1134
@@ -5793,7 +5793,8 @@ msgstr "Terugbetalingsbedrag moet positief zijn"
 #: includes/api/class-wc-api-orders.php:1631
 #: includes/api/v2/class-wc-api-orders.php:1630
 msgid "Cannot create order refund, please try again"
-msgstr "Kan geen terugbetaling aanmaken voor deze order, probeer het nog eens"
+msgstr ""
+"Kan geen terugbetaling aanmaken voor deze bestelling, probeer het nog eens"
 
 #: includes/api/class-wc-api-orders.php:1648
 #: includes/api/v2/class-wc-api-orders.php:1647
@@ -6085,7 +6086,7 @@ msgstr "Webhook onderwerp is verplicht en moet geldig zijn"
 msgid ""
 "Webhook delivery URL must be a valid URL starting with http:// or https://"
 msgstr ""
-"De aflever URL voor de webhook moet een geldige URL zijn die begint met "
+"De aflever-URL voor de webhook moet een geldige URL zijn die begint met "
 "http:// of https://"
 
 #: includes/api/class-wc-api-webhooks.php:197
@@ -6125,7 +6126,7 @@ msgstr "Consumer Secret ontbreekt"
 
 #: includes/api/v2/class-wc-api-products.php:2318
 msgid "Invalid product SKU"
-msgstr "Ongeldig product SKU nummer"
+msgstr "Ongeldig product-SKU-nummer"
 
 #: includes/class-wc-ajax.php:195
 msgid "Sorry there was a problem removing this coupon."
@@ -6268,7 +6269,7 @@ msgstr "Producten bekijken"
 
 #: includes/class-wc-auth.php:104 includes/class-wc-auth.php:111
 msgid "Create webhooks"
-msgstr "Webhooka aanmaken"
+msgstr "Webhooks aanmaken"
 
 #: includes/class-wc-auth.php:105
 msgid "Create coupons"
@@ -6332,7 +6333,7 @@ msgstr "API Uitgeschakeld"
 
 #: includes/class-wc-auth.php:337
 msgid "Invalid nonce verification"
-msgstr "Ongeldige nonce verificatie"
+msgstr "Ongeldige nonce-verificatie"
 
 #: includes/class-wc-auth.php:348
 msgid "You do not have permissions to access this page!"
@@ -6408,7 +6409,7 @@ msgid ""
 "inconvenience caused."
 msgstr ""
 "Sorry, we hebben onvoldoende \"%s\" op voorraad om je bestelling uit te "
-"voeren (%s op voorraad). Pas je bestelling aan en probeer het opnieuw. Onze "
+"voeren (%s in voorraad). Pas je bestelling aan en probeer het opnieuw. Onze "
 "excuses voor het ongemak."
 
 #: includes/class-wc-cart.php:515
@@ -6753,7 +6754,7 @@ msgstr "Sorry, deze kortingbon kan niet worden gebruikt met de producten: %s."
 #: includes/class-wc-coupon.php:771
 msgid "Sorry, this coupon is not applicable to the categories: %s."
 msgstr ""
-"Sorry: deze kortingsbon kan niet worden toegepast op de categorieën: %s."
+"Sorry, deze kortingsbon kan niet worden toegepast op de categorieën: %s."
 
 #: includes/class-wc-coupon.php:774
 msgid "Sorry, this coupon is not valid for sale items."
@@ -7122,7 +7123,7 @@ msgstr "Producttags"
 
 #: includes/class-wc-post-types.php:101
 msgid "Product Tag"
-msgstr "Product Tag"
+msgstr "Producttag"
 
 #: includes/class-wc-post-types.php:103
 msgid "Search Product Tags"
@@ -7218,7 +7219,7 @@ msgstr "Alle %s"
 
 #: includes/class-wc-post-types.php:180
 msgid "Parent %s"
-msgstr "Bovenliggend(e)  %s"
+msgstr "Bovenliggend(e) %s"
 
 #: includes/class-wc-post-types.php:181
 msgid "Parent %s:"
@@ -7862,7 +7863,7 @@ msgstr "Je bestelling is volledig terugbetaald"
 
 #: includes/emails/class-wc-email-customer-refunded-order.php:41
 msgid "Your order has been partially refunded"
-msgstr "Je bestelling is gedeeltelijk terugbetaald"
+msgstr "Je bestelling is deels terugbetaald"
 
 #: includes/emails/class-wc-email-customer-refunded-order.php:45
 msgid "Partially Refunded order"
@@ -7894,7 +7895,7 @@ msgstr "Volledig terugbetaald item"
 
 #: includes/emails/class-wc-email-customer-refunded-order.php:184
 msgid "Partial Refund Subject"
-msgstr "Gedeeltelijk terugbetaald item"
+msgstr "Deels terugbetaald item"
 
 #: includes/emails/class-wc-email-customer-refunded-order.php:191
 msgid "Full Refund Email Heading"
@@ -7973,7 +7974,7 @@ msgstr "Actie mislukt. Ververs de pagina en probeer opnieuw."
 
 #: includes/emails/class-wc-email.php:741
 msgid "HTML template"
-msgstr "HTML-sjabloon"
+msgstr "HTML-template"
 
 #: includes/emails/class-wc-email.php:742
 msgid "Plain text template"
@@ -8009,11 +8010,11 @@ msgstr "Bestand is niet gevonden."
 
 #: includes/emails/class-wc-email.php:822
 msgid "View template"
-msgstr "Bekijk sjabloon"
+msgstr "Bekijk template"
 
 #: includes/emails/class-wc-email.php:823
 msgid "Hide template"
-msgstr "Verberg sjabloon"
+msgstr "Verberg template"
 
 #: includes/emails/class-wc-email.php:834
 msgid "Are you sure you want to delete this template file?"
@@ -8090,8 +8091,8 @@ msgid ""
 "cleared in our account."
 msgstr ""
 "Maak je betaling rechtstreeks over op onze bankrekening. Gebruik je "
-"ordernummer als betalingsreferentie. Je bestelling wordt pas verzonden als "
-"wij je betaling ontvangen hebben."
+"factuurnummer als betalingsreferentie. Je bestelling wordt pas verzonden "
+"wanneer wij je betaling ontvangen hebben."
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:94
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:74
@@ -9297,8 +9298,8 @@ msgstr "Dit product is afgeschermd en kan niet aangekocht worden."
 #: includes/wc-cart-functions.php:78
 msgid "%s has been added to your cart."
 msgid_plural "%s have been added to your cart."
-msgstr[0] "%s is toegevoegd aan je winkelwagen."
-msgstr[1] "%s zijn toegevoegd aan je winkelwagen."
+msgstr[0] "%s is toegevoegd aan je winkelmand."
+msgstr[1] "%s zijn toegevoegd aan je winkelmand."
 
 #: includes/wc-cart-functions.php:83
 msgid "Continue Shopping"
@@ -9545,7 +9546,7 @@ msgid ""
 "The shop_order_status taxonomy is no more in WooCommerce 2.2! You should use "
 "the new WooCommerce post_status instead, <a href=\"%s\">read more...</a>"
 msgstr ""
-"The winkel_bestelling_status taxonomie bestaat niet meer in WooCommerce 2.2. "
+"De winkel_bestelling_status taxonomie bestaat niet meer in WooCommerce 2.2. "
 "Gebruik de nieuwe WooCommerce post_status, <a href=\"%s\">lees meer...</a>"
 
 #: includes/wc-deprecated-functions.php:710
@@ -9572,7 +9573,7 @@ msgstr "Terugbetaling &ndash; %s"
 
 #: includes/wc-product-functions.php:510
 msgid "Simple product"
-msgstr "Simpel product"
+msgstr "Eenvoudig product"
 
 #: includes/wc-product-functions.php:511
 msgid "Grouped product"
@@ -9779,8 +9780,8 @@ msgid ""
 "Shows a custom attribute in a widget which lets you narrow down the list of "
 "products when viewing product categories."
 msgstr ""
-"Toont een custom eigenschap in een widget, waarmee de lijst van producten "
-"tijdens het bekijken van productcategorieën kan worden beperkt."
+"Toont een aangepaste eigenschap in een widget, waarmee de lijst van "
+"producten tijdens het bekijken van productcategorieën kan worden beperkt."
 
 #: includes/widgets/class-wc-widget-layered-nav.php:25
 msgid "WooCommerce Layered Nav"
@@ -10928,7 +10929,7 @@ msgstr "Verzenden"
 #: templates/single-product-reviews.php:76
 msgid "You must be <a href=\"%s\">logged in</a> to post a review."
 msgstr ""
-"Je moet <a href=\"%s\">ingelogd</a> zijn om een recensie te kunnen plaatsen."
+"Je moet <a href=\"%s\">ingelogd</a> zijn om een review te kunnen plaatsen."
 
 #: templates/single-product-reviews.php:80
 msgid "Your Rating"
