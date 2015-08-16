@@ -16,7 +16,12 @@ License: GPL
 */
 
 
-// This Woo action gets called before Woo loads its translation files.
+define('WOO_NL_ALT_VER', '2.4.4');
+
+
+/*
+ * This Woo action gets called before Woo loads its translation files.
+ */
 function woo_nl_alt_load() {
 
 		/* WooCommerce Translation */
@@ -31,7 +36,9 @@ function woo_nl_alt_load() {
 add_action( 'before_woocommerce_init', 'woo_nl_alt_load' );
 
 
-// Load Storefront MO file.
+/*
+ * Load Storefront MO file.
+ */
 function woo_nl_alt_load_storefront() {
 
 		$locale = apply_filters( 'plugin_locale', get_locale(), 'woocommerce' );
@@ -46,3 +53,23 @@ function woo_nl_alt_load_storefront() {
 
 }
 add_action( 'after_setup_theme', 'woo_nl_alt_load_storefront' );
+
+
+/*
+ * Overwrite the WooCommerce Language updater, so we don't see the Admin Notice
+ * Taken and adapted from WooCommerce 2.4.4
+ */
+function woo_nl_alt_remove_available_update( $locale = null ) {
+	if ( is_null( $locale ) ) {
+		$locale = get_locale();
+	}
+
+	if ( 'nl_NL' != $locale ) {
+		return false;
+	}
+
+	update_option( 'woocommerce_language_pack_version', array( WOO_NL_ALT_VER, $locale ) );
+
+	return false;
+}
+add_action( 'woocommerce_installed', 'woo_nl_alt_remove_available_update', 1, 1 );

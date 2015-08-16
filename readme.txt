@@ -34,6 +34,11 @@ the title of those pages yourself manually.
 
 == Changelog ==
 
+=  =
+* 2015-
+* Many translation fixes for Storefront
+* First stab at removing the Update Admin Notice.
+
 = 2.4.4 =
 * 2015-08-16
 * Follow WooCommerce versioning.
