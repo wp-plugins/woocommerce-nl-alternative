@@ -34,6 +34,12 @@ the title of those pages yourself manually.
 
 == Changelog ==
 
+= 2.4.4 =
+* 2015-08-16
+* Follow WooCommerce versioning.
+* Full support for Woo 2.4.4.
+* Many translation fixes.
+
 = 1.4.1 =
 * 2015-08-14
 * Properly support Storefront.
