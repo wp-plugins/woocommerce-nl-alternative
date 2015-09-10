@@ -1,7 +1,7 @@
 === WooCommerce (nl) (alternative) ===
 Contributors: mpol
 Tags: woocommerce, translation, dutch, nl, nl_NL, webshop, ecommerce, e-commerce, commerce, woothemes
-Requires at least: 3.0
+Requires at least: 3.7
 Tested up to: 4.3
 Stable tag: 2.4.6.1
 
@@ -33,6 +33,10 @@ If you activated and did setup WooCommerce, without this translation activated, 
 the title of those pages yourself manually.
 
 == Changelog ==
+
+= 2
+* 2015-
+* Only support WordPress 3.7+, since they really are supported.
 
 = 2.4.6.1 =
 * 2015-08-25
