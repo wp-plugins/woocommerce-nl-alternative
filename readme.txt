@@ -32,7 +32,7 @@ the title of those pages yourself manually.
 
 == Changelog ==
 
-= 2.4.6.2
+= 2.4.6.2 =
 * 2015-09-17
 * Only support WordPress 3.7+, since they really are supported.
 * Storefront 1.5.1.

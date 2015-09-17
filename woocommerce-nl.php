@@ -5,14 +5,11 @@ Plugin URI: http://zenoweb.nl/
 Description: Extends the WooCommerce plugin with the Dutch language. Uses the informal "je" form instead of the formal "u" form.
 Version: 2.4.6.2
 Requires at least: 3.0
-
 Author: Marcel Pol
 Author URI: http://zenoweb.nl
-
 Text Domain: woocommerce
 Domain Path: /languages/
-
-License: GPL
+License: GPLv2
 */
 
 
