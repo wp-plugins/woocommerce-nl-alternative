@@ -21,13 +21,13 @@ License: GPLv2
  */
 function woo_nl_alt_load() {
 
-		/* WooCommerce Translation */
-		$locale = apply_filters( 'plugin_locale', get_locale(), 'woocommerce' );
+	/* WooCommerce Translation */
+	$locale = apply_filters( 'plugin_locale', get_locale(), 'woocommerce' );
 
-		if ( is_admin() ) {
-			load_plugin_textdomain( 'woocommerce', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/woocommerce/admin' );
-		}
-		load_plugin_textdomain( 'woocommerce', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/woocommerce' );
+	if ( is_admin() ) {
+		load_plugin_textdomain( 'woocommerce', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/woocommerce/admin' );
+	}
+	load_plugin_textdomain( 'woocommerce', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/woocommerce' );
 
 }
 add_action( 'before_woocommerce_init', 'woo_nl_alt_load' );
@@ -38,15 +38,15 @@ add_action( 'before_woocommerce_init', 'woo_nl_alt_load' );
  */
 function woo_nl_alt_load_storefront() {
 
-		$locale = apply_filters( 'plugin_locale', get_locale(), 'woocommerce' );
+	$locale = apply_filters( 'plugin_locale', get_locale(), 'woocommerce' );
 
-		/* Storefront Translation */
-		$template   = get_option( 'template' );
-		$stylesheet = get_option( 'stylesheet' );
+	/* Storefront Translation */
+	$template   = get_option( 'template' );
+	$stylesheet = get_option( 'stylesheet' );
 
-		if ( is_int(strpos( $template, 'storefront' )) || is_int(strpos( $stylesheet, 'storefront' )) ) {
-			load_theme_textdomain( 'storefront', plugin_dir_path( __FILE__ ) . 'languages/storefront/' );
-		}
+	if ( is_int(strpos( $template, 'storefront' )) || is_int(strpos( $stylesheet, 'storefront' )) ) {
+		load_theme_textdomain( 'storefront', plugin_dir_path( __FILE__ ) . 'languages/storefront/' );
+	}
 
 }
 add_action( 'after_setup_theme', 'woo_nl_alt_load_storefront' );
