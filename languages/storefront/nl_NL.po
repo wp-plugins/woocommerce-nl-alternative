@@ -12,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Storefront\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/storefront/issues\n"
-"POT-Creation-Date: 2015-08-25 14:30+0200\n"
-"PO-Revision-Date: 2015-08-25 14:48+0200\n"
+"POT-Creation-Date: 2015-09-17 08:56+0200\n"
+"PO-Revision-Date: 2015-09-17 08:57+0200\n"
 "Last-Translator: Marcel Pol <marcel@timelord.nl>\n"
 "Language-Team: Dutch\n"
 "Language: nl\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.3\n"
+"X-Generator: Poedit 1.8.4\n"
 
 #: 404.php:19
 msgid "Oops! That page can&rsquo;t be found."
@@ -35,15 +35,11 @@ msgstr ""
 "Er is niets gevonden op deze locatie. Probeer eens te zoeken of probeer "
 "&eacute;&eacute;n van de links hieronder."
 
-#: 404.php:39 inc/structure/template-tags.php:103
-msgid "Featured Products"
-msgstr "Aanbevolen producten"
-
-#: 404.php:50 inc/structure/template-tags.php:26
+#: 404.php:45 inc/structure/template-tags.php:26
 msgid "Product Categories"
 msgstr "Productcategorieën"
 
-#: 404.php:59
+#: 404.php:54
 msgid "Popular Products"
 msgstr "Populaire producten"
 
@@ -835,6 +831,10 @@ msgstr "% Reacties"
 msgid "Recent Products"
 msgstr "Recente producten"
 
+#: inc/structure/template-tags.php:103 inc/woocommerce/template-tags.php:144
+msgid "Featured Products"
+msgstr "Aanbevolen producten"
+
 #: inc/structure/template-tags.php:142
 msgid "Top Rated Products"
 msgstr "Best beoordeelde producten"
@@ -852,6 +852,14 @@ msgid "%d item"
 msgid_plural "%d items"
 msgstr[0] "%d artikel"
 msgstr[1] "%d artikelen"
+
+#: inc/woocommerce/template-tags.php:152
+msgid "On Sale Now"
+msgstr "Nu in de Aanbieding"
+
+#: inc/woocommerce/template-tags.php:160
+msgid "New In Store"
+msgstr "Nieuw in de Webshop"
 
 #: search.php:16
 msgid "Search Results for: %s"

@@ -10,7 +10,7 @@ This WordPress plugin extends the WooCommerce plugin with the Dutch translation.
 == Description ==
 
 * Supports WooCommerce Version 2.4.6.
-* Supports Storefront Version 1.5.0.
+* Supports Storefront Version 1.5.1.
 
 > This plugin requires the <a href="http://wordpress.org/extend/plugins/woocommerce/">WooCommerce plugin</a>.
 
@@ -22,21 +22,20 @@ This plugin uses the informal 'je' form.
 Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your
 WordPress installation and then activate the Plugin from the Plugins page.
 
-You should not activate it at the same time as the WooCommerce (nl) plugin.
-
 == Frequently Asked Questions ==
 
 = Why are my Checkout and Shop pages not translated? =
 
-When this plugin is activated upon installation of WooCommerce, it will make these pages with Dutch names.
-If you activated and did setup WooCommerce, without this translation activated, you will have to rename
+When this plugin is activated upon installation of WooCommerce, it will make those pages with Dutch names.
+If you activated and did setup WooCommerce without this translation activated, you will have to rename
 the title of those pages yourself manually.
 
 == Changelog ==
 
-= 2
-* 2015-
+= 2.4.6.2
+* 2015-09-17
 * Only support WordPress 3.7+, since they really are supported.
+* Storefront 1.5.1.
 
 = 2.4.6.1 =
 * 2015-08-25
