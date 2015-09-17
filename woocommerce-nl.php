@@ -17,11 +17,11 @@ License: GPLv2
 
 
 /*
+ * Load WooCommerce Plugin Translation
  * This Woo action gets called before Woo loads its translation files.
  */
 function woo_nl_alt_load_woocommerce() {
 
-	/* WooCommerce Translation */
 	$locale = apply_filters( 'plugin_locale', get_locale(), 'woocommerce' );
 
 	if ( is_admin() ) {
@@ -34,7 +34,7 @@ add_action( 'before_woocommerce_init', 'woo_nl_alt_load_woocommerce' );
 
 
 /*
- * Load Storefront MO file.
+ * Load Storefront Theme Translation.
  */
 function woo_nl_alt_load_storefront() {
 
