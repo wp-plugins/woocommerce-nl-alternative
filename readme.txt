@@ -1,6 +1,6 @@
 === WooCommerce (nl) (alternative) ===
 Contributors: mpol
-Tags: woocommerce, translation, dutch, nl, nl_NL, webshop, ecommerce, e-commerce, commerce, woothemes
+Tags: woocommerce, translation, dutch, nl, nl_NL, webshop, ecommerce, e-commerce, commerce, woothemes, nederlands, webwinkel
 Requires at least: 3.7
 Tested up to: 4.3
 Stable tag: 2.4.6.2
@@ -31,6 +31,10 @@ If you activated and did setup WooCommerce without this translation activated, y
 the title of those pages yourself manually.
 
 == Changelog ==
+
+= 2  =
+* 2015-
+* No need to remove the update notice.
 
 = 2.4.6.2 =
 * 2015-09-17
