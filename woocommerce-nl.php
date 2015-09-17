@@ -19,7 +19,7 @@ License: GPLv2
 /*
  * This Woo action gets called before Woo loads its translation files.
  */
-function woo_nl_alt_load() {
+function woo_nl_alt_load_woocommerce() {
 
 	/* WooCommerce Translation */
 	$locale = apply_filters( 'plugin_locale', get_locale(), 'woocommerce' );
@@ -30,7 +30,7 @@ function woo_nl_alt_load() {
 	load_plugin_textdomain( 'woocommerce', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/woocommerce' );
 
 }
-add_action( 'before_woocommerce_init', 'woo_nl_alt_load' );
+add_action( 'before_woocommerce_init', 'woo_nl_alt_load_woocommerce' );
 
 
 /*
