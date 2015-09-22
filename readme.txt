@@ -32,8 +32,9 @@ the title of those pages yourself manually.
 
 == Changelog ==
 
-= 2  =
-* 2015-
+= 2.4.7 =
+* 2015-09-22
+* Woo 2.4.7.
 * No need to remove the update notice.
 
 = 2.4.6.2 =
