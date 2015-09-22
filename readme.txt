@@ -9,7 +9,7 @@ This WordPress plugin extends the WooCommerce plugin with the Dutch translation.
 
 == Description ==
 
-* Supports WooCommerce Version 2.4.6.
+* Supports WooCommerce Version 2.4.7.
 * Supports Storefront Version 1.5.1.
 
 > This plugin requires the <a href="http://wordpress.org/extend/plugins/woocommerce/">WooCommerce plugin</a>.
