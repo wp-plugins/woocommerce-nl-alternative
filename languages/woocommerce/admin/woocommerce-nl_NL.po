@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: WooCommerce\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
 "POT-Creation-Date: 2015-09-22 09:01+0200\n"
-"PO-Revision-Date: 2015-09-22 09:04+0200\n"
+"PO-Revision-Date: 2015-10-23 13:44+0200\n"
 "Last-Translator: Marcel Pol <marcel@timelord.nl>\n"
 "Language-Team: Dutch (Netherlands)\n"
 "Language: nl_NL\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.4\n"
+"X-Generator: Poedit 1.8.5\n"
 
 #: includes/admin/class-wc-admin-api-keys-table-list.php:26
 msgid "key"
@@ -915,7 +915,7 @@ msgstr "WooCommerce Belastingtarieven (CSV)"
 #: includes/admin/class-wc-admin-importers.php:34
 msgid "Import <strong>tax rates</strong> to your store via a csv file."
 msgstr ""
-"Importeer <strong>belastingtarieven</strong> naar jouw winkel via een CSV-"
+"Importeer <strong>belastingtarieven</strong> in jouw winkel vanuit een CSV-"
 "bestand."
 
 #: includes/admin/class-wc-admin-menus.php:62
@@ -979,7 +979,7 @@ msgstr "Productgalerij"
 
 #: includes/admin/class-wc-admin-meta-boxes.php:112
 msgid "%s Data"
-msgstr "%s Gegevens"
+msgstr "%s-gegevens"
 
 #: includes/admin/class-wc-admin-meta-boxes.php:113
 msgid "%s Items"
@@ -987,7 +987,7 @@ msgstr "%s-artikelen"
 
 #: includes/admin/class-wc-admin-meta-boxes.php:114
 msgid "%s Notes"
-msgstr "%s-botities"
+msgstr "%s-notities"
 
 #: includes/admin/class-wc-admin-meta-boxes.php:115
 msgid "Downloadable Product Permissions"
@@ -1020,23 +1020,23 @@ msgstr "Reviews"
 
 #: includes/admin/class-wc-admin-notices.php:100
 msgid "Cheatin&#8217; huh?"
-msgstr "Wat ben jij aan het proberen?"
+msgstr "Wat ben jij aan het doen?"
 
 #: includes/admin/class-wc-admin-permalink-settings.php:36
 msgid "Product permalink base"
-msgstr "Product permalink basis"
+msgstr "Product-permalink basis"
 
 #: includes/admin/class-wc-admin-permalink-settings.php:41
 msgid "Product category base"
-msgstr "Productcategorie afkorting"
+msgstr "Product-categorie afkorting"
 
 #: includes/admin/class-wc-admin-permalink-settings.php:48
 msgid "Product tag base"
-msgstr "Product tag basis"
+msgstr "Product-tag basis"
 
 #: includes/admin/class-wc-admin-permalink-settings.php:55
 msgid "Product attribute base"
-msgstr "Producteigenschap basis"
+msgstr "Product-eigenschap basis"
 
 #: includes/admin/class-wc-admin-permalink-settings.php:96
 msgid ""
