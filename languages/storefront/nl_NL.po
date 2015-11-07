@@ -12,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Storefront\n"
 "Report-Msgid-Bugs-To: https://github.com/woothemes/storefront/issues\n"
-"POT-Creation-Date: 2015-09-17 08:56+0200\n"
-"PO-Revision-Date: 2015-09-17 08:57+0200\n"
+"POT-Creation-Date: 2015-11-07 13:46+0100\n"
+"PO-Revision-Date: 2015-11-07 14:00+0100\n"
 "Last-Translator: Marcel Pol <marcel@timelord.nl>\n"
 "Language-Team: Dutch\n"
 "Language: nl\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.4\n"
+"X-Generator: Poedit 1.8.6\n"
 
 #: 404.php:19
 msgid "Oops! That page can&rsquo;t be found."
@@ -85,537 +85,151 @@ msgstr ""
 "Het ziet er naar uit dat we niet konden vinden wat je in gedachten had. "
 "Misschien helpt het om te zoeken."
 
-#: inc/admin/welcome-screen/sections/add-ons.php:7
-msgid "Enhance your site"
-msgstr "Verbeter je site"
+#: inc/admin/welcome-screen/sections/contribute.php:11
+msgid "Contribute to Storefront"
+msgstr "Bijdragen aan Storefront"
 
-#: inc/admin/welcome-screen/sections/add-ons.php:10
+#: inc/admin/welcome-screen/sections/contribute.php:12
 msgid ""
-"Below you will find a selection of Storefront extensions that could help "
-"improve your online store."
+"Found a bug? Want to contribute a patch or create a new feature? %sGitHub is "
+"the place to go!%s Or would you like to translate %s into your language? "
+"%sGet involved on WordPress.org%s."
 msgstr ""
-"Hieronder vind je een selectie van Storefront-extensies die je kunnen helpen "
-"je webshop te verbeteren."
+"Bug gevonden? Bijdragen aan een patch of een nieuwe functie creëren? "
+"%sGitHub is de juiste plaats!%s Of wil je %s in jouw taal vertalen? %sRaak "
+"betrokken op WordPress.org%s."
 
-#: inc/admin/welcome-screen/sections/add-ons.php:16
+#: inc/admin/welcome-screen/sections/contribute.php:16
+msgid "Suggest a feature"
+msgstr "Vraag om een feature"
+
+#: inc/admin/welcome-screen/sections/contribute.php:17
 msgid ""
-"Refine your shop archives and product pages with the Storefront WooCommerce "
-"Customiser"
+"Please suggest and vote on ideas at the %s%s Ideasboard%s. The most popular "
+"ideas will see prioritised development."
 msgstr ""
-"Verfijn je winkelarchief en productpagina's met de Storefront WooCommerce "
-"Customiser"
+"Stel nieuwe mogelijkheden voor, en stem op voorstellen van anderen op het %s"
+"%s Ideeënforum%s. De populairste ideeën worden met voorrang ontwikkeld."
 
-#: inc/admin/welcome-screen/sections/add-ons.php:18
+#: inc/admin/welcome-screen/sections/contribute.php:22
+msgid "An %s project"
+msgstr "Een project van %s"
+
+#: inc/admin/welcome-screen/sections/enhance.php:12
+msgid "Enhance %s"
+msgstr "Verbeter %s"
+
+#: inc/admin/welcome-screen/sections/enhance.php:14
 msgid ""
-"The Storefront WooCommerce Customiser extension gives you further control "
-"over the look and feel of your shop. Change the product archive and single "
-"layouts, toggle various shop components and more."
+"Take a look at our range of extensions that compliment and extend %s "
+"functionality."
 msgstr ""
-"De Storefront WooCommerce Customiser extensie biedt je diepere controle over "
-"de look & feel van je shop. Wijzig de layout van je productarchief & "
-"productdetails, zet verschillende winkelcomponenten aan/uit, en meer."
+"Kijk eens rond bij onze selectie van extensies die aanvulling en uitbreiding "
+"bieden op %s functionaliteit."
 
-#: inc/admin/welcome-screen/sections/add-ons.php:21
-#: inc/admin/welcome-screen/sections/add-ons.php:34
-#: inc/admin/welcome-screen/sections/add-ons.php:47
-#: inc/admin/welcome-screen/sections/add-ons.php:60
-#: inc/admin/welcome-screen/sections/add-ons.php:73
-#: inc/admin/welcome-screen/sections/getting-started.php:23
-#: inc/admin/welcome-screen/sections/getting-started.php:50
-#: inc/admin/welcome-screen/sections/getting-started.php:63
-msgid "Activated"
-msgstr "Geactiveerd"
+#: inc/admin/welcome-screen/sections/enhance.php:29
+msgid "View all %s extensions &rarr;"
+msgstr "Bekijk alle %s extensies &rarr;"
 
-#: inc/admin/welcome-screen/sections/add-ons.php:23
-msgid "Buy %sStorefront WooCommerce Customiser%s now"
-msgstr "Koop %sStorefront WooCommerce Customiser%s nu"
-
-#: inc/admin/welcome-screen/sections/add-ons.php:29
-msgid "Highlight a product of your choosing with the Storefront Product Hero"
-msgstr "Zet een product naar keuze in de kijker met de Storefront Product Hero"
-
-#: inc/admin/welcome-screen/sections/add-ons.php:31
-msgid ""
-"The Storefront Product Hero extension adds a parallax hero component to your "
-"homepage highlighting a specific product at your store. Use the shortcode to "
-"add attractive hero components to posts, pages or widgets."
-msgstr ""
-"De Storefront Product Hero extensie voegt een parallax hero component toe "
-"aan je homepage, die een specifiek product op je webstore in de kijker zet. "
-"Gebruik de shortcode om mooie hero componenten toe te voegen aan berichten, "
-"pagina's of widgets."
-
-#: inc/admin/welcome-screen/sections/add-ons.php:36
-msgid "Buy %sStorefront Product Hero%s now"
-msgstr "Koop %sStorefront Product Hero%s nu"
-
-#: inc/admin/welcome-screen/sections/add-ons.php:42
-msgid "Further customise your store with the Storefront Designer"
-msgstr "Pas je webwinkel verder aan met de Storefront Designer"
-
-#: inc/admin/welcome-screen/sections/add-ons.php:44
-msgid ""
-"Storefront Designer adds a bunch of additional appearance settings allowing "
-"you to further tweak and perfect your Storefront design by changing the "
-"header layout, button styles, typographical schemes/scales and more."
-msgstr ""
-"Storefront Designer stelt een reeks extra visualisatie-instellingen "
-"beschikbaar, die je toelaten om je Storefront-design verder te tweaken en te "
-"perfectioneren door onder meer de layout van de kopjes, knoppen, lettertypes "
-"en -groottes aan te passen."
-
-#: inc/admin/welcome-screen/sections/add-ons.php:49
-msgid "Buy %sStorefront Designer%s now"
-msgstr "Koop %sStorefront Designer%s nu"
-
-#: inc/admin/welcome-screen/sections/add-ons.php:55
-msgid ""
-"Optimize the checkout page at your store with the Storefront Checkout "
-"Customiser"
-msgstr "Pas je afrekenpagina aan met de Storefront Checkout Customiser"
-
-#: inc/admin/welcome-screen/sections/add-ons.php:57
-msgid ""
-"The checkout is arguably the most crucial page at your store to get right. "
-"The Storefront Checkout Customiser allows you to tweak the checkout by "
-"choosing a different layout and removing distractions to find out what works "
-"best at your store. Try different combinations of settings to A/B test and "
-"improve conversions."
-msgstr ""
-"De afrekenpagina is de meest belangrijke pagina in je winkel om goed te "
-"krijgen. De Storefront Checkout Customiser maakt het mogelijk om het "
-"afrekenen in te stellen door het kiezen van een andere layout en het "
-"weghalen van afleidingen om zo uit te vinden wat het beste werkt in je "
-"winkel. Probeer verschillende combinaties van instellingen voor A/B-testen "
-"en verbeter je conversie."
-
-#: inc/admin/welcome-screen/sections/add-ons.php:62
-#: inc/admin/welcome-screen/sections/add-ons.php:75
-msgid "Buy %sStorefront Reviews%s now"
-msgstr "Koop %sStorefront Reviews%s nu"
-
-#: inc/admin/welcome-screen/sections/add-ons.php:68
-msgid ""
-"Highlight favourable reviews throughout your store with Storefront Reviews"
-msgstr "Toon positieve reviews door je hele winkel met Storefront Reviews"
-
-#: inc/admin/welcome-screen/sections/add-ons.php:70
-msgid ""
-"Reading a positive review can be what converts a visitor into a customer. "
-"The Storefront Reviews extension allows you to highlight positive reviews "
-"across your site to showcase your most popular products."
-msgstr ""
-"Het lezen van een positieve review kan precies zijn wat een bezoeker "
-"converteert in een klant. De Storefront Reviews extensie maakt het mogelijk "
-"om positieve reviews te tonen door je hele site om zo een showcase te maken "
-"van de meest populaire producten."
-
-#: inc/admin/welcome-screen/sections/child-themes.php:11
-msgid "Get a whole new look"
-msgstr "Maak een heel nieuw uiterlijk"
-
-#: inc/admin/welcome-screen/sections/child-themes.php:14
-msgid ""
-"Below you will find a selection of Storefront child themes that will "
-"instantly transform the look and feel of your Storefront shop."
-msgstr ""
-"Hieronder vind je een selectie van Storefront child-thema's die de look & "
-"feel van je Storefront webshop transformeren."
-
-#: inc/admin/welcome-screen/sections/child-themes.php:19
-msgid "Proshop Child Theme"
-msgstr "Proshop Child-thema"
-
-#: inc/admin/welcome-screen/sections/child-themes.php:20
-msgid "Proshop"
-msgstr "Proshop"
-
-#: inc/admin/welcome-screen/sections/child-themes.php:21
-msgid ""
-"Unlock the true potential of your sports clothing and equipment store with "
-"ProShop! It's metropolitan design provides an active aesthetic giving your "
-"store oodles of character."
-msgstr ""
-"Gebruik het volledige potentieel van je winkel in sportkleding en "
-"sportmateriaal met Proshop! Het metromoderne design biedt een aantrekkelijke "
-"stijl wat je winkel bergen karakter geeft."
-
-#: inc/admin/welcome-screen/sections/child-themes.php:24
-#: inc/admin/welcome-screen/sections/child-themes.php:35
-msgid "Buy %s now"
-msgstr "Koop %s nu"
-
-#: inc/admin/welcome-screen/sections/child-themes.php:30
-msgid "Galleria Child Theme"
-msgstr "Galleria Child-thema"
-
-#: inc/admin/welcome-screen/sections/child-themes.php:31
-msgid "Galleria"
-msgstr "Galleria"
-
-#: inc/admin/welcome-screen/sections/child-themes.php:32
-msgid ""
-"Galleria is a Storefront child theme perfect for fashion and design stores. "
-"Stylish and minimalist, it gives sites a high class look and keeps products "
-"centerstage."
-msgstr ""
-"Galleria is een Storefront child-thema dat perfect is voor fashion- en "
-"designwinkels. Stijlvol en minimalistisch, geeft het een high class "
-"uiterlijk terwijl de producten centraal staan."
-
-#: inc/admin/welcome-screen/sections/child-themes.php:41
-msgid "Boutique Child Theme"
-msgstr "Boutique Child-thema"
-
-#: inc/admin/welcome-screen/sections/child-themes.php:42
-#: inc/admin/welcome-screen/sections/child-themes.php:55
-msgid "Free!"
-msgstr "Gratis!"
-
-#: inc/admin/welcome-screen/sections/child-themes.php:43
-msgid "Boutique"
-msgstr "Boutique"
-
-#: inc/admin/welcome-screen/sections/child-themes.php:44
-msgid ""
-"Boutique is a simple, traditionally designed Storefront child theme, ideal "
-"for small stores or boutiques. Add your logo, create a unique color scheme "
-"and start selling!"
-msgstr ""
-"Boutique is een simpel, traditioneel ontworpen Storefront child-thema, "
-"ideaal voor kleine winkels en boetiekjes. Voeg je logo toe en maak een uniek "
-"kleurenschema en start met verkopen."
-
-#: inc/admin/welcome-screen/sections/child-themes.php:47
-#: inc/admin/welcome-screen/sections/child-themes.php:60
-msgid "Install %s now"
-msgstr "Installeer %s nu"
-
-#: inc/admin/welcome-screen/sections/child-themes.php:49
-msgid "Read more %sabout Boutique%s &rarr;"
-msgstr "Lees meer %sover Boutique%s &rarr;"
-
-#: inc/admin/welcome-screen/sections/child-themes.php:54
-msgid "Deli Child Theme"
-msgstr "Deli Child-thema"
-
-#: inc/admin/welcome-screen/sections/child-themes.php:56
-msgid "Deli"
-msgstr "Deli"
-
-#: inc/admin/welcome-screen/sections/child-themes.php:57
-msgid ""
-"Deli features a texturised, earthy design, perfect for stores selling "
-"natural, organic or hand made goods."
-msgstr ""
-"Deli bevat een natuurlijk design met patronen, perfect voor shops die "
-"natuurlijke, biologische of handgemaakte producten verkopen."
-
-#: inc/admin/welcome-screen/sections/child-themes.php:62
-msgid "Read more %sabout Deli%s &rarr;"
-msgstr "Lees meer %sover Deli%s &rarr;"
-
-#: inc/admin/welcome-screen/sections/getting-started.php:14
-msgid "Using Storefront"
-msgstr "Gebruiken van Storefront"
-
-#: inc/admin/welcome-screen/sections/getting-started.php:15
-msgid ""
-"We've purposely kept Storefront lean & mean so configuration is a breeze. "
-"Here are some optional theme-setup tasks:"
-msgstr ""
-"We hebben Storefront met opzet simpel en licht gehouden zodat het instellen "
-"gemakkelijk gaat. Hier zijn wat optionele stappen om het thema in te stellen:"
-
-#: inc/admin/welcome-screen/sections/getting-started.php:19
-#: inc/admin/welcome-screen/sections/getting-started.php:25
-msgid "Install WooCommerce"
-msgstr "Installeer WooCommerce"
-
-#: inc/admin/welcome-screen/sections/getting-started.php:20
-msgid ""
-"Although Storefront works fine as a standard WordPress theme, it really "
-"shines when used for an online store. Install WooCommerce and start selling "
-"now."
-msgstr ""
-"Hoewel Storefront het prima doet als standaard WordPress theme, Komt het pas "
-"echt tot zijn recht in een online winkel. Installeer WooCommerce en start "
-"met verkopen."
-
-#: inc/admin/welcome-screen/sections/getting-started.php:30
-msgid "Configure menu locations"
-msgstr "Configureer menulocaties"
-
-#: inc/admin/welcome-screen/sections/getting-started.php:31
-msgid ""
-"Storefront includes three menu locations for primary, secondary and handheld "
-"navigation. "
-msgstr ""
-"Storefront bevat drie menulocaties voor primaire, secundaire en mobiele "
-"navigatie. "
-
-#: inc/admin/welcome-screen/sections/getting-started.php:32
-msgid ""
-"The primary navigation is perfect for your key pages like the shop and "
-"product categories. "
-msgstr ""
-"De primaire navigatie is perfect voor je belangrijkste pagina's zoals de "
-"winkel en de productcategorieën. "
-
-#: inc/admin/welcome-screen/sections/getting-started.php:33
-msgid ""
-"The secondary navigation is better suited to lower traffic pages such as "
-"terms and conditions."
-msgstr ""
-"De secundaire navigatie is meer geschikt voor pagina's die minder bezocht "
-"worden zoals de algemene voorwaarden."
-
-#: inc/admin/welcome-screen/sections/getting-started.php:34
-msgid ""
-"The handheld navigation gives you complete control over what menu items to "
-"serve to handheld devices."
-msgstr ""
-"De mobiele navigatie geeft je volledige controle over welke menu-items op "
-"mobiele apparaten getoond moeten worden."
-
-#: inc/admin/welcome-screen/sections/getting-started.php:36
-msgid "Configure menus"
-msgstr "Configureer menus"
-
-#: inc/admin/welcome-screen/sections/getting-started.php:40
-msgid "Create a color scheme"
-msgstr "Cre&euml;er een kleurenschema"
-
-#: inc/admin/welcome-screen/sections/getting-started.php:41
-msgid ""
-"Using the WordPress Customizer you can tweak Storefront's appearance to "
-"match your brand."
-msgstr ""
-"Met de WordPress Customizer kun je Storefronts uiterlijk aanpassen aan jouw "
-"eigen huisstijl."
-
-#: inc/admin/welcome-screen/sections/getting-started.php:42
-msgid "Open the Customizer"
-msgstr "Open de Customizer"
-
-#: inc/admin/welcome-screen/sections/getting-started.php:46
-msgid "Add your logo"
-msgstr "Voeg logo toe"
-
-#: inc/admin/welcome-screen/sections/getting-started.php:47
-msgid ""
-"Install and activate %sJetpack%s to enable a custom logo option in the "
-"Customizer."
-msgstr ""
-"Installeer en activeer %sJetpack%s om een aangepast logo te plaatsen in de "
-"Customizer."
-
-#: inc/admin/welcome-screen/sections/getting-started.php:52
-msgid "Install Jetpack"
-msgstr "Installeer Jetpack"
-
-#: inc/admin/welcome-screen/sections/getting-started.php:57
-msgid "Configure homepage template"
-msgstr "Configureer homepage-template"
-
-#: inc/admin/welcome-screen/sections/getting-started.php:58
-msgid ""
-"Storefront includes a homepage template that displays a selection of "
-"products from your store."
-msgstr ""
-"Storefront bevat een homepage-template dat een selectie van producten van je "
-"winkel toont."
-
-#: inc/admin/welcome-screen/sections/getting-started.php:59
-msgid ""
-"To set this up you will need to create a new page and assign the \"Homepage"
-"\" template to it. You can then set that as a static homepage in the "
-"%sReading%s settings."
-msgstr ""
-"Om dit in te stellen moet je een nieuwe pagina aanmaken en er de \"Homepage"
-"\"-template aan toewijzen. Je kunt deze daarna instellen als statische "
-"homepage in de %sLezen%s instellingen."
-
-#: inc/admin/welcome-screen/sections/getting-started.php:60
-msgid ""
-"Once set up you can toggle and re-order the homepage components using the "
-"%sHomepage Control%s plugin."
-msgstr ""
-"Zodra geïnstalleerd kun je de homepage-componenten aan- en uitzetten en "
-"indelen met de %sHomepage Control%s plugin."
-
-#: inc/admin/welcome-screen/sections/getting-started.php:65
-msgid "Install Homepage Control"
-msgstr "Installeer Homepage Control"
-
-#: inc/admin/welcome-screen/sections/getting-started.php:70
-msgid "View documentation"
-msgstr "Bekijk documentatie"
-
-#: inc/admin/welcome-screen/sections/getting-started.php:71
-msgid ""
-"You can read detailed information on Storefronts features and how to develop "
-"on top of it in the documentation."
-msgstr ""
-"Je kunt gedetailleerde informatie over Storefronts mogelijkheden en hoe je "
-"deze kunt doorontwikkelen vinden in de documentatie."
-
-#: inc/admin/welcome-screen/sections/getting-started.php:72
-msgid "View documentation &rarr;"
-msgstr "Bekijk documentatie &rarr;"
-
-#: inc/admin/welcome-screen/sections/getting-started.php:76
+#: inc/admin/welcome-screen/sections/enhance.php:35
 msgid "Install free plugins"
 msgstr "Installeer vrije/gratis plugins"
 
-#: inc/admin/welcome-screen/sections/getting-started.php:77
+#: inc/admin/welcome-screen/sections/enhance.php:37
 msgid ""
-"There are a number of free plugins available for Storefront on the wordpress."
-"org plugin repository."
+"There are a number of free plugins available for %s on the WordPress.org "
+"%splugin repository%s. Here are just a few:"
 msgstr ""
-"Er is een aantal gratis/vrije plugins beschikbaar voor Storefront op de "
-"wordpress.org plugin-pagina."
+"Er is een aantal gratis/vrije plugins beschikbaar voor %s op de WordPress."
+"org %splugin-pagina%s. Hier zijn er een paar:"
 
-#: inc/admin/welcome-screen/sections/getting-started.php:80
-msgid "Storefront Product Sharing"
-msgstr "Storefront Product Sharing"
+#: inc/admin/welcome-screen/sections/enhance.php:49
+msgid "Child themes"
+msgstr "Child-thema's"
 
-#: inc/admin/welcome-screen/sections/getting-started.php:83
-msgid "Storefront Product Pagination"
-msgstr "Storefront Product Pagination"
+#: inc/admin/welcome-screen/sections/enhance.php:50
+msgid ""
+"Take a look at our range of child themes for %s that allow you to easily "
+"change the look of your store to suit a specific industry."
+msgstr ""
+"Kijk eens rond bij onze selectie van child-thema's voor %s. Deze maken het "
+"eenvoudig om het uiterlijk van je webshop aan te passen aan een bepaalde "
+"doelgroep."
 
-#: inc/admin/welcome-screen/sections/getting-started.php:86
-msgid "Storefront Footer Bar"
-msgstr "Storefront Footer Bar"
+#: inc/admin/welcome-screen/sections/enhance.php:54
+#: inc/admin/welcome-screen/sections/enhance.php:61
+msgid "Proshop Child Theme"
+msgstr "Proshop Child-thema"
+
+#: inc/admin/welcome-screen/sections/enhance.php:68
+msgid "Galleria Child Theme"
+msgstr "Galleria Child-thema"
+
+#: inc/admin/welcome-screen/sections/enhance.php:75
+msgid "Boutique Child Theme"
+msgstr "Boutique Child-thema"
+
+#: inc/admin/welcome-screen/sections/enhance.php:76
+msgid "Free!"
+msgstr "Gratis!"
+
+#: inc/admin/welcome-screen/sections/enhance.php:82
+msgid "View all %s child themes &rarr;"
+msgstr "Bekijk alle %s child thema's &rarr;"
 
 #: inc/admin/welcome-screen/sections/intro.php:14
 msgid ""
-"Awesome! You've decided to use Storefront to enrich your WooCommerce store "
-"design."
+"%sEnjoying %s?%s Why not %sleave a review%s on WordPress.org? We'd really "
+"appreciate it!"
 msgstr ""
-"Geweldig! Je koos ervoor om Storefront te gebruiken om je WooCommerce "
-"winkelontwerp te verrijken."
+"%sPlezier van %s?%s Waarom zou je geen %sreview achterlaten%s op WordPress."
+"org? We zullen het zeker waarderen."
 
-#: inc/admin/welcome-screen/sections/intro.php:15
+#: inc/admin/welcome-screen/sections/intro.php:18
+msgid "Built to enrich your %s store"
+msgstr "Gemaakt om je %s webshop te verbeteren"
+
+#: inc/admin/welcome-screen/sections/intro.php:20
 msgid ""
-"Whether you're a store owner, WordPress developer, or both - we hope you "
-"enjoy Storefront's deep integration with WooCommerce core (including several "
-"popular WooCommerce extensions), plus the flexible design and extensible "
-"codebase that this theme provides."
+"Although %s works fine as a regular WordPress theme, it really shines when "
+"used for an online store. Install %s and start selling now."
 msgstr ""
-"Of je nu een winkeleigenaar, WordPress developer of beide bent - we hopen "
-"dat je Storefront kunt waarderen met z'n diepe integratie met WooCommerce "
-"(inclusief verschillende populaire WooCommerce extensies), plus de flexibele "
-"opzet van het design en de uitbreidbare codebasis dat geboden wordt door dit "
-"thema."
+"Hoewel %s het prima doet als standaard WordPress thema, komt het pas echt "
+"tot zijn recht in een online winkel. Installeer %s en start met verkopen."
 
-#: inc/admin/welcome-screen/sections/who.php:10
-msgid ""
-"Looking for more Storefront goodies? Take a look at the extensions available "
-"at woothemes.com. %sGo shopping &rarr;%s"
-msgstr ""
-"Op zoek naar meer goodies voor Storefront? Kijk eens bij de extensies die "
-"beschikbaar zijn op woothemes.com. %sGa shoppen &rarr;%s"
+#: inc/admin/welcome-screen/sections/intro.php:23
+msgid "%s is activated"
+msgstr "%s is geactiveerd"
 
-#: inc/admin/welcome-screen/sections/who.php:14
-msgid "The Woo Team"
-msgstr "Het Woo-team"
+#: inc/admin/welcome-screen/sections/intro.php:25
+msgid "Install %s"
+msgstr "Installeer %"
 
-#: inc/admin/welcome-screen/sections/who.php:15
-msgid "Who are WooThemes?"
-msgstr "Wie zijn WooThemes?"
+#: inc/admin/welcome-screen/sections/intro.php:30
+msgid "Latest %s news"
+msgstr "Laatste %s nieuws"
 
-#: inc/admin/welcome-screen/sections/who.php:16
-msgid ""
-"WooCommerce creators WooThemes is an international team of WordPress "
-"superstars building products for a passionate community of hundreds of "
-"thousands of users."
-msgstr ""
-"De makers van WooCommerce, WooThemes, is een internationaal team van "
-"WordPress zwaargewichten die producten maken voor een gedreven community met "
-"honderdduizenden gebruikers."
+#: inc/admin/welcome-screen/sections/intro.php:33
+msgid "Recent News"
+msgstr "Recent Nieuws"
 
-#: inc/admin/welcome-screen/sections/who.php:17
-msgid "Visit WooThemes"
-msgstr "Bezoek WooThemes"
+#: inc/admin/welcome-screen/sections/intro.php:53
+msgid "Featured Docs"
+msgstr "Aanbevolen Documentatie"
 
-#: inc/admin/welcome-screen/sections/who.php:23
-msgid "WooCommerce logo"
-msgstr "WooCommerce-logo"
+#: inc/admin/welcome-screen/sections/intro.php:55
+msgid "Installation &amp; configuration"
+msgstr "Installatie &amp; configuratie"
 
-#: inc/admin/welcome-screen/sections/who.php:24
-msgid "What is WooCommerce?"
-msgstr "Wat is WooCommerce?"
+#: inc/admin/welcome-screen/sections/intro.php:56
+msgid "FAQ"
+msgstr "FAQ"
 
-#: inc/admin/welcome-screen/sections/who.php:25
-msgid ""
-"WooCommerce is the most popular WordPress eCommerce plugin. Packed full of "
-"intuitive features and surrounded by a thriving community - it's the perfect "
-"solution for building an online store with WordPress."
-msgstr ""
-"WooCommerce is de meest populaire WordPress eCommerce plugin. Volgepakt met "
-"intuïtieve eigenschappen en omgeven door een gedreven community is het de "
-"beste optie om een online winkel te beginnen met WordPress."
+#: inc/admin/welcome-screen/sections/intro.php:57
+msgid "Customizer settings"
+msgstr "Customizer instellingen"
 
-#: inc/admin/welcome-screen/sections/who.php:26
-msgid "Download & Install WooCommerce"
-msgstr "Download & Installeer WooCommerce"
-
-#: inc/admin/welcome-screen/sections/who.php:27
-msgid "View WooCommerce Documentation"
-msgstr "Bekijk WooCommerce Documentatie"
-
-#: inc/admin/welcome-screen/sections/who.php:33
-msgid "Can I contribute to Storefront?"
-msgstr "Kan ik bijdragen aan Storefront?"
-
-#: inc/admin/welcome-screen/sections/who.php:34
-msgid "Can I Contribute?"
-msgstr "Kan ik bijdragen?"
-
-#: inc/admin/welcome-screen/sections/who.php:35
-msgid ""
-"Found a bug? Want to contribute a patch or create a new feature? GitHub is "
-"the place to go! Or would you like to translate Storefront in to your "
-"language? Get involved at Transifex."
-msgstr ""
-"Bug gevonden? Bijdragen aan een patch of een nieuwe functie creëren? GitHub "
-"is de juiste plaats! Of wil je Storefront in jouw taal vertalen? Dat kan bij "
-"Transifex."
-
-#: inc/admin/welcome-screen/sections/who.php:36
-msgid "Storefront at GitHub"
-msgstr "Storefront bij GitHub"
-
-#: inc/admin/welcome-screen/sections/who.php:36
-msgid "Storefront at Transifex"
-msgstr "Storefront bij Transifex"
-
-#: inc/admin/welcome-screen/sections/who.php:40
-msgid "Can't find a feature?"
-msgstr "Kun je een functie niet vinden?"
-
-#: inc/admin/welcome-screen/sections/who.php:41
-msgid ""
-"Please suggest and vote on ideas / feature requests at the %sStorefront "
-"Ideasboard%s. The most popular ideas will see prioritised development."
-msgstr ""
-"Stel nieuwe mogelijkheden voor, en stem op voorstellen van anderen op de "
-"%sStorefront Ideasboard%s. De populairste ideeën worden met voorrang "
-"ontwikkeld."
-
-#: inc/admin/welcome-screen/sections/who.php:43
-msgid "Are you enjoying Storefront?"
-msgstr "Heb je plezier van Storefront?"
-
-#: inc/admin/welcome-screen/sections/who.php:44
-msgid ""
-"Why not leave a review on %sWordPress.org%s? We'd really appreciate it! :-)"
-msgstr ""
-"Waarom zou je geen review achterlaten op %sWordPress.org%s? We zullen het "
-"zeker waarderen. :-)"
-
-#: inc/admin/welcome-screen/welcome-screen.php:46
+#: inc/admin/welcome-screen/welcome-screen.php:44
 msgid ""
 "Thanks for choosing Storefront! You can read hints and tips on how get the "
 "most out of your new theme on the %swelcome screen%s."
@@ -623,23 +237,21 @@ msgstr ""
 "Bedankt om te kiezen voor Storefront! Je vindt aanwijzingen en tips, over "
 "hoe je het meeste uit je nieuwe thema haalt, op het %swelcome screen%s."
 
-#: inc/admin/welcome-screen/welcome-screen.php:47
+#: inc/admin/welcome-screen/welcome-screen.php:45
 msgid "Get started with Storefront"
 msgstr "Starten met Storefront"
 
 #: inc/customizer/controls/more.php:16
 msgid ""
-"There's a range of Storefront extensions available to put additional power "
-"in your hands. Check out the %sStorefront%s page in your dashboard for more "
-"information."
+"There's a range of %s extensions available to put additional power in your "
+"hands. Check out the %s%s%s page in your dashboard for more information."
 msgstr ""
-"Er is een verzameling Storefront-uitbreidingen beschikbaar om nog meer "
-"mogelijk te maken. Check de %sStorefront%s pagina in je dashboard voor meer "
-"informatie."
+"Er is een verzameling %s-uitbreidingen beschikbaar om nog meer mogelijk te "
+"maken. Check de %s%s%s-pagina in je dashboard voor meer informatie."
 
 #: inc/customizer/controls/more.php:20
-msgid "Enjoying Storefront?"
-msgstr "Heb je plezier van Storefront?"
+msgid "Enjoying %s?"
+msgstr "Heb je plezier van %s?"
 
 #: inc/customizer/controls/more.php:23
 msgid ""
@@ -932,6 +544,370 @@ msgstr "Gepost op %s"
 msgctxt "post author"
 msgid "by %s"
 msgstr "door %s"
+
+#~ msgid ""
+#~ "Below you will find a selection of Storefront extensions that could help "
+#~ "improve your online store."
+#~ msgstr ""
+#~ "Hieronder vind je een selectie van Storefront-extensies die je kunnen "
+#~ "helpen je webshop te verbeteren."
+
+#~ msgid ""
+#~ "Refine your shop archives and product pages with the Storefront "
+#~ "WooCommerce Customiser"
+#~ msgstr ""
+#~ "Verfijn je winkelarchief en productpagina's met de Storefront WooCommerce "
+#~ "Customiser"
+
+#~ msgid ""
+#~ "The Storefront WooCommerce Customiser extension gives you further control "
+#~ "over the look and feel of your shop. Change the product archive and "
+#~ "single layouts, toggle various shop components and more."
+#~ msgstr ""
+#~ "De Storefront WooCommerce Customiser extensie biedt je diepere controle "
+#~ "over de look & feel van je shop. Wijzig de layout van je productarchief & "
+#~ "productdetails, zet verschillende winkelcomponenten aan/uit, en meer."
+
+#~ msgid "Buy %sStorefront WooCommerce Customiser%s now"
+#~ msgstr "Koop %sStorefront WooCommerce Customiser%s nu"
+
+#~ msgid ""
+#~ "Highlight a product of your choosing with the Storefront Product Hero"
+#~ msgstr ""
+#~ "Zet een product naar keuze in de kijker met de Storefront Product Hero"
+
+#~ msgid ""
+#~ "The Storefront Product Hero extension adds a parallax hero component to "
+#~ "your homepage highlighting a specific product at your store. Use the "
+#~ "shortcode to add attractive hero components to posts, pages or widgets."
+#~ msgstr ""
+#~ "De Storefront Product Hero extensie voegt een parallax hero component toe "
+#~ "aan je homepage, die een specifiek product op je webstore in de kijker "
+#~ "zet. Gebruik de shortcode om mooie hero componenten toe te voegen aan "
+#~ "berichten, pagina's of widgets."
+
+#~ msgid "Buy %sStorefront Product Hero%s now"
+#~ msgstr "Koop %sStorefront Product Hero%s nu"
+
+#~ msgid "Further customise your store with the Storefront Designer"
+#~ msgstr "Pas je webwinkel verder aan met de Storefront Designer"
+
+#~ msgid ""
+#~ "Storefront Designer adds a bunch of additional appearance settings "
+#~ "allowing you to further tweak and perfect your Storefront design by "
+#~ "changing the header layout, button styles, typographical schemes/scales "
+#~ "and more."
+#~ msgstr ""
+#~ "Storefront Designer stelt een reeks extra visualisatie-instellingen "
+#~ "beschikbaar, die je toelaten om je Storefront-design verder te tweaken en "
+#~ "te perfectioneren door onder meer de layout van de kopjes, knoppen, "
+#~ "lettertypes en -groottes aan te passen."
+
+#~ msgid "Buy %sStorefront Designer%s now"
+#~ msgstr "Koop %sStorefront Designer%s nu"
+
+#~ msgid ""
+#~ "Optimize the checkout page at your store with the Storefront Checkout "
+#~ "Customiser"
+#~ msgstr "Pas je afrekenpagina aan met de Storefront Checkout Customiser"
+
+#~ msgid ""
+#~ "The checkout is arguably the most crucial page at your store to get "
+#~ "right. The Storefront Checkout Customiser allows you to tweak the "
+#~ "checkout by choosing a different layout and removing distractions to find "
+#~ "out what works best at your store. Try different combinations of settings "
+#~ "to A/B test and improve conversions."
+#~ msgstr ""
+#~ "De afrekenpagina is de meest belangrijke pagina in je winkel om goed te "
+#~ "krijgen. De Storefront Checkout Customiser maakt het mogelijk om het "
+#~ "afrekenen in te stellen door het kiezen van een andere layout en het "
+#~ "weghalen van afleidingen om zo uit te vinden wat het beste werkt in je "
+#~ "winkel. Probeer verschillende combinaties van instellingen voor A/B-"
+#~ "testen en verbeter je conversie."
+
+#~ msgid "Buy %sStorefront Reviews%s now"
+#~ msgstr "Koop %sStorefront Reviews%s nu"
+
+#~ msgid ""
+#~ "Highlight favourable reviews throughout your store with Storefront Reviews"
+#~ msgstr "Toon positieve reviews door je hele winkel met Storefront Reviews"
+
+#~ msgid ""
+#~ "Reading a positive review can be what converts a visitor into a customer. "
+#~ "The Storefront Reviews extension allows you to highlight positive reviews "
+#~ "across your site to showcase your most popular products."
+#~ msgstr ""
+#~ "Het lezen van een positieve review kan precies zijn wat een bezoeker "
+#~ "converteert in een klant. De Storefront Reviews extensie maakt het "
+#~ "mogelijk om positieve reviews te tonen door je hele site om zo een "
+#~ "showcase te maken van de meest populaire producten."
+
+#~ msgid "Get a whole new look"
+#~ msgstr "Maak een heel nieuw uiterlijk"
+
+#~ msgid ""
+#~ "Below you will find a selection of Storefront child themes that will "
+#~ "instantly transform the look and feel of your Storefront shop."
+#~ msgstr ""
+#~ "Hieronder vind je een selectie van Storefront child-thema's die de look & "
+#~ "feel van je Storefront webshop transformeren."
+
+#~ msgid "Proshop"
+#~ msgstr "Proshop"
+
+#~ msgid ""
+#~ "Unlock the true potential of your sports clothing and equipment store "
+#~ "with ProShop! It's metropolitan design provides an active aesthetic "
+#~ "giving your store oodles of character."
+#~ msgstr ""
+#~ "Gebruik het volledige potentieel van je winkel in sportkleding en "
+#~ "sportmateriaal met Proshop! Het metromoderne design biedt een "
+#~ "aantrekkelijke stijl wat je winkel bergen karakter geeft."
+
+#~ msgid "Buy %s now"
+#~ msgstr "Koop %s nu"
+
+#~ msgid "Galleria"
+#~ msgstr "Galleria"
+
+#~ msgid ""
+#~ "Galleria is a Storefront child theme perfect for fashion and design "
+#~ "stores. Stylish and minimalist, it gives sites a high class look and "
+#~ "keeps products centerstage."
+#~ msgstr ""
+#~ "Galleria is een Storefront child-thema dat perfect is voor fashion- en "
+#~ "designwinkels. Stijlvol en minimalistisch, geeft het een high class "
+#~ "uiterlijk terwijl de producten centraal staan."
+
+#~ msgid "Boutique"
+#~ msgstr "Boutique"
+
+#~ msgid ""
+#~ "Boutique is a simple, traditionally designed Storefront child theme, "
+#~ "ideal for small stores or boutiques. Add your logo, create a unique color "
+#~ "scheme and start selling!"
+#~ msgstr ""
+#~ "Boutique is een simpel, traditioneel ontworpen Storefront child-thema, "
+#~ "ideaal voor kleine winkels en boetiekjes. Voeg je logo toe en maak een "
+#~ "uniek kleurenschema en start met verkopen."
+
+#~ msgid "Read more %sabout Boutique%s &rarr;"
+#~ msgstr "Lees meer %sover Boutique%s &rarr;"
+
+#~ msgid "Deli"
+#~ msgstr "Deli"
+
+#~ msgid ""
+#~ "Deli features a texturised, earthy design, perfect for stores selling "
+#~ "natural, organic or hand made goods."
+#~ msgstr ""
+#~ "Deli bevat een natuurlijk design met patronen, perfect voor shops die "
+#~ "natuurlijke, biologische of handgemaakte producten verkopen."
+
+#~ msgid "Read more %sabout Deli%s &rarr;"
+#~ msgstr "Lees meer %sover Deli%s &rarr;"
+
+#~ msgid "Using Storefront"
+#~ msgstr "Gebruiken van Storefront"
+
+#~ msgid ""
+#~ "We've purposely kept Storefront lean & mean so configuration is a breeze. "
+#~ "Here are some optional theme-setup tasks:"
+#~ msgstr ""
+#~ "We hebben Storefront met opzet simpel en licht gehouden zodat het "
+#~ "instellen gemakkelijk gaat. Hier zijn wat optionele stappen om het thema "
+#~ "in te stellen:"
+
+#~ msgid "Install WooCommerce"
+#~ msgstr "Installeer WooCommerce"
+
+#~ msgid "Configure menu locations"
+#~ msgstr "Configureer menulocaties"
+
+#~ msgid ""
+#~ "Storefront includes three menu locations for primary, secondary and "
+#~ "handheld navigation. "
+#~ msgstr ""
+#~ "Storefront bevat drie menulocaties voor primaire, secundaire en mobiele "
+#~ "navigatie. "
+
+#~ msgid ""
+#~ "The primary navigation is perfect for your key pages like the shop and "
+#~ "product categories. "
+#~ msgstr ""
+#~ "De primaire navigatie is perfect voor je belangrijkste pagina's zoals de "
+#~ "winkel en de productcategorieën. "
+
+#~ msgid ""
+#~ "The secondary navigation is better suited to lower traffic pages such as "
+#~ "terms and conditions."
+#~ msgstr ""
+#~ "De secundaire navigatie is meer geschikt voor pagina's die minder bezocht "
+#~ "worden zoals de algemene voorwaarden."
+
+#~ msgid ""
+#~ "The handheld navigation gives you complete control over what menu items "
+#~ "to serve to handheld devices."
+#~ msgstr ""
+#~ "De mobiele navigatie geeft je volledige controle over welke menu-items op "
+#~ "mobiele apparaten getoond moeten worden."
+
+#~ msgid "Configure menus"
+#~ msgstr "Configureer menus"
+
+#~ msgid "Create a color scheme"
+#~ msgstr "Cre&euml;er een kleurenschema"
+
+#~ msgid ""
+#~ "Using the WordPress Customizer you can tweak Storefront's appearance to "
+#~ "match your brand."
+#~ msgstr ""
+#~ "Met de WordPress Customizer kun je Storefronts uiterlijk aanpassen aan "
+#~ "jouw eigen huisstijl."
+
+#~ msgid "Open the Customizer"
+#~ msgstr "Open de Customizer"
+
+#~ msgid "Add your logo"
+#~ msgstr "Voeg logo toe"
+
+#~ msgid ""
+#~ "Install and activate %sJetpack%s to enable a custom logo option in the "
+#~ "Customizer."
+#~ msgstr ""
+#~ "Installeer en activeer %sJetpack%s om een aangepast logo te plaatsen in "
+#~ "de Customizer."
+
+#~ msgid "Install Jetpack"
+#~ msgstr "Installeer Jetpack"
+
+#~ msgid "Configure homepage template"
+#~ msgstr "Configureer homepage-template"
+
+#~ msgid ""
+#~ "Storefront includes a homepage template that displays a selection of "
+#~ "products from your store."
+#~ msgstr ""
+#~ "Storefront bevat een homepage-template dat een selectie van producten van "
+#~ "je winkel toont."
+
+#~ msgid ""
+#~ "To set this up you will need to create a new page and assign the "
+#~ "\"Homepage\" template to it. You can then set that as a static homepage "
+#~ "in the %sReading%s settings."
+#~ msgstr ""
+#~ "Om dit in te stellen moet je een nieuwe pagina aanmaken en er de "
+#~ "\"Homepage\"-template aan toewijzen. Je kunt deze daarna instellen als "
+#~ "statische homepage in de %sLezen%s instellingen."
+
+#~ msgid ""
+#~ "Once set up you can toggle and re-order the homepage components using the "
+#~ "%sHomepage Control%s plugin."
+#~ msgstr ""
+#~ "Zodra geïnstalleerd kun je de homepage-componenten aan- en uitzetten en "
+#~ "indelen met de %sHomepage Control%s plugin."
+
+#~ msgid "Install Homepage Control"
+#~ msgstr "Installeer Homepage Control"
+
+#~ msgid "View documentation"
+#~ msgstr "Bekijk documentatie"
+
+#~ msgid ""
+#~ "You can read detailed information on Storefronts features and how to "
+#~ "develop on top of it in the documentation."
+#~ msgstr ""
+#~ "Je kunt gedetailleerde informatie over Storefronts mogelijkheden en hoe "
+#~ "je deze kunt doorontwikkelen vinden in de documentatie."
+
+#~ msgid "Storefront Product Sharing"
+#~ msgstr "Storefront Product Sharing"
+
+#~ msgid "Storefront Product Pagination"
+#~ msgstr "Storefront Product Pagination"
+
+#~ msgid "Storefront Footer Bar"
+#~ msgstr "Storefront Footer Bar"
+
+#~ msgid ""
+#~ "Awesome! You've decided to use Storefront to enrich your WooCommerce "
+#~ "store design."
+#~ msgstr ""
+#~ "Geweldig! Je koos ervoor om Storefront te gebruiken om je WooCommerce "
+#~ "winkelontwerp te verrijken."
+
+#~ msgid ""
+#~ "Whether you're a store owner, WordPress developer, or both - we hope you "
+#~ "enjoy Storefront's deep integration with WooCommerce core (including "
+#~ "several popular WooCommerce extensions), plus the flexible design and "
+#~ "extensible codebase that this theme provides."
+#~ msgstr ""
+#~ "Of je nu een winkeleigenaar, WordPress developer of beide bent - we hopen "
+#~ "dat je Storefront kunt waarderen met z'n diepe integratie met WooCommerce "
+#~ "(inclusief verschillende populaire WooCommerce extensies), plus de "
+#~ "flexibele opzet van het design en de uitbreidbare codebasis dat geboden "
+#~ "wordt door dit thema."
+
+#~ msgid ""
+#~ "Looking for more Storefront goodies? Take a look at the extensions "
+#~ "available at woothemes.com. %sGo shopping &rarr;%s"
+#~ msgstr ""
+#~ "Op zoek naar meer goodies voor Storefront? Kijk eens bij de extensies die "
+#~ "beschikbaar zijn op woothemes.com. %sGa shoppen &rarr;%s"
+
+#~ msgid "The Woo Team"
+#~ msgstr "Het Woo-team"
+
+#~ msgid "Who are WooThemes?"
+#~ msgstr "Wie zijn WooThemes?"
+
+#~ msgid ""
+#~ "WooCommerce creators WooThemes is an international team of WordPress "
+#~ "superstars building products for a passionate community of hundreds of "
+#~ "thousands of users."
+#~ msgstr ""
+#~ "De makers van WooCommerce, WooThemes, is een internationaal team van "
+#~ "WordPress zwaargewichten die producten maken voor een gedreven community "
+#~ "met honderdduizenden gebruikers."
+
+#~ msgid "Visit WooThemes"
+#~ msgstr "Bezoek WooThemes"
+
+#~ msgid "WooCommerce logo"
+#~ msgstr "WooCommerce-logo"
+
+#~ msgid "What is WooCommerce?"
+#~ msgstr "Wat is WooCommerce?"
+
+#~ msgid ""
+#~ "WooCommerce is the most popular WordPress eCommerce plugin. Packed full "
+#~ "of intuitive features and surrounded by a thriving community - it's the "
+#~ "perfect solution for building an online store with WordPress."
+#~ msgstr ""
+#~ "WooCommerce is de meest populaire WordPress eCommerce plugin. Volgepakt "
+#~ "met intuïtieve eigenschappen en omgeven door een gedreven community is "
+#~ "het de beste optie om een online winkel te beginnen met WordPress."
+
+#~ msgid "Download & Install WooCommerce"
+#~ msgstr "Download & Installeer WooCommerce"
+
+#~ msgid "View WooCommerce Documentation"
+#~ msgstr "Bekijk WooCommerce Documentatie"
+
+#~ msgid "Can I Contribute?"
+#~ msgstr "Kan ik bijdragen?"
+
+#~ msgid "Storefront at GitHub"
+#~ msgstr "Storefront bij GitHub"
+
+#~ msgid "Storefront at Transifex"
+#~ msgstr "Storefront bij Transifex"
+
+#~ msgid "Can't find a feature?"
+#~ msgstr "Kun je een functie niet vinden?"
+
+#~ msgid "Are you enjoying Storefront?"
+#~ msgstr "Heb je plezier van Storefront?"
 
 #~ msgid "Most Used Categories"
 #~ msgstr "Meest Gebruikte Categorieën"

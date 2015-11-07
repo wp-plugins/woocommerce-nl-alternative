@@ -3,14 +3,14 @@ Contributors: mpol
 Tags: woocommerce, translation, dutch, nl, nl_NL, webshop, ecommerce, e-commerce, commerce, woothemes, nederlands, webwinkel
 Requires at least: 3.7
 Tested up to: 4.4
-Stable tag: 2.4.8
+Stable tag: 2.4.8.1
 
 This WordPress plugin extends the WooCommerce plugin with the Dutch translation. It uses the informal 'je' instead of formal u.
 
 == Description ==
 
 * Supports <a href="http://wordpress.org/extend/plugins/woocommerce/">WooCommerce</a> Version 2.4.8.
-* Supports <a href="https://wordpress.org/themes/storefront/">Storefront</a> Version 1.5.1.
+* Supports <a href="https://wordpress.org/themes/storefront/">Storefront</a> Version 1.5.3.
 
 > This plugin requires the <a href="http://wordpress.org/extend/plugins/woocommerce/">WooCommerce plugin</a>.
 
@@ -31,6 +31,10 @@ If you activated and did setup WooCommerce without this translation activated, y
 the title of those pages yourself manually.
 
 == Changelog ==
+
+= 2.4.8.1 =
+* 2015-11-07
+* Storefront 1.5.3.
 
 = 2.4.8 =
 * 2015-10-26
