@@ -9,7 +9,7 @@ This WordPress plugin extends the WooCommerce plugin with the Dutch translation.
 
 == Description ==
 
-* Supports <a href="http://wordpress.org/extend/plugins/woocommerce/">WooCommerce</a> Version 2.4.10.
+* Supports <a href="http://wordpress.org/extend/plugins/woocommerce/">WooCommerce</a> Version 2.4.11.
 * Supports <a href="https://wordpress.org/themes/storefront/">Storefront</a> Version 1.5.3.
 
 > This plugin requires the <a href="http://wordpress.org/extend/plugins/woocommerce/">WooCommerce plugin</a>.
@@ -31,6 +31,10 @@ If you activated and did setup WooCommerce without this translation activated, y
 the title of those pages yourself manually.
 
 == Changelog ==
+
+= 2.4.11 =
+* 2015-12-08
+* Woo 2.4.11 (no real update).
 
 = 2.4.10 =
 * 2015-11-11
