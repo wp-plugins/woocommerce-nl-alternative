@@ -1,6 +1,6 @@
 === WooCommerce (nl) (alternative) ===
 Contributors: mpol
-Tags: woocommerce, translation, dutch, nl, nl_NL, webshop, ecommerce, e-commerce, commerce, woothemes, nederlands, webwinkel
+Tags: woocommerce, translation, dutch, nl, nl_NL, webshop, ecommerce, e-commerce, commerce, woothemes, nederlands, webwinkel, formal, informal, vertaling, language, locale
 Requires at least: 3.7
 Tested up to: 4.4
 Stable tag: 2.4.11
